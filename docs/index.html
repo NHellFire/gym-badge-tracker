@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Cambridgeshire Pokemon GO Gyms</title>
+    <link rel="stylesheet" href="assets/css/style.css"/>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.css"
+          integrity="sha256-iYUgmrapfDGvBrePJPrMWQZDcObdAcStKBpjP3Az+3s=" crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css"
+          integrity="sha384-VK/ia2DWrvtO05YDcbWI8WE3WciOH0RhfPNuRJGSa3dpAs5szXWQuCnPNv/yzpO4" crossorigin="anonymous">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js"
+            integrity="sha256-CNm+7c26DTTCGRQkM9vp7aP85kHFMqs9MhPEuytF+fQ=" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"
+            integrity="sha384-PtTRqvDhycIBU6x1wwIqnbDo8adeWIWP3AHmnrvccafo35E7oIvW7HPXn2YimvWu" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"
+            integrity="sha384-JDmRxRiXkNkskRM5AD4qHRGk9ItwZ9flbqOpsRYs8SOrIRwcMtTGKP2Scnjptzgm" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.3.0/leaflet.markercluster.js"
+            integrity="sha384-1artbd0pdGdZ72+IcKWkY1So1xu4Hzygfd0cVLSs7f5lBZZ/FhyEZc4UyQR3DT9c" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.3.0/MarkerCluster.css"
+          integrity="sha384-lPzjPsFQL6te2x+VxmV6q1DpRxpRk0tmnl2cpwAO5y04ESyc752tnEWPKDfl1olr" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.3.0/MarkerCluster.Default.css"
+          integrity="sha256-LWhzWaQGZRsWFrrJxg+6Zn8TT84k0/trtiHBc6qcGpY=" crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="assets/css/leaflet.groupedlayercontrol.min.css" />
+
+    <script src="assets/js/leaflet.groupedlayercontrol.min.js"></script>
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+
+    <script src="assets/js/map.js"></script>
+</head>
+<body>
+<div id="tabs" class="header">
+    <ul>
+        <li><a href="#tabs-map">Map</a></li>
+        <li><a href="#tabs-gyms">Gyms</a></li>
+        <li class="tab-right"><a href="#tabs-about">About</a></li>
+        <li class="tab-right" id="tab-export"><a href="#" id="export">Export</a></li>
+        <li class="tab-right" id="tab-import"><a href="#" id="import">Import</a></li>
+    </ul>
+    <div id="tabs-map">
+        <div id="map"></div>
+    </div>
+
+    <div id="tabs-gyms">
+        <table class="badge-summary">
+            <tbody>
+            <tr>
+            <td><div class="badge badge-basic"></div></td>
+            <td><div class="badge badge-bronze"></div></td>
+            <td><div class="badge badge-silver"></div></td>
+            <td><div class="badge badge-gold"></div></td>
+            </tr>
+            <tr>
+                <td class="summary-basic"></td>
+                <td class="summary-bronze"></td>
+                <td class="summary-silver"></td>
+                <td class="summary-gold"></td>
+                <td class="summary-divider">/</td>
+                <td class="summary-total"></td>
+            </tr>
+            </tbody>
+        </table>
+        <div id="gyms-list">
+            <input class="search" placeholder="Search" title="Tip: You can search by name, level, locality, or district"/>
+            <table>
+                <thead>
+                <tr>
+                    <th class="sort" data-sort="name">Gym Name</th>
+                    <th class="sort" data-sort="levelInt">Badge Level</th>
+                    <th class="sort" data-sort="locality">Locality</th>
+                    <th class="sort" data-sort="district">District</th>
+                </tr>
+                </thead>
+                <tbody class="list">
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="tabs-about">
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+        <h3>Additional Open Source licenses</h3>
+
+
+        <h4>Locality boundaries</h4>
+        Contains public sector information licensed under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open Government Licence v3.0.</a><br>
+        Extracted from <a href="https://data.gov.uk/dataset/local-authority-districts-december-2016-full-clipped-boundaries-in-great-britain2">Local Authority Districts (December 2016)</a> and <a href="https://data.gov.uk/dataset/parishes-and-non-civil-parished-areas-december-2016-full-extent-boundaries-in-england-and-wales">Parishes and Non Civil Parished Areas (December 2016)</a><br>
+
+    </div>
+</div>
+
+<div id="dialog-export" title="Export Badges">
+    Copy this URL to transfer your badges to another browser:
+    <textarea id="export-data" readonly="readonly" onclick="this.select();" rows="6" cols="40"></textarea>
+</div>
+<div id="dialog-import" title="Export Badges">
+    If you have a URL from this badge tracker or <a href="https://popcornmix.github.io/gymtracker">this Cambridge</a> one,
+    paste it here to import
+    <textarea id="import-data" rows="6" cols="40"></textarea>
+</div>
+</body>
+</html>

@@ -1,0 +1,4087 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.132501,
+                    52.166531
+                ]
+            },
+            "properties": {
+                "name": "DNA Path Sculpture",
+                "locality": "Great Shelford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107272,
+                    52.16786
+                ]
+            },
+            "properties": {
+                "name": "Oak Information Sculpture",
+                "locality": "Haslingfield",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.104121,
+                    52.171699
+                ]
+            },
+            "properties": {
+                "name": "Trumpington Meadows Trail Marker 1",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.115321,
+                    52.172806
+                ]
+            },
+            "properties": {
+                "name": "Trumpington Pavillion",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.102155,
+                    52.172995
+                ]
+            },
+            "properties": {
+                "name": "Byron's Pool",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.139554,
+                    52.1735
+                ]
+            },
+            "properties": {
+                "name": "Sculpture at Rosie Hospital ",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.10867,
+                    52.17387
+                ]
+            },
+            "properties": {
+                "name": "Saint Mary and Saint Michaels",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.139181,
+                    52.174153
+                ]
+            },
+            "properties": {
+                "name": "Rose",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.142176,
+                    52.175461
+                ]
+            },
+            "properties": {
+                "name": "Addenbrookes",
+                "locality": "Queen Edith's",
+                "district": "Cambridge",
+                "removed": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.143757,
+                    52.175954
+                ]
+            },
+            "properties": {
+                "name": "Addenbrookes Flag",
+                "locality": "Queen Edith's",
+                "district": "Cambridge",
+                "removed": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138149,
+                    52.176297
+                ]
+            },
+            "properties": {
+                "name": "Anne Frank's Tree",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.143373,
+                    52.176479
+                ]
+            },
+            "properties": {
+                "name": "Clifford Allbutt Building",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.096893,
+                    52.176549
+                ]
+            },
+            "properties": {
+                "name": "Rupert Brooke Statue",
+                "locality": "Grantchester",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.148122,
+                    52.177414
+                ]
+            },
+            "properties": {
+                "name": "The Log Run",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.150901,
+                    52.178027
+                ]
+            },
+            "properties": {
+                "name": "The Kids Are Cool",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.169841,
+                    52.178298
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hinton East Chalk Pit Iron Age Hill Fort",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.095081,
+                    52.180031
+                ]
+            },
+            "properties": {
+                "name": "The Green Man Pub",
+                "locality": "Grantchester",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.152169,
+                    52.181785
+                ]
+            },
+            "properties": {
+                "name": "St James' Church",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.170081,
+                    52.182352
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hinton Chalk Pits 2",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.171987,
+                    52.185772
+                ]
+            },
+            "properties": {
+                "name": "The Red Lion",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.17324,
+                    52.186231
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hinton Recreation Ground Memorial",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.16394,
+                    52.186346
+                ]
+            },
+            "properties": {
+                "name": "Tree Tumblers",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.16704,
+                    52.186474
+                ]
+            },
+            "properties": {
+                "name": "Old Millstone",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.144091,
+                    52.187384
+                ]
+            },
+            "properties": {
+                "name": "Quaker Society Meeting House",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.144669,
+                    52.187876
+                ]
+            },
+            "properties": {
+                "name": "United Reformed Church",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.175797,
+                    52.188505
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hinton Baptist Church",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.132295,
+                    52.190322
+                ]
+            },
+            "properties": {
+                "name": "The Moon Sun and Stars",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.135937,
+                    52.190578
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Junction Arts",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.136711,
+                    52.190626
+                ]
+            },
+            "properties": {
+                "name": "Junction Mural",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.139176,
+                    52.192758
+                ]
+            },
+            "properties": {
+                "name": "Post Office War Memorial",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.149921,
+                    52.193068
+                ]
+            },
+            "properties": {
+                "name": "St. Martin's Church",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.124594,
+                    52.193242
+                ]
+            },
+            "properties": {
+                "name": "Systematic Beds of Herbaceous Plants",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.135407,
+                    52.193406
+                ]
+            },
+            "properties": {
+                "name": "Ceres",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.126896,
+                    52.19367
+                ]
+            },
+            "properties": {
+                "name": "Fountain at Cambridge University Botanic Garden",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.123985,
+                    52.193682
+                ]
+            },
+            "properties": {
+                "name": "The Dawn Redwood",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.12637,
+                    52.194297
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Gardens Greenhouse",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.131756,
+                    52.194472
+                ]
+            },
+            "properties": {
+                "name": "Flying Pig",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.131599,
+                    52.194842
+                ]
+            },
+            "properties": {
+                "name": "Kett House Tree",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.115673,
+                    52.195004
+                ]
+            },
+            "properties": {
+                "name": "Paradise LNR",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.109652,
+                    52.195958
+                ]
+            },
+            "properties": {
+                "name": "Newnham Post Office",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.137777,
+                    52.196111
+                ]
+            },
+            "properties": {
+                "name": "Longest Covered Footbridge",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.155376,
+                    52.196114
+                ]
+            },
+            "properties": {
+                "name": "The Brook",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.108243,
+                    52.196463
+                ]
+            },
+            "properties": {
+                "name": "St Mark's Newnham",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.153946,
+                    52.197542
+                ]
+            },
+            "properties": {
+                "name": "Stone Helix",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.146039,
+                    52.19767
+                ]
+            },
+            "properties": {
+                "name": "St. Philip's Church",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.123561,
+                    52.197974
+                ]
+            },
+            "properties": {
+                "name": "Lensfield Hotel",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.130207,
+                    52.198147
+                ]
+            },
+            "properties": {
+                "name": "Sancton Wood Unicorn",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.125964,
+                    52.198347
+                ]
+            },
+            "properties": {
+                "name": "Polar Harpoon Gun",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.125462,
+                    52.198577
+                ]
+            },
+            "properties": {
+                "name": "Downing College Back Gate",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.12739,
+                    52.199022
+                ]
+            },
+            "properties": {
+                "name": "Our Lady and English Martyrs Church",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.147127,
+                    52.199063
+                ]
+            },
+            "properties": {
+                "name": "Empress",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.139477,
+                    52.199404
+                ]
+            },
+            "properties": {
+                "name": "Hot Numbers",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138045,
+                    52.19953
+                ]
+            },
+            "properties": {
+                "name": "St. Barnabas' Church",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.136689,
+                    52.199832
+                ]
+            },
+            "properties": {
+                "name": "Salvation Army Hall",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120196,
+                    52.199936
+                ]
+            },
+            "properties": {
+                "name": "The Fitzwilliam Museum",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138502,
+                    52.200036
+                ]
+            },
+            "properties": {
+                "name": "Dales Brewery",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.157283,
+                    52.200317
+                ]
+            },
+            "properties": {
+                "name": "The C3 Centre",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.118465,
+                    52.200872
+                ]
+            },
+            "properties": {
+                "name": "Peterhouse",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.105527,
+                    52.201007
+                ]
+            },
+            "properties": {
+                "name": "Selwyn College Plodge",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.109341,
+                    52.201284
+                ]
+            },
+            "properties": {
+                "name": "Sidgwick",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.100541,
+                    52.201323
+                ]
+            },
+            "properties": {
+                "name": "George Thomson Building",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.101062,
+                    52.201568
+                ]
+            },
+            "properties": {
+                "name": "Leckhampton House",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.109002,
+                    52.201594
+                ]
+            },
+            "properties": {
+                "name": "Faculty of Law",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.128176,
+                    52.202171
+                ]
+            },
+            "properties": {
+                "name": "Reality Checkpoint",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.131224,
+                    52.202182
+                ]
+            },
+            "properties": {
+                "name": "Skate Park",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.136162,
+                    52.202475
+                ]
+            },
+            "properties": {
+                "name": "Rattee Memorial",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138675,
+                    52.203147
+                ]
+            },
+            "properties": {
+                "name": "Black Bird",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.132548,
+                    52.203672
+                ]
+            },
+            "properties": {
+                "name": "Zion Baptist Church",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.117669,
+                    52.203739
+                ]
+            },
+            "properties": {
+                "name": "The Corpus Clock",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.188013,
+                    52.204587
+                ]
+            },
+            "properties": {
+                "name": "All Saints Teversham Church",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.136495,
+                    52.204797
+                ]
+            },
+            "properties": {
+                "name": "Blue Moon Pub",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.112552,
+                    52.204924
+                ]
+            },
+            "properties": {
+                "name": "Confucius",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.10847,
+                    52.205051
+                ]
+            },
+            "properties": {
+                "name": "Cambridge University Library",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.119443,
+                    52.205067
+                ]
+            },
+            "properties": {
+                "name": "Snowy Farr Memorial Sculpture",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.104946,
+                    52.205133
+                ]
+            },
+            "properties": {
+                "name": "Statues Robinson College",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.103834,
+                    52.205196
+                ]
+            },
+            "properties": {
+                "name": "Philip de Koning Sailing to the Future",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.121927,
+                    52.205296
+                ]
+            },
+            "properties": {
+                "name": "Christ's College Gate",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.119056,
+                    52.205356
+                ]
+            },
+            "properties": {
+                "name": "Market Square Fountain",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120715,
+                    52.205853
+                ]
+            },
+            "properties": {
+                "name": "Holy Trinity War Memorial",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.143709,
+                    52.206048
+                ]
+            },
+            "properties": {
+                "name": "Beehive Honeycomb",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120966,
+                    52.206746
+                ]
+            },
+            "properties": {
+                "name": "Sidney Sussex Obelisk",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.16459,
+                    52.206788
+                ]
+            },
+            "properties": {
+                "name": "Quorum Fountain",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.127162,
+                    52.207181
+                ]
+            },
+            "properties": {
+                "name": "Wesley Methodist Church Sculpture",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.124419,
+                    52.207314
+                ]
+            },
+            "properties": {
+                "name": "Champion of the Thames ",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.129274,
+                    52.207373
+                ]
+            },
+            "properties": {
+                "name": "The Hopbine",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.122116,
+                    52.20743
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Brew House",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.118282,
+                    52.207477
+                ]
+            },
+            "properties": {
+                "name": "All Saints Cross",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.096502,
+                    52.207957
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Lawn Tennis Club",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.132871,
+                    52.208177
+                ]
+            },
+            "properties": {
+                "name": "The Burleigh Arms",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.118868,
+                    52.208433
+                ]
+            },
+            "properties": {
+                "name": "Round Church",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120085,
+                    52.208551
+                ]
+            },
+            "properties": {
+                "name": "ADC Theatre",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.154752,
+                    52.208616
+                ]
+            },
+            "properties": {
+                "name": "Coldhams Common BMX Park",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.111268,
+                    52.208816
+                ]
+            },
+            "properties": {
+                "name": "Eagle @ west gate St John's",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.10292,
+                    52.209385
+                ]
+            },
+            "properties": {
+                "name": "'Genesis' by John Robinson",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.087425,
+                    52.209708
+                ]
+            },
+            "properties": {
+                "name": "Institute For Manufacturing",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.066411,
+                    52.209827
+                ]
+            },
+            "properties": {
+                "name": "The Plough Coton",
+                "locality": "Coton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.144128,
+                    52.210032
+                ]
+            },
+            "properties": {
+                "name": "The Remembered",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.102992,
+                    52.210102
+                ]
+            },
+            "properties": {
+                "name": "Betty and Gordon Moore Library",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.060367,
+                    52.210293
+                ]
+            },
+            "properties": {
+                "name": "Coton St. Peter's Church",
+                "locality": "Coton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.092895,
+                    52.210407
+                ]
+            },
+            "properties": {
+                "name": "Electrical Engineering Division",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.147658,
+                    52.210414
+                ]
+            },
+            "properties": {
+                "name": "Iron Spike",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.173643,
+                    52.210852
+                ]
+            },
+            "properties": {
+                "name": "Cambridge International Airport",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.13871,
+                    52.21096
+                ]
+            },
+            "properties": {
+                "name": "Spiky Post Box",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.13684,
+                    52.21127
+                ]
+            },
+            "properties": {
+                "name": "Giant Anchor",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.163201,
+                    52.211503
+                ]
+            },
+            "properties": {
+                "name": "Barnwell Road Library",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.113788,
+                    52.21151
+                ]
+            },
+            "properties": {
+                "name": "Castle Street Methodist Church ",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.092186,
+                    52.211965
+                ]
+            },
+            "properties": {
+                "name": "Whittle Labs",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.135622,
+                    52.21241
+                ]
+            },
+            "properties": {
+                "name": "Statue of the Meadows",
+                "locality": "West Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.080717,
+                    52.212504
+                ]
+            },
+            "properties": {
+                "name": "British Antarctic Survey Sledge Dog Monument",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.108684,
+                    52.212867
+                ]
+            },
+            "properties": {
+                "name": "St Edmund's Chapel",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.094109,
+                    52.213434
+                ]
+            },
+            "properties": {
+                "name": "36 Inch Telescope",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.123298,
+                    52.213654
+                ]
+            },
+            "properties": {
+                "name": "Greene King The Boat House",
+                "locality": "West Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.152536,
+                    52.213831
+                ]
+            },
+            "properties": {
+                "name": "The Leper Chapel",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107903,
+                    52.213979
+                ]
+            },
+            "properties": {
+                "name": "Gathering Of Owls",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.098921,
+                    52.214098
+                ]
+            },
+            "properties": {
+                "name": "The Moller Centre",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.12541,
+                    52.214191
+                ]
+            },
+            "properties": {
+                "name": "The Waterman Pub",
+                "locality": "West Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.105251,
+                    52.214443
+                ]
+            },
+            "properties": {
+                "name": "H C W Barrett Plaque",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.127957,
+                    52.214457
+                ]
+            },
+            "properties": {
+                "name": "The Old Spring",
+                "locality": "West Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.168062,
+                    52.214942
+                ]
+            },
+            "properties": {
+                "name": "Catholic Church of St. Vincent De Paul",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.139326,
+                    52.215533
+                ]
+            },
+            "properties": {
+                "name": "Chesterton War Memorial",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.116084,
+                    52.215772
+                ]
+            },
+            "properties": {
+                "name": "Saint Luke's Church",
+                "locality": "Arbury",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.111086,
+                    52.216085
+                ]
+            },
+            "properties": {
+                "name": "Friends of Histon Road Cemetery",
+                "locality": "Arbury",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.056761,
+                    52.216263
+                ]
+            },
+            "properties": {
+                "name": "Madingley American Cemetery - Operations Map",
+                "locality": "Madingley",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.099802,
+                    52.217273
+                ]
+            },
+            "properties": {
+                "name": "Ascension Parish Burial Ground",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.139336,
+                    52.217501
+                ]
+            },
+            "properties": {
+                "name": "Haymakers Chesterton",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.145767,
+                    52.217543
+                ]
+            },
+            "properties": {
+                "name": "Green Dragon Bridge",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.14551,
+                    52.217878
+                ]
+            },
+            "properties": {
+                "name": "Green Dragon Pub",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.129371,
+                    52.218109
+                ]
+            },
+            "properties": {
+                "name": "St Laurence's RC Church",
+                "locality": "West Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.137054,
+                    52.218417
+                ]
+            },
+            "properties": {
+                "name": "Chesterton Medical Centre Art",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107894,
+                    52.219744
+                ]
+            },
+            "properties": {
+                "name": "St. Augustine's Church ",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.172516,
+                    52.22043
+                ]
+            },
+            "properties": {
+                "name": "Ancient Shepherds Pub",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.119023,
+                    52.22215
+                ]
+            },
+            "properties": {
+                "name": "The Carlton Arms",
+                "locality": "Arbury",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.158292,
+                    52.223916
+                ]
+            },
+            "properties": {
+                "name": "Cambridge North Station",
+                "locality": "Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.168317,
+                    52.223983
+                ]
+            },
+            "properties": {
+                "name": "The Plough Fen Ditton",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.128737,
+                    52.225112
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Gurdwara ",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.145461,
+                    52.227814
+                ]
+            },
+            "properties": {
+                "name": "Golden Hind Pub Cambridge",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.137149,
+                    52.229567
+                ]
+            },
+            "properties": {
+                "name": "Jenny Wren",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138863,
+                    52.230217
+                ]
+            },
+            "properties": {
+                "name": "Kid's Play Area",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.146762,
+                    52.230273
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Science Park East",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.117612,
+                    52.230794
+                ]
+            },
+            "properties": {
+                "name": "Meadows Community Centre",
+                "locality": "Impington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.149805,
+                    52.231294
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Science Park",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.128751,
+                    52.231356
+                ]
+            },
+            "properties": {
+                "name": "Underpass Graffiti Mural",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.122129,
+                    52.232315
+                ]
+            },
+            "properties": {
+                "name": "Buchan Street Neighbourhood Centre",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.136193,
+                    52.233797
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Science Park West",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120224,
+                    52.234163
+                ]
+            },
+            "properties": {
+                "name": "Number Snake",
+                "locality": "Orchard Park",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.140488,
+                    52.234379
+                ]
+            },
+            "properties": {
+                "name": "Five Poles Sculpture",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.130752,
+                    52.234851
+                ]
+            },
+            "properties": {
+                "name": "Waveguide",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.125773,
+                    52.235027
+                ]
+            },
+            "properties": {
+                "name": "Four Leaf Clover",
+                "locality": "Orchard Park",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120207,
+                    52.235181
+                ]
+            },
+            "properties": {
+                "name": "Travelodge Deer",
+                "locality": "Orchard Park",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.153038,
+                    52.235627
+                ]
+            },
+            "properties": {
+                "name": "Fountain - Cambridge",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.126148,
+                    52.235696
+                ]
+            },
+            "properties": {
+                "name": "OP - Stone Shards Alpha",
+                "locality": "Orchard Park",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.165696,
+                    52.236106
+                ]
+            },
+            "properties": {
+                "name": "Milton Park Memorial",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.163274,
+                    52.236384
+                ]
+            },
+            "properties": {
+                "name": "Rainbow Poles",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.162541,
+                    52.236503
+                ]
+            },
+            "properties": {
+                "name": "The Wild Place",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.154624,
+                    52.238754
+                ]
+            },
+            "properties": {
+                "name": "Tessa Cohen Clock Tower",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.153394,
+                    52.239323
+                ]
+            },
+            "properties": {
+                "name": "Sycamores Basketball Court",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.083605,
+                    52.240379
+                ]
+            },
+            "properties": {
+                "name": "Girton War Memorial",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.168651,
+                    52.241347
+                ]
+            },
+            "properties": {
+                "name": "Milton Country Park Fen Road Entrance",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.110406,
+                    52.242304
+                ]
+            },
+            "properties": {
+                "name": "Histon Historical Station",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.161416,
+                    52.243311
+                ]
+            },
+            "properties": {
+                "name": "Milton White Horse",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.164198,
+                    52.243882
+                ]
+            },
+            "properties": {
+                "name": "Milton War Memorial",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.111838,
+                    52.24404
+                ]
+            },
+            "properties": {
+                "name": "Impington Village Sign Art",
+                "locality": "Impington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107729,
+                    52.244316
+                ]
+            },
+            "properties": {
+                "name": "Vision Park Sculpture",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.18285,
+                    52.214233
+                ]
+            },
+            "properties": {
+                "name": "Cambridge Jubilee Cycleway",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.31828,
+                    52.133191
+                ]
+            },
+            "properties": {
+                "name": "Holy Trinity Balsham",
+                "locality": "Balsham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.313924,
+                    52.079669
+                ]
+            },
+            "properties": {
+                "name": "Bartlow Hills",
+                "locality": "Bartlow",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.012421,
+                    52.351506
+                ]
+            },
+            "properties": {
+                "name": "Bluntisham War Memorial",
+                "locality": "Bluntisham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.007086,
+                    52.352506
+                ]
+            },
+            "properties": {
+                "name": "Bluntisham Baptised Church",
+                "locality": "Bluntisham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.118886,
+                    52.384259
+                ]
+            },
+            "properties": {
+                "name": "Broughton Lock-Up",
+                "locality": "Broughton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.326467,
+                    52.284941
+                ]
+            },
+            "properties": {
+                "name": "Burwell Baptist Church",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.324741,
+                    52.279891
+                ]
+            },
+            "properties": {
+                "name": "The Fox Pub",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.327125,
+                    52.274942
+                ]
+            },
+            "properties": {
+                "name": "Burwell Village Sign",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.32761,
+                    52.270524
+                ]
+            },
+            "properties": {
+                "name": "Burwell Parish Water Pump",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.327963,
+                    52.269848
+                ]
+            },
+            "properties": {
+                "name": "St.Mary the Virgin",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01357,
+                    52.365235
+                ]
+            },
+            "properties": {
+                "name": "Colne Village Church",
+                "locality": "Colne",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.184863,
+                    52.414546
+                ]
+            },
+            "properties": {
+                "name": "Coveney Village Sign",
+                "locality": "Coveney",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.385439,
+                    52.193343
+                ]
+            },
+            "properties": {
+                "name": "Dullingham Church",
+                "locality": "Dullingham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.124538,
+                    52.09317
+                ]
+            },
+            "properties": {
+                "name": "V1",
+                "locality": "Duxford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.125966,
+                    52.09213
+                ]
+            },
+            "properties": {
+                "name": "Blackbird Flight",
+                "locality": "Duxford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.129833,
+                    52.094453
+                ]
+            },
+            "properties": {
+                "name": "Bristol Bloodhound",
+                "locality": "Duxford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.132993,
+                    52.096477
+                ]
+            },
+            "properties": {
+                "name": "Hawker Hurricane",
+                "locality": "Duxford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.13646,
+                    52.096892
+                ]
+            },
+            "properties": {
+                "name": "A Paddy Bird from Ceylon",
+                "locality": "Duxford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.159161,
+                    52.092082
+                ]
+            },
+            "properties": {
+                "name": "Duxford War Memorial",
+                "locality": "Duxford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.159593,
+                    52.092315
+                ]
+            },
+            "properties": {
+                "name": "St. Peter's Church",
+                "locality": "Duxford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.030995,
+                    52.353856
+                ]
+            },
+            "properties": {
+                "name": "Earith Village Sign",
+                "locality": "Earith",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.27403,
+                    52.406402
+                ]
+            },
+            "properties": {
+                "name": "Larkfield Community Centre",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.273051,
+                    52.403649
+                ]
+            },
+            "properties": {
+                "name": "Cemetery Chapel",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.268673,
+                    52.400338
+                ]
+            },
+            "properties": {
+                "name": "Queen Victoria Diamond Jubilee",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.277071,
+                    52.399133
+                ]
+            },
+            "properties": {
+                "name": "Wooden Kingfisher Trail Marker",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.276457,
+                    52.397735
+                ]
+            },
+            "properties": {
+                "name": "Kingfisher Statue",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.276072,
+                    52.397428
+                ]
+            },
+            "properties": {
+                "name": "Reed Carving",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.270799,
+                    52.39555
+                ]
+            },
+            "properties": {
+                "name": "Lincoln Bridge",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.268146,
+                    52.390887
+                ]
+            },
+            "properties": {
+                "name": "The South Boundary",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.266494,
+                    52.390806
+                ]
+            },
+            "properties": {
+                "name": "Ely Station",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.267773,
+                    52.398299
+                ]
+            },
+            "properties": {
+                "name": "Drayman's Son Micro-Pub",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.264628,
+                    52.399234
+                ]
+            },
+            "properties": {
+                "name": "Sacrist's Gate",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.262804,
+                    52.398924
+                ]
+            },
+            "properties": {
+                "name": "Ely Cathedrals Broken Tower",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.265418,
+                    52.396107
+                ]
+            },
+            "properties": {
+                "name": "Tree Tunnel",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.259488,
+                    52.39617
+                ]
+            },
+            "properties": {
+                "name": "Bishop Woodford House",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.252893,
+                    52.395478
+                ]
+            },
+            "properties": {
+                "name": "Water Tower",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.261149,
+                    52.398951
+                ]
+            },
+            "properties": {
+                "name": "Russian Cannon Ely",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.259606,
+                    52.398657
+                ]
+            },
+            "properties": {
+                "name": "St Mary's Parish Church",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.259111,
+                    52.398774
+                ]
+            },
+            "properties": {
+                "name": "Oliver Cromwell's House",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.24938,
+                    52.410644
+                ]
+            },
+            "properties": {
+                "name": "Ely Tigers Rugby Club",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037093,
+                    52.307914
+                ]
+            },
+            "properties": {
+                "name": "Fen Drayton Lakes Elney Lake",
+                "locality": "Fen Drayton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.035421,
+                    52.29512
+                ]
+            },
+            "properties": {
+                "name": "Fen Drayton War Memorial",
+                "locality": "Fen Drayton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07311,
+                    52.298477
+                ]
+            },
+            "properties": {
+                "name": "Fenstanton Clock House",
+                "locality": "Fenstanton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065443,
+                    52.300838
+                ]
+            },
+            "properties": {
+                "name": "A Particular Chapel",
+                "locality": "Fenstanton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065443,
+                    52.300838
+                ]
+            },
+            "properties": {
+                "name": "Fenstanton Parish Church",
+                "locality": "Fenstanton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.384107,
+                    52.311396
+                ]
+            },
+            "properties": {
+                "name": "Fordham Wesleyan Chapel",
+                "locality": "Fordham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.390559,
+                    52.31146
+                ]
+            },
+            "properties": {
+                "name": "Our Glorious Dead",
+                "locality": "Fordham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.07492,
+                    52.093549
+                ]
+            },
+            "properties": {
+                "name": "Fowlmere Church",
+                "locality": "Fowlmere",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.055173,
+                    52.113082
+                ]
+            },
+            "properties": {
+                "name": "The Shelter",
+                "locality": "Foxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.060775,
+                    52.115291
+                ]
+            },
+            "properties": {
+                "name": "Foxton Church",
+                "locality": "Foxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.147849,
+                    52.357271
+                ]
+            },
+            "properties": {
+                "name": "Haddenham Methodist Church",
+                "locality": "Haddenham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.148064,
+                    52.359339
+                ]
+            },
+            "properties": {
+                "name": "Haddenham Church",
+                "locality": "Haddenham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.152565,
+                    52.36024
+                ]
+            },
+            "properties": {
+                "name": "Fairchilds Meadows",
+                "locality": "Haddenham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.151997,
+                    52.36174
+                ]
+            },
+            "properties": {
+                "name": "The Pond Field",
+                "locality": "Haddenham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.252954,
+                    52.112633
+                ]
+            },
+            "properties": {
+                "name": "The Pear Tree",
+                "locality": "Hildersham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.182099,
+                    52.083938
+                ]
+            },
+            "properties": {
+                "name": "Red Lion, Hinxton",
+                "locality": "Hinxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.177664,
+                    52.085502
+                ]
+            },
+            "properties": {
+                "name": "Hinxton Water Mill",
+                "locality": "Hinxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.031424,
+                    52.317231
+                ]
+            },
+            "properties": {
+                "name": "Welcome To Ouse Valley Way",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.354872,
+                    52.101776
+                ]
+            },
+            "properties": {
+                "name": "All Saints' Church",
+                "locality": "Horseheath",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113467,
+                    52.335373
+                ]
+            },
+            "properties": {
+                "name": "World War One Memorial",
+                "locality": "Houghton and Wyton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.121227,
+                    52.332018
+                ]
+            },
+            "properties": {
+                "name": "St. Mary the Virgin, Houghton with Wyton",
+                "locality": "Houghton and Wyton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.119888,
+                    52.331287
+                ]
+            },
+            "properties": {
+                "name": "Ouse Valley Way",
+                "locality": "Houghton and Wyton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120612,
+                    52.330959
+                ]
+            },
+            "properties": {
+                "name": "Houghton Mill",
+                "locality": "Houghton and Wyton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.176748,
+                    52.07185
+                ]
+            },
+            "properties": {
+                "name": "Ickleton Lion",
+                "locality": "Ickleton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.179931,
+                    52.073009
+                ]
+            },
+            "properties": {
+                "name": "Ickleton St Mary Magdalene",
+                "locality": "Ickleton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.27785,
+                    52.097733
+                ]
+            },
+            "properties": {
+                "name": "Linton Village Sign 1992",
+                "locality": "Linton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.275482,
+                    52.097035
+                ]
+            },
+            "properties": {
+                "name": "Linton Heritage Trail",
+                "locality": "Linton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2326,
+                    52.120019
+                ]
+            },
+            "properties": {
+                "name": "St Mary's, Little Abington",
+                "locality": "Little Abington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.233687,
+                    52.431618
+                ]
+            },
+            "properties": {
+                "name": "Down In the Isle",
+                "locality": "Downham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.242418,
+                    52.43384
+                ]
+            },
+            "properties": {
+                "name": "Little Downham Village Hall",
+                "locality": "Downham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.243804,
+                    52.434136
+                ]
+            },
+            "properties": {
+                "name": "St Leonard's Church",
+                "locality": "Downham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.248503,
+                    52.362776
+                ]
+            },
+            "properties": {
+                "name": "Little Thetford Village Sign",
+                "locality": "Thetford",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.301127,
+                    52.462632
+                ]
+            },
+            "properties": {
+                "name": "Littleport Leisure Centre",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.303461,
+                    52.457218
+                ]
+            },
+            "properties": {
+                "name": "William Harley Tribute Sculpture",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.305284,
+                    52.456855
+                ]
+            },
+            "properties": {
+                "name": "Globe Inn Historical Site",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.308411,
+                    52.456345
+                ]
+            },
+            "properties": {
+                "name": "Littleport Village Hall",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.024161,
+                    52.088229
+                ]
+            },
+            "properties": {
+                "name": "The Old Iron Bell",
+                "locality": "Melbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.023172,
+                    52.086235
+                ]
+            },
+            "properties": {
+                "name": "Wheel Bench",
+                "locality": "Melbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.016181,
+                    52.084042
+                ]
+            },
+            "properties": {
+                "name": "War Memorial",
+                "locality": "Melbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.014248,
+                    52.0813
+                ]
+            },
+            "properties": {
+                "name": "Melbourn Post Office",
+                "locality": "Melbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.031069,
+                    52.330396
+                ]
+            },
+            "properties": {
+                "name": "Village Lockup",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.028718,
+                    52.331157
+                ]
+            },
+            "properties": {
+                "name": "Needingworth Fire Hooks",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.185623,
+                    52.112212
+                ]
+            },
+            "properties": {
+                "name": "St John the Baptist, Pampisford",
+                "locality": "Pampisford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.050489,
+                    52.385325
+                ]
+            },
+            "properties": {
+                "name": "Duckpond In Pidley",
+                "locality": "Pidley cum Fenton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.346554,
+                    52.416968
+                ]
+            },
+            "properties": {
+                "name": "St. Peter's Church",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.341273,
+                    52.41607
+                ]
+            },
+            "properties": {
+                "name": "Primitive Methodist Church",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.20113,
+                    52.455241
+                ]
+            },
+            "properties": {
+                "name": "Pymoor village sign",
+                "locality": "Downham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.17088,
+                    52.121493
+                ]
+            },
+            "properties": {
+                "name": "Sawston Hall Gate",
+                "locality": "Sawston",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.168675,
+                    52.124633
+                ]
+            },
+            "properties": {
+                "name": "The Greyhound",
+                "locality": "Sawston",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.166174,
+                    52.128185
+                ]
+            },
+            "properties": {
+                "name": "Sawston Parish Cemetary",
+                "locality": "Sawston",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03272,
+                    52.112692
+                ]
+            },
+            "properties": {
+                "name": "Shepreth Village Hall",
+                "locality": "Shepreth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03126,
+                    52.11416
+                ]
+            },
+            "properties": {
+                "name": "Shepreth Train Station",
+                "locality": "Shepreth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03684,
+                    52.114703
+                ]
+            },
+            "properties": {
+                "name": "Elephant Sculpture",
+                "locality": "Shepreth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.018685,
+                    52.107634
+                ]
+            },
+            "properties": {
+                "name": "Shepreth L-Moor",
+                "locality": "Shepreth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.336552,
+                    52.331703
+                ]
+            },
+            "properties": {
+                "name": "Soham Library",
+                "locality": "Soham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.337034,
+                    52.333434
+                ]
+            },
+            "properties": {
+                "name": "St. Andrews Church",
+                "locality": "Soham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.002399,
+                    52.382127
+                ]
+            },
+            "properties": {
+                "name": "Old Somersham School",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.218376,
+                    52.348587
+                ]
+            },
+            "properties": {
+                "name": "Stretham Church",
+                "locality": "Stretham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.132726,
+                    52.392666
+                ]
+            },
+            "properties": {
+                "name": "Royal Airforce Memorial",
+                "locality": "Sutton",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.126898,
+                    52.389512
+                ]
+            },
+            "properties": {
+                "name": "St. Andrew's Church",
+                "locality": "Sutton",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.117422,
+                    52.390406
+                ]
+            },
+            "properties": {
+                "name": "Royal British Legion Sutton",
+                "locality": "Sutton",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.343835,
+                    52.145407
+                ]
+            },
+            "properties": {
+                "name": "The Village Pump (West Wratting)",
+                "locality": "West Wratting",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.348867,
+                    52.141391
+                ]
+            },
+            "properties": {
+                "name": "Chestnut Tree West Wratting",
+                "locality": "West Wratting",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.165784,
+                    52.103547
+                ]
+            },
+            "properties": {
+                "name": "Whittlesford Parkway Station",
+                "locality": "Whittlesford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.150665,
+                    52.11587
+                ]
+            },
+            "properties": {
+                "name": "Whittlesford Parish Church",
+                "locality": "Whittlesford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.171055,
+                    52.353062
+                ]
+            },
+            "properties": {
+                "name": "St. Peter's Church Wilburton",
+                "locality": "Wilburton",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120367,
+                    52.347489
+                ]
+            },
+            "properties": {
+                "name": "Wyton Water Tower",
+                "locality": "Wyton-on-the-Hill",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.114102,
+                    52.349907
+                ]
+            },
+            "properties": {
+                "name": "Wyton Airplay Basketball Court",
+                "locality": "Wyton-on-the-Hill",
+                "district": "Huntingdonshire"
+            }
+        }
+    ]
+}
