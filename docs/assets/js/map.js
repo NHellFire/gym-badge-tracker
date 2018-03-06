@@ -48,12 +48,13 @@ function getBadgeLevel (id) {
 function nameOnClick() {
     var gymID = $(this).closest("tr").find(".id").text();
     var gym = gymList.get("id", gymID)[0];
+    var district = gym.values().district;
     var locality = gym.values().locality;
     var marker = getMarker(gym);
 
     $("#tabs").tabs({"active": 0});
 
-    layerGroups[locality].zoomToShowLayer(marker, function(){marker.openPopup();})
+    layerGroups[district][locality].zoomToShowLayer(marker, function(){marker.openPopup();})
 }
 
 function badgeOnClick() {
