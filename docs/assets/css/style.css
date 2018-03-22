@@ -125,3 +125,11 @@ h4 {
 td.summary-divider {
     width: 8px;
 }
+
+#gyms-list table {
+    margin-top: 4px;
+}
+
+#gyms-list td,th {
+    padding: 4px;
+}
