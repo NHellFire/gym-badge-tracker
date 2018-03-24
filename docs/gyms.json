@@ -1723,7 +1723,7 @@
                 ]
             },
             "properties": {
-                "name": "The Møller Centre",
+                "name": "The M\u00f8ller Centre",
                 "locality": "Castle",
                 "district": "Cambridge"
             }
@@ -4081,6 +4081,111 @@
                 "name": "Wyton Airplay Basketball Court",
                 "locality": "Wyton-on-the-Hill",
                 "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.190647,
+                    52.184052
+                ]
+            },
+            "properties": {
+                "name": "Capital Park Double Helix",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.174587,
+                    52.236697
+                ]
+            },
+            "properties": {
+                "name": "Baits Bite Lock",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11257,
+                    52.175436
+                ]
+            },
+            "properties": {
+                "name": "Trumpington War Memorial",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.188669,
+                    52.20466
+                ]
+            },
+            "properties": {
+                "name": "Fiftieth Anniversary Commemorative Plaque of the End of WW1",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.094099,
+                    52.183257
+                ]
+            },
+            "properties": {
+                "name": "Blue Ball",
+                "locality": "Grantchester",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.123393,
+                    52.16617
+                ]
+            },
+            "properties": {
+                "name": "Kingfisher Gardens Play Area ",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.114524,
+                    52.178575
+                ]
+            },
+            "properties": {
+                "name": "Old Milestone Art",
+                "locality": "Trumpington",
+                "district": "Cambridge"
             }
         }
     ]
