@@ -162,7 +162,7 @@ $(window).on("load", function () {
                     var url = [location.protocol, '//', location.host, location.pathname].join('');
                     url += "?" + levels;
                     $(this).dialog("close");
-                    window.location = url;
+                    window.location = url.substring(0, 164);
                 } else {
                     $("<div title='Error'>Invalid import URL</div>").dialog({
                         modal: true,
