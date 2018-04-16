@@ -4187,6 +4187,36 @@
                 "locality": "Trumpington",
                 "district": "Cambridge"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.144314,
+                    52.193
+                ]
+            },
+            "properties": {
+                "name": "Coleridge Paddling Pool",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1416,
+                    52.22735
+                ]
+            },
+            "properties": {
+                "name": "Ramsden Square Rec",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
         }
     ]
 }
