@@ -4217,6 +4217,21 @@
                 "locality": "King's Hedges",
                 "district": "Cambridge"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.12237,
+                    52.189501
+                ]
+            },
+            "properties": {
+                "name": "Dragon Intercom",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
         }
     ]
 }
