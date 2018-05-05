@@ -14,7 +14,7 @@ def parse (filename, wards=False):
 	for f in data["features"]:
 		la = f["properties"]["lad16nm"]
 		parish = f["properties"]["parncp16nm"] if "parncp16nm" in f["properties"] else None
-		if ((not wards and "unparished area" not in parish and ("Cambridge" in la or "Huntingdon" in la)) or
+		if ((not wards and "unparished area" not in parish and ("Cambridge" in la or "Huntingdon" in la or la == "Fenland")) or
 			(wards and la == "Cambridge")):
 			output["features"].append(f)
 
