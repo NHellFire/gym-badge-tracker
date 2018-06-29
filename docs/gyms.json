@@ -3120,7 +3120,8 @@
             "properties": {
                 "name": "A Particular Chapel",
                 "locality": "Fenstanton",
-                "district": "Huntingdonshire"
+                "district": "Huntingdonshire",
+                "removed": true
             }
         },
         {
