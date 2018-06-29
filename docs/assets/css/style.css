@@ -1,11 +1,25 @@
-#map {
-    isolation: isolate !important;
-    height: 600px;
-    width: 800px;
+#tabs-map, #map {
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height: 100%;
 }
 
-.header {
-    padding-bottom: 1em;
+#map {
+    isolation: isolate !important;
+}
+
+html, body {
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+#tabs {
+    border: none;
+    padding: 0;
+    margin: 0;
 }
 
 #tabs-gyms {
@@ -132,8 +146,26 @@ td.summary-divider {
 
 #gyms-list td,th {
     padding: 4px;
+    white-space: nowrap;
 }
 
 div.leaflet-control-layers-group label:not(.leaflet-control-layers-group-label) {
     text-indent: 1.5em;
+}
+
+#tab-gyms table {
+    max-width: 90%;
+}
+
+.ui-dialog {
+    width: initial;
+    max-width: 90vw;
+}
+
+#dialog-export, #dialog-import {
+	display: none;
+}
+
+textarea {
+    max-width: 100%;
 }

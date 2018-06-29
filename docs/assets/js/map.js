@@ -119,7 +119,8 @@ $(window).on("load", function () {
     $("#tabs").tabs({
         beforeActivate: function (e, ui) {
             return ui.newTab[0].id != "tab-export" && ui.newTab[0].id != "tab-import";
-        }
+        },
+        heightStyle: "fill"
     });
 
     // Open dialog for export
@@ -326,4 +327,9 @@ $(window).on("load", function () {
 
     // tooltip for search box
     $("input.search").tooltip();
+
+    // Resize tabs on window resize
+    $(window).on("resize", function() {
+        $("#tabs").tabs("refresh");
+    });
 });
