@@ -45,7 +45,7 @@ Ceres,Trumpington,Cambridge,0,52.193406,0.135407
 "Stone Helix",Romsey,Cambridge,0,52.197542,0.153946
 "St. Philip's Church",Romsey,Cambridge,0,52.19767,0.146039
 "Lensfield Hotel",Trumpington,Cambridge,0,52.197974,0.123561
-"Sancton Wood Unicorn",Trumpington,Cambridge,0,52.198147,0.130207
+"Sancton Wood Unicorn",Trumpington,Cambridge,1,52.198147,0.130207
 "Polar Harpoon Gun",Trumpington,Cambridge,0,52.198347,0.125964
 "Downing College Back Gate",Trumpington,Cambridge,0,52.198577,0.125462
 "Our Lady and English Martyrs Church",Trumpington,Cambridge,0,52.199022,0.12739
@@ -552,4 +552,4 @@ Litlington,Litlington,"South Cambridgeshire",0,52.066446,-0.086599
 "Sport England Pavilion",Harston,"South Cambridgeshire",0,52.138023,0.085468
 "Meldreth Train Station",Meldreth,"South Cambridgeshire",0,52.090644,0.008865
 "The British Queen",Meldreth,"South Cambridgeshire",0,52.09647,0.007242
-"Playhouse Of Unlimited Adventure",,,0,52.189709,0.159276
+"Playhouse Of Unlimited Adventure",Coleridge,Cambridge,0,52.189709,0.159276

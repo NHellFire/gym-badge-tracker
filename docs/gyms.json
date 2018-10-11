@@ -705,7 +705,8 @@
             "properties": {
                 "name": "Sancton Wood Unicorn",
                 "locality": "Trumpington",
-                "district": "Cambridge"
+                "district": "Cambridge",
+                "removed": true
             }
         },
         {
