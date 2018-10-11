@@ -8253,6 +8253,66 @@
                 "locality": "Cottenham",
                 "district": "South Cambridgeshire"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.085468,
+                    52.138023
+                ]
+            },
+            "properties": {
+                "name": "Sport England Pavilion",
+                "locality": "Harston",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.008865,
+                    52.090644
+                ]
+            },
+            "properties": {
+                "name": "Meldreth Train Station",
+                "locality": "Meldreth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.007242,
+                    52.09647
+                ]
+            },
+            "properties": {
+                "name": "The British Queen",
+                "locality": "Meldreth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.159276,
+                    52.189709
+                ]
+            },
+            "properties": {
+                "name": "Playhouse Of Unlimited Adventure",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
         }
     ]
 }
