@@ -8314,6 +8314,846 @@
                 "locality": "Coleridge",
                 "district": "Cambridge"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.166350007,
+                    52.24420166
+                ]
+            },
+            "properties": {
+                "name": "All Saint's Church Milton",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.094099,
+                    52.183300018
+                ]
+            },
+            "properties": {
+                "name": "Blue Ball",
+                "locality": "Grantchester",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.084606,
+                    52.228626
+                ]
+            },
+            "properties": {
+                "name": "Boy with Duck Statue",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.159098998,
+                    52.194400787
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hinton Brook",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.14386,
+                    52.218088
+                ]
+            },
+            "properties": {
+                "name": "Chesterton Working Mens Club",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.109844,
+                    52.217741
+                ]
+            },
+            "properties": {
+                "name": "Climbing Stone",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.151648,
+                    52.205422
+                ]
+            },
+            "properties": {
+                "name": "Coldham's Lane Play Area",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.144314006,
+                    52.193000793
+                ]
+            },
+            "properties": {
+                "name": "Coleridge Paddling Pool",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.060366999,
+                    52.210300446
+                ]
+            },
+            "properties": {
+                "name": "Coton St. Peter's Church",
+                "locality": "Coton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120757,
+                    52.20853
+                ]
+            },
+            "properties": {
+                "name": "David Gregory Marshall MBE",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.12982,
+                    52.188853
+                ]
+            },
+            "properties": {
+                "name": "Defra Eastbrook Sculpture 2003",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.128138,
+                    52.200045
+                ]
+            },
+            "properties": {
+                "name": "Fabulous Toilets",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.222288,
+                    52.177167
+                ]
+            },
+            "properties": {
+                "name": "Fulbourn Cemetery World War 2 Memorial",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.229238,
+                    52.178702
+                ]
+            },
+            "properties": {
+                "name": "Fulbourn Fen Main Entrance",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.232433,
+                    52.181181
+                ]
+            },
+            "properties": {
+                "name": "Fulbourn Fen West Entrance",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.21568,
+                    52.181711
+                ]
+            },
+            "properties": {
+                "name": "Fulbourn Sundial",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.223402,
+                    52.178956
+                ]
+            },
+            "properties": {
+                "name": "Fulbourn Victorian Power Junction Box",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.083619,
+                    52.228389
+                ]
+            },
+            "properties": {
+                "name": "Girton College Main Gate",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.083604999,
+                    52.240398407
+                ]
+            },
+            "properties": {
+                "name": "Girton War Memorial",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.110405996,
+                    52.242298126
+                ]
+            },
+            "properties": {
+                "name": "Histon Historical Station",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.108823001,
+                    52.248100281
+                ]
+            },
+            "properties": {
+                "name": "Histon War Memorial",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.109794997,
+                    52.248401642
+                ]
+            },
+            "properties": {
+                "name": "Homefield Park",
+                "locality": "Impington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.111837998,
+                    52.243999481
+                ]
+            },
+            "properties": {
+                "name": "Impington Village Sign Art",
+                "locality": "Impington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.123392999,
+                    52.16619873
+                ]
+            },
+            "properties": {
+                "name": "Kingfisher Gardens Play Area",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.124312,
+                    52.230538
+                ]
+            },
+            "properties": {
+                "name": "King's Hedges Community Football Pitch",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.150663,
+                    52.188796
+                ]
+            },
+            "properties": {
+                "name": "Lichfield Road Play Area",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.118489,
+                    52.230553
+                ]
+            },
+            "properties": {
+                "name": "Little People Mosaic",
+                "locality": "Arbury",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.110668,
+                    52.174347
+                ]
+            },
+            "properties": {
+                "name": "Lord Byron Inn",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.168651,
+                    52.241298676
+                ]
+            },
+            "properties": {
+                "name": "Milton Country Park Fen Road Entrance",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.161618,
+                    52.236658
+                ]
+            },
+            "properties": {
+                "name": "Milton Country Park Visitors Centre",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.160045996,
+                    52.240699768
+                ]
+            },
+            "properties": {
+                "name": "Milton Parish Council",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.164197996,
+                    52.243900299
+                ]
+            },
+            "properties": {
+                "name": "Milton War Memorial",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.161415994,
+                    52.243301392
+                ]
+            },
+            "properties": {
+                "name": "Milton White Horse",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.129354,
+                    52.230829
+                ]
+            },
+            "properties": {
+                "name": "North Arbury Chapel",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.126702,
+                    52.235604
+                ]
+            },
+            "properties": {
+                "name": "OP - Stone Shards Beta",
+                "locality": "Orchard Park",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.137583,
+                    52.192709
+                ]
+            },
+            "properties": {
+                "name": "Post Office War Memorial",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.154993,
+                    52.227502
+                ]
+            },
+            "properties": {
+                "name": "Qualcomm North Fountain",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.088627,
+                    52.218602
+                ]
+            },
+            "properties": {
+                "name": "Quidditch Hoops",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.108892,
+                    52.251434
+                ]
+            },
+            "properties": {
+                "name": "Rose & Crown",
+                "locality": "Impington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.116659,
+                    52.225887
+                ]
+            },
+            "properties": {
+                "name": "Roseford Chapel",
+                "locality": "Arbury",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.092261,
+                    52.221498
+                ]
+            },
+            "properties": {
+                "name": "run+leap",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.137609,
+                    52.173011
+                ]
+            },
+            "properties": {
+                "name": "Silver and Gold Metallic Twists Fa\u00e7ade",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.177933,
+                    52.191839
+                ]
+            },
+            "properties": {
+                "name": "St Andrews Cherry Hinton",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.149061,
+                    52.223504
+                ]
+            },
+            "properties": {
+                "name": "Sunclock on the ground",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.184804,
+                    52.190777
+                ]
+            },
+            "properties": {
+                "name": "Teversham Foxgloves Football Pitch",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.130537,
+                    52.202438
+                ]
+            },
+            "properties": {
+                "name": "The Laws Of The University Football Club",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.066411003,
+                    52.20980072
+                ]
+            },
+            "properties": {
+                "name": "The Plough Coton",
+                "locality": "Coton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.171986997,
+                    52.185798645
+                ]
+            },
+            "properties": {
+                "name": "The Red Lion",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.163450003,
+                    52.244701385
+                ]
+            },
+            "properties": {
+                "name": "The Waggon and Horses",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.146459,
+                    52.210997
+                ]
+            },
+            "properties": {
+                "name": "The Wrestlers",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107561998,
+                    52.24420166
+                ]
+            },
+            "properties": {
+                "name": "Twin Stars",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.150704,
+                    52.20088
+                ]
+            },
+            "properties": {
+                "name": "Vinery Monolith",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107729003,
+                    52.244300842
+                ]
+            },
+            "properties": {
+                "name": "Vision Park Sculpture",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.181561,
+                    52.193337
+                ]
+            },
+            "properties": {
+                "name": "Welcome To Cherry Hinton",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.097143,
+                    52.206007
+                ]
+            },
+            "properties": {
+                "name": "Wilberforce Road Sports Ground Pavilion",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.185922,
+                    52.182902
+                ]
+            },
+            "properties": {
+                "name": "Wired Nexus Fulbourn",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
         }
     ]
 }
