@@ -443,8 +443,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.139176,
-                    52.192758
+                    0.137583,
+                    52.192709
                 ]
             },
             "properties": {
@@ -8342,7 +8342,8 @@
             "properties": {
                 "name": "Blue Ball",
                 "locality": "Grantchester",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8432,7 +8433,8 @@
             "properties": {
                 "name": "Coleridge Paddling Pool",
                 "locality": "Coleridge",
-                "district": "Cambridge"
+                "district": "Cambridge",
+                "removed": true
             }
         },
         {
@@ -8447,7 +8449,8 @@
             "properties": {
                 "name": "Coton St. Peter's Church",
                 "locality": "Coton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8597,7 +8600,8 @@
             "properties": {
                 "name": "Girton War Memorial",
                 "locality": "Girton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8612,7 +8616,8 @@
             "properties": {
                 "name": "Histon Historical Station",
                 "locality": "Histon",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8627,7 +8632,8 @@
             "properties": {
                 "name": "Histon War Memorial",
                 "locality": "Histon",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8657,7 +8663,8 @@
             "properties": {
                 "name": "Impington Village Sign Art",
                 "locality": "Impington",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8672,7 +8679,8 @@
             "properties": {
                 "name": "Kingfisher Gardens Play Area",
                 "locality": "Trumpington",
-                "district": "Cambridge"
+                "district": "Cambridge",
+                "removed": true
             }
         },
         {
@@ -8747,7 +8755,8 @@
             "properties": {
                 "name": "Milton Country Park Fen Road Entrance",
                 "locality": "Milton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8792,7 +8801,8 @@
             "properties": {
                 "name": "Milton War Memorial",
                 "locality": "Milton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8807,7 +8817,8 @@
             "properties": {
                 "name": "Milton White Horse",
                 "locality": "Milton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -8852,7 +8863,8 @@
             "properties": {
                 "name": "Post Office War Memorial",
                 "locality": "Coleridge",
-                "district": "Cambridge"
+                "district": "Cambridge",
+                "removed": true
             }
         },
         {

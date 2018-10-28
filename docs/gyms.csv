@@ -28,7 +28,7 @@ Addenbrookes,"Queen Edith's",Cambridge,1,52.175461,0.142176
 "The Moon, Sun and Stars",Trumpington,Cambridge,0,52.190322,0.132295
 "Cambridge Junction Arts",Coleridge,Cambridge,0,52.190578,0.135937
 "Junction Mural",Coleridge,Cambridge,0,52.190626,0.136711
-"Post Office War Memorial",Coleridge,Cambridge,0,52.192758,0.139176
+"Post Office War Memorial",Coleridge,Cambridge,0,52.192709,0.137583
 "St. Martin's Church",Coleridge,Cambridge,0,52.193068,0.149921
 "Systematic Beds of Herbaceous Plants",Trumpington,Cambridge,0,52.193242,0.124594
 Ceres,Trumpington,Cambridge,0,52.193406,0.135407
@@ -553,11 +553,15 @@ Litlington,Litlington,"South Cambridgeshire",0,52.066446,-0.086599
 "Meldreth Train Station",Meldreth,"South Cambridgeshire",0,52.090644,0.008865
 "The British Queen",Meldreth,"South Cambridgeshire",0,52.09647,0.007242
 "Playhouse Of Unlimited Adventure",Coleridge,Cambridge,0,52.189709,0.159276
+"All Saint's Church Milton",Milton,"South Cambridgeshire",0,52.24420166,0.166350007
+"Blue Ball",Grantchester,"South Cambridgeshire",1,52.183300018,0.094099
 "Boy with Duck Statue",Girton,"South Cambridgeshire",0,52.228626,0.084606
 "Cherry Hinton Brook",Coleridge,Cambridge,0,52.194400787,0.159098998
 "Chesterton Working Mens Club","East Chesterton",Cambridge,0,52.218088,0.14386
 "Climbing Stone",Castle,Cambridge,0,52.217741,0.109844
 "Coldham's Lane Play Area",Romsey,Cambridge,0,52.205422,0.151648
+"Coleridge Paddling Pool",Coleridge,Cambridge,1,52.193000793,0.144314006
+"Coton St. Peter's Church",Coton,"South Cambridgeshire",1,52.210300446,0.060366999
 "David Gregory Marshall MBE",Market,Cambridge,0,52.20853,0.120757
 "Defra Eastbrook Sculpture 2003",Trumpington,Cambridge,0,52.188853,0.12982
 "Fabulous Toilets",Market,Cambridge,0,52.200045,0.128138
@@ -567,15 +571,24 @@ Litlington,Litlington,"South Cambridgeshire",0,52.066446,-0.086599
 "Fulbourn Sundial",Fulbourn,"South Cambridgeshire",0,52.181711,0.21568
 "Fulbourn Victorian Power Junction Box",Fulbourn,"South Cambridgeshire",0,52.178956,0.223402
 "Girton College Main Gate",Girton,"South Cambridgeshire",0,52.228389,0.083619
+"Girton War Memorial",Girton,"South Cambridgeshire",1,52.240398407,0.083604999
+"Histon Historical Station",Histon,"South Cambridgeshire",1,52.242298126,0.110405996
+"Histon War Memorial",Histon,"South Cambridgeshire",1,52.248100281,0.108823001
 "Homefield Park",Impington,"South Cambridgeshire",0,52.248401642,0.109794997
+"Impington Village Sign Art",Impington,"South Cambridgeshire",1,52.243999481,0.111837998
+"Kingfisher Gardens Play Area",Trumpington,Cambridge,1,52.16619873,0.123392999
 "King's Hedges Community Football Pitch","King's Hedges",Cambridge,0,52.230538,0.124312
 "Lichfield Road Play Area",Coleridge,Cambridge,0,52.188796,0.150663
 "Little People Mosaic",Arbury,Cambridge,0,52.230553,0.118489
 "Lord Byron Inn",Trumpington,Cambridge,0,52.174347,0.110668
+"Milton Country Park Fen Road Entrance",Milton,"South Cambridgeshire",1,52.241298676,0.168651
 "Milton Country Park Visitors Centre",Milton,"South Cambridgeshire",0,52.236658,0.161618
 "Milton Parish Council",Milton,"South Cambridgeshire",0,52.240699768,0.160045996
+"Milton War Memorial",Milton,"South Cambridgeshire",1,52.243900299,0.164197996
+"Milton White Horse",Milton,"South Cambridgeshire",1,52.243301392,0.161415994
 "North Arbury Chapel","King's Hedges",Cambridge,0,52.230829,0.129354
 "OP - Stone Shards Beta","Orchard Park","South Cambridgeshire",0,52.235604,0.126702
+"Post Office War Memorial",Coleridge,Cambridge,1,52.192709,0.137583
 "Qualcomm North Fountain","East Chesterton",Cambridge,0,52.227502,0.154993
 "Quidditch Hoops",Castle,Cambridge,0,52.218602,0.088627
 "Rose & Crown",Impington,"South Cambridgeshire",0,52.251434,0.108892
@@ -586,8 +599,13 @@ run+leap,Castle,Cambridge,0,52.221498,0.092261
 "Sunclock on the ground","East Chesterton",Cambridge,0,52.223504,0.149061
 "Teversham Foxgloves Football Pitch",Teversham,"South Cambridgeshire",0,52.190777,0.184804
 "The Laws Of The University Football Club",Market,Cambridge,0,52.202438,0.130537
+"The Plough Coton",Coton,"South Cambridgeshire",0,52.20980072,0.066411003
+"The Red Lion","Cherry Hinton",Cambridge,0,52.185798645,0.171986997
+"The Waggon and Horses",Milton,"South Cambridgeshire",0,52.244701385,0.163450003
 "The Wrestlers",Abbey,Cambridge,0,52.210997,0.146459
+"Twin Stars",Histon,"South Cambridgeshire",0,52.24420166,0.107561998
 "Vinery Monolith",Romsey,Cambridge,0,52.20088,0.150704
+"Vision Park Sculpture",Histon,"South Cambridgeshire",0,52.244300842,0.107729003
 "Welcome To Cherry Hinton","Cherry Hinton",Cambridge,0,52.193337,0.181561
 "Wilberforce Road Sports Ground Pavilion",Newnham,Cambridge,0,52.206007,0.097143
 "Wired Nexus Fulbourn",Fulbourn,"South Cambridgeshire",0,52.182902,0.185922
