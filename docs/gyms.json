@@ -9166,6 +9166,21 @@
                 "locality": "Fulbourn",
                 "district": "South Cambridgeshire"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.032209,
+                    52.108106
+                ]
+            },
+            "properties": {
+                "name": "All Saints Church, Shepreth",
+                "locality": "Shepreth",
+                "district": "South Cambridgeshire"
+            }
         }
     ]
 }
