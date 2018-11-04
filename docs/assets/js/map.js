@@ -14,6 +14,7 @@ if (location.search.length > 1) {
             localStorage.setItem("gym" + i, ids.substr(i, 1));
         }
     }
+    location.replace("?");
 }
 
 function exportLevels () {
