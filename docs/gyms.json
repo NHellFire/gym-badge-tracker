@@ -16546,6 +16546,231 @@
                 "locality": "Tydd St. Giles",
                 "district": "Fenland"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.114247,
+                    52.234515
+                ]
+            },
+            "properties": {
+                "name": "OP Multi-use Games Area",
+                "locality": "Orchard Park",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.159968,
+                    52.214916
+                ]
+            },
+            "properties": {
+                "name": "Ditton Fields mini football goal",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.162999,
+                    52.185637
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hinton Hall Gate",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.122901,
+                    52.173268
+                ]
+            },
+            "properties": {
+                "name": "Hobson Square Log Sculpture",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.170941,
+                    52.193332
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hinton West Play Park",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.207502,
+                    52.180941
+                ]
+            },
+            "properties": {
+                "name": "Fulbourn Windmill",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.182644,
+                    52.088586
+                ]
+            },
+            "properties": {
+                "name": "Hinxton Village Sign",
+                "locality": "Hinxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.133369,
+                    52.207991
+                ]
+            },
+            "properties": {
+                "name": "Christ Church Cambridge",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.114707,
+                    52.195836
+                ]
+            },
+            "properties": {
+                "name": "The Barton Road Swimming Pool",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.153991,
+                    52.226985
+                ]
+            },
+            "properties": {
+                "name": "Nuffield Road Allotment Society",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.145652,
+                    52.233827
+                ]
+            },
+            "properties": {
+                "name": "Bradfield Centre Fountain",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.160503,
+                    52.185882
+                ]
+            },
+            "properties": {
+                "name": "St Philip Howard Catholic Church",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.142133,
+                    52.186293
+                ]
+            },
+            "properties": {
+                "name": "Rock Road Library ",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.070895,
+                    52.139005
+                ]
+            },
+            "properties": {
+                "name": "Harston All Saints Church",
+                "locality": "Harston",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120673,
+                    52.178099
+                ]
+            },
+            "properties": {
+                "name": "Brook End Close Play Area",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
         }
     ]
 }
