@@ -16771,6 +16771,876 @@
                 "locality": "Trumpington",
                 "district": "Cambridge"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138172,
+                    52.225963
+                ]
+            },
+            "properties": {
+                "name": "Sky Station",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.093287,
+                    52.152195
+                ]
+            },
+            "properties": {
+                "name": "Hauxton Meadows Play Area",
+                "locality": "Hauxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.186813,
+                    52.198505
+                ]
+            },
+            "properties": {
+                "name": "Christine Hinch Bench",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.084568,
+                    52.238348
+                ]
+            },
+            "properties": {
+                "name": "Girton Crest",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.10288,
+                    52.173222
+                ]
+            },
+            "properties": {
+                "name": "Carved Bird Totem Pole",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.139643,
+                    52.18351
+                ]
+            },
+            "properties": {
+                "name": "Victorian Pillar Box",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.174552,
+                    52.185638
+                ]
+            },
+            "properties": {
+                "name": "Cherry Hinton Skate Park",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.174107,
+                    52.216642
+                ]
+            },
+            "properties": {
+                "name": "Thorpe Way Play Area",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.162771,
+                    52.221089
+                ]
+            },
+            "properties": {
+                "name": "Ditton Meadows Trail Markers",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.086051,
+                    52.208535
+                ]
+            },
+            "properties": {
+                "name": "Uni Sports Centre",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.169209,
+                    52.221461
+                ]
+            },
+            "properties": {
+                "name": "St Mary the Virgin Church",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.091697,
+                    52.222513
+                ]
+            },
+            "properties": {
+                "name": "Stride jump",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.097415,
+                    52.223515
+                ]
+            },
+            "properties": {
+                "name": "Darwin green arch",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.119035,
+                    52.201095
+                ]
+            },
+            "properties": {
+                "name": "Peterhouse Master's Lodge",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.095115,
+                    52.17908
+                ]
+            },
+            "properties": {
+                "name": "The Church of St. Andrew and St. Mary",
+                "locality": "Grantchester",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.153395,
+                    52.219042
+                ]
+            },
+            "properties": {
+                "name": "Stourbridge Common Nature Reserve",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.127794,
+                    52.212509
+                ]
+            },
+            "properties": {
+                "name": "Fort Saint George",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.139512,
+                    52.208775
+                ]
+            },
+            "properties": {
+                "name": "Casey's Yard Memorial",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.114726,
+                    52.218797
+                ]
+            },
+            "properties": {
+                "name": "French's Mill",
+                "locality": "Arbury",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.162433,
+                    52.201829
+                ]
+            },
+            "properties": {
+                "name": "Barnwell Nature Reserve - South Entrance",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.163889,
+                    52.221804
+                ]
+            },
+            "properties": {
+                "name": "Andrew Silk Bench",
+                "locality": null,
+                "district": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138196,
+                    52.215702
+                ]
+            },
+            "properties": {
+                "name": "Skate Park And Extreme Play Area",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.198668,
+                    52.200249
+                ]
+            },
+            "properties": {
+                "name": "Teversham Recreation Ground Play Area",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.143261,
+                    52.213492
+                ]
+            },
+            "properties": {
+                "name": "Chesterton Bridge",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.104552,
+                    52.16938
+                ]
+            },
+            "properties": {
+                "name": "Brick Plus Motif",
+                "locality": "Haslingfield",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.169692,
+                    52.22334
+                ]
+            },
+            "properties": {
+                "name": "Fen Ditton Information Board",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.199751,
+                    52.196093
+                ]
+            },
+            "properties": {
+                "name": "Ferndale Children's Playground",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.113678,
+                    52.166433
+                ]
+            },
+            "properties": {
+                "name": "St Michael Street Play Area",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.161282,
+                    52.169247
+                ]
+            },
+            "properties": {
+                "name": "Hobson's Conduit Sign",
+                "locality": "Great Shelford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.187219,
+                    52.193805
+                ]
+            },
+            "properties": {
+                "name": "Determination",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.126319,
+                    52.171234
+                ]
+            },
+            "properties": {
+                "name": "Hobson's Park Bird Hide (North)",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.103893,
+                    52.148702
+                ]
+            },
+            "properties": {
+                "name": "Hauxton Village Sign",
+                "locality": "Hauxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.084858,
+                    52.227739
+                ]
+            },
+            "properties": {
+                "name": "Girton College Library",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.103625,
+                    52.199502
+                ]
+            },
+            "properties": {
+                "name": "Tyndale House",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.043179,
+                    52.22535
+                ]
+            },
+            "properties": {
+                "name": "The Three Horseshoes",
+                "locality": "Madingley",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.095518,
+                    52.169766
+                ]
+            },
+            "properties": {
+                "name": "Trumpington Meadows Mosaic",
+                "locality": "Haslingfield",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.162444,
+                    52.185348
+                ]
+            },
+            "properties": {
+                "name": "The Picnic",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.083561,
+                    52.240365
+                ]
+            },
+            "properties": {
+                "name": "Girton War Memorial",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.156788,
+                    52.220435
+                ]
+            },
+            "properties": {
+                "name": "WW2 Pill Box",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.164521,
+                    52.236751
+                ]
+            },
+            "properties": {
+                "name": "Milton Country Park Observation Deck",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.152825,
+                    52.181362
+                ]
+            },
+            "properties": {
+                "name": "Queen Edith Chapel",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.05236,
+                    52.150025
+                ]
+            },
+            "properties": {
+                "name": "Millennium Sundial",
+                "locality": "Haslingfield",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.154595,
+                    52.201809
+                ]
+            },
+            "properties": {
+                "name": "Vietnamese portal (An Lac)",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.133462,
+                    52.221742
+                ]
+            },
+            "properties": {
+                "name": "Arbury Road Baptist Church",
+                "locality": "West Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.097419,
+                    52.250076
+                ]
+            },
+            "properties": {
+                "name": "Histon and Girton Wood",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.057157,
+                    52.208384
+                ]
+            },
+            "properties": {
+                "name": "Benny\u2019s Way Play Park",
+                "locality": "Coton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.122421,
+                    52.176165
+                ]
+            },
+            "properties": {
+                "name": "Lime Avenue Play Area",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.124037,
+                    52.171521
+                ]
+            },
+            "properties": {
+                "name": "Clay Farm Garden Noticeboard",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.095874,
+                    52.251031
+                ]
+            },
+            "properties": {
+                "name": "Cambridge To St Ives railway",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.109786,
+                    52.260204
+                ]
+            },
+            "properties": {
+                "name": "Histon Sculpture Garden",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.134709,
+                    52.23223
+                ]
+            },
+            "properties": {
+                "name": "King's Hedges Basketball Court",
+                "locality": "King's Hedges",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.114299,
+                    52.205743
+                ]
+            },
+            "properties": {
+                "name": "The Jerwood Library",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.084818,
+                    52.240086
+                ]
+            },
+            "properties": {
+                "name": "Victor Watson Plaque",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.162428,
+                    52.211625
+                ]
+            },
+            "properties": {
+                "name": "Abbey Bowls Club",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.089165,
+                    52.218444
+                ]
+            },
+            "properties": {
+                "name": "Eddington Play Area",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.13219,
+                    52.185389
+                ]
+            },
+            "properties": {
+                "name": "Setting Out 2017",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.213151,
+                    52.185911
+                ]
+            },
+            "properties": {
+                "name": "The Horse Pond",
+                "locality": "Fulbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.082665,
+                    52.243507
+                ]
+            },
+            "properties": {
+                "name": "Swan Weathercock",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
         }
     ]
 }
