@@ -226,7 +226,7 @@ $(window).on("load", function () {
     map = L.map("map").setView([52.2, 0.12], 12);
     var osm = new L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         attribution: "Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors",
-        maxZoom: 50//18
+        maxZoom: 19
     });
     map.addLayer(osm);
 
@@ -314,7 +314,7 @@ $(window).on("load", function () {
                         fillOpacity: 0.15,
                         weight: 1
                     }
-                }}).addTo(map);
+                }});
             layerControl.addOverlay(boundaries, "Boundaries", "Basemap");
         });
 
