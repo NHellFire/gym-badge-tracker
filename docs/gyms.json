@@ -1482,7 +1482,8 @@
                 ]
             },
             "properties": {
-                "name": "Eagle @ west gate St John's",
+                "id": "a3cb832a81a646e865e350fbc2d138710e47ef3d",
+                "name": "West Gate Eagle, St John's College",
                 "locality": "Castle",
                 "district": "Cambridge"
             }
@@ -2186,7 +2187,8 @@
             "properties": {
                 "name": "Jenny Wren",
                 "locality": "King's Hedges",
-                "district": "Cambridge"
+                "district": "Cambridge",
+                "removed": true
             }
         },
         {
@@ -2517,7 +2519,8 @@
                 ]
             },
             "properties": {
-                "name": "Milton Country Park Fen Road Entrance",
+                "id": "8ee28d8883c03892032e6832d76ce8c0276f3aed",
+                "name": "Milton Country Park, Fen Road Entrance",
                 "locality": "Milton",
                 "district": "South Cambridgeshire"
             }
@@ -2580,7 +2583,8 @@
                 ]
             },
             "properties": {
-                "name": "Impington Village Sign Art",
+                "id": "df09c2d9d4061c918f378210cba4ab1f49964950",
+                "name": "Impington Village Sign",
                 "locality": "Impington",
                 "district": "South Cambridgeshire"
             }
@@ -2657,7 +2661,8 @@
                 ]
             },
             "properties": {
-                "name": "Bluntisham War Memorial",
+                "id": "077414a2229c85303b895b6e5d18c045b8594468",
+                "name": "Bluntisham War Memorial.",
                 "locality": "Bluntisham",
                 "district": "Huntingdonshire"
             }
@@ -3131,7 +3136,8 @@
                 ]
             },
             "properties": {
-                "name": "Ely Cathedrals Broken Tower",
+                "id": "e987592342bd98dc76412083e9be12648056688d",
+                "name": "Ely Cathedral's Broken Tower",
                 "locality": "Ely",
                 "district": "East Cambridgeshire"
             }
@@ -4449,7 +4455,8 @@
                 ]
             },
             "properties": {
-                "name": "Ramsden Square Rec",
+                "id": "543a110f7ca62c82ee80abb98cfbea22f9e072d5",
+                "name": "Ramsden Square Rec.",
                 "locality": "King's Hedges",
                 "district": "Cambridge"
             }
@@ -6299,7 +6306,8 @@
                 ]
             },
             "properties": {
-                "name": "Yelling Village Hall  - The Old Broad School",
+                "id": "be8567d6107a1dae99536ecd4967153b089e434c",
+                "name": "Yelling Village Hall - The Old Broad School",
                 "locality": "Yelling",
                 "district": "Huntingdonshire"
             }
@@ -7157,7 +7165,8 @@
                 ]
             },
             "properties": {
-                "name": "WWW1 Bench",
+                "id": "f3c5eb4b126709bd29e31c0a9418e82346c03897",
+                "name": "WW1 Bench",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
             }
@@ -8734,14 +8743,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.166350007,
-                    52.24420166
+                    0.166398,
+                    52.244284
                 ]
             },
             "properties": {
-                "name": "All Saint's Church Milton",
+                "id": "e74dbf6f4cf886a46b0223526138df322d699612",
+                "name": "All Saint's Church, Milton",
                 "locality": "Milton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -9189,11 +9200,12 @@
                 "type": "Point",
                 "coordinates": [
                     0.168651,
-                    52.241298676
+                    52.241347
                 ]
             },
             "properties": {
-                "name": "Milton Country Park Fen Road Entrance",
+                "id": "8ee28d8883c03892032e6832d76ce8c0276f3aed",
+                "name": "Milton Country Park, Fen Road Entrance",
                 "locality": "Milton",
                 "district": "South Cambridgeshire",
                 "removed": true
@@ -9209,7 +9221,8 @@
                 ]
             },
             "properties": {
-                "name": "Milton Country Park Visitors Centre",
+                "id": "40151d4eadae28df2e2bc35f2488bf341c1a8dd4",
+                "name": "Milton Country Park Visitors Sign",
                 "locality": "Milton",
                 "district": "South Cambridgeshire"
             }
@@ -9387,7 +9400,8 @@
                 ]
             },
             "properties": {
-                "name": "run+leap",
+                "id": "aa2adf38c958f8b22f6e324029aa8bb6cd4e89a5",
+                "name": "Run + Leap",
                 "locality": "Castle",
                 "district": "Cambridge"
             }
@@ -10489,7 +10503,8 @@
                 ]
             },
             "properties": {
-                "name": "George V Post Box",
+                "id": "567f7992292cf03aa243a95daedf81f65382205e",
+                "name": "George V Post Box Baldock Way",
                 "locality": "Queen Edith's",
                 "district": "Cambridge"
             }
@@ -10618,7 +10633,8 @@
             "properties": {
                 "name": "Click And Climb Activity Center",
                 "locality": "Coleridge",
-                "district": "Cambridge"
+                "district": "Cambridge",
+                "removed": true
             }
         },
         {
@@ -17218,7 +17234,8 @@
                 ]
             },
             "properties": {
-                "name": "Leverington Sports And Social Club",
+                "id": "b52d488399fc2a936b8b54ef9114ac997effdee1",
+                "name": "Leverington Sports  And Social Club",
                 "locality": "Leverington",
                 "district": "Fenland"
             }
@@ -17537,7 +17554,8 @@
                 ]
             },
             "properties": {
-                "name": "Hobson Square Log Sculpture",
+                "id": "0331d3640abb35b2e6c50bf14a74dacd44dd5a37",
+                "name": "Bronze House Sculpture - Hobson Square",
                 "locality": "Trumpington",
                 "district": "Cambridge"
             }
@@ -18464,7 +18482,8 @@
                 ]
             },
             "properties": {
-                "name": "Lime Avenue Play Area",
+                "id": "1cfdc9985a9cd18722400fe1d29b8369c6c7bc5a",
+                "name": "Woodpecker Way Play Area",
                 "locality": "Trumpington",
                 "district": "Cambridge"
             }
