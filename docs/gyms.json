@@ -1533,7 +1533,8 @@
                 "id": "37f78589cfc71606cf2d55554adf5bc689325b2a",
                 "name": "The Plough Coton",
                 "locality": "Coton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -2364,7 +2365,8 @@
                 "id": "ad736c4cc968905e2dce5927223428717b2efc42",
                 "name": "Four Leaf Clover",
                 "locality": "Orchard Park",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -2506,7 +2508,8 @@
                 "id": "f76ce658e6a6079bce2e96234efe1a9e09f39826",
                 "name": "Girton War Memorial",
                 "locality": "Girton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -2602,7 +2605,8 @@
                 "id": "907c4d99293ad91663a8e3f6b665ae0103a186e5",
                 "name": "Vision Park Sculpture",
                 "locality": "Histon",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -4792,7 +4796,8 @@
                 "id": "055b7d0a491a8cf2c18a3d6e6322517f37d5b7bb",
                 "name": "The Waggon and Horses",
                 "locality": "Milton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -5093,7 +5098,8 @@
                 "id": "dc8aab3d1301722ac805e5db61f3d69daf0aba67",
                 "name": "Twin Stars",
                 "locality": "Histon",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -7819,7 +7825,8 @@
             "properties": {
                 "name": "The Glorious Dead",
                 "locality": "St. Neots",
-                "district": "Huntingdonshire"
+                "district": "Huntingdonshire",
+                "removed": true
             }
         },
         {
@@ -7992,7 +7999,8 @@
             "properties": {
                 "name": "The Cross Keys Upwood",
                 "locality": "Upwood and the Raveleys",
-                "district": "Huntingdonshire"
+                "district": "Huntingdonshire",
+                "removed": true
             }
         },
         {
@@ -9094,7 +9102,8 @@
                 "id": "69a54d1f7e796c7cf962693271bbeb8d52e8d4c0",
                 "name": "Homefield Park",
                 "locality": "Impington",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -9240,7 +9249,8 @@
                 "id": "726519631dd35df967933356073af3235e5e120f",
                 "name": "Milton Parish Council",
                 "locality": "Milton",
-                "district": "South Cambridgeshire"
+                "district": "South Cambridgeshire",
+                "removed": true
             }
         },
         {
@@ -10330,7 +10340,8 @@
             "properties": {
                 "name": "Clay Farm Garden Noticeboard",
                 "locality": "Trumpington",
-                "district": "Cambridge"
+                "district": "Cambridge",
+                "removed": true
             }
         },
         {
