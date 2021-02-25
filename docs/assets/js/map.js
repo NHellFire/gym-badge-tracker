@@ -269,8 +269,10 @@ $(window).on("load", function () {
                 },
                 onEachFeature: function (feature, layer) {
                     layer.setIcon(markerIcons[badgeLevel]);
+                    var select = $("<div><select data-gymid='" + k + "' onchange='setBadgeLevel(this.value, \"" + k + "\")'><option value=0>Basic</option><option value=1>Bronze</option><option value=2>Silver</option><option value=3>Gold</option></select></div>");
+                    select.find("option[value='" + badgeLevel + "']").attr("selected", true);
                     layer.bindPopup("<h2>" + feature.properties.name + "</h2>" +
-                        "<select data-gymid='" + k + "' onchange='setBadgeLevel(this.value, \"" + k + "\")'><option value=0>Basic</option><option value=1>Bronze</option><option value=2>Silver</option><option value=3>Gold</option></select><br><br>" +
+                        select.html() + "<br><br>" +
                         "<a target='_blank' href='https://maps.google.com/maps/dir//" + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + "'>Get directions</a>");
                     markers.push(layer);
                 }
