@@ -58,6 +58,31 @@ function nameOnClick() {
     layerGroups[district][locality].zoomToShowLayer(marker, function(){marker.openPopup();})
 }
 
+function setBadgeLevel(newLevel, gymID) {
+    var gym = gymList.get("id", gymID)[0];
+    var levelString = getLevelString(newLevel);
+    var levelClass = levelString.toLowerCase();
+    var marker = getMarker(gym);
+    var elem = null;
+    gym.values({
+        levelString: levelString,
+        levelInt: newLevel
+    });
+    var badge = $("td.id").filter(function(){return $(this).text() == gymID;}).closest("tr").find(".badge");
+    if (badge === undefined || badge === null || badge.length === 0) {
+        elem = gym.elm;
+        badge = $(elem).find(".badge");
+    }
+    badge.attr("class", "badge badge-" + levelClass);
+    if (elem !== null) {
+        gym.elm = elem;
+    }
+    marker.setIcon(markerIcons[newLevel]);
+    $("select[data-gymid='" + gymID + "']").val(newLevel);
+    localStorage.setItem("gym" + gymID, newLevel);
+    gymList.update();
+}
+
 function badgeOnClick() {
     var newLevel = 0;
     var gymID = $(this).closest("tr").find(".id").text();
@@ -66,18 +91,7 @@ function badgeOnClick() {
     if (oldLevel < 3) {
         newLevel = oldLevel + 1;
     }
-    var levelString = getLevelString(newLevel);
-    var levelClass = levelString.toLowerCase();
-    var marker = getMarker(gym);
-    gym.values({
-        levelString: levelString,
-        levelInt: newLevel
-    });
-    var badge = $("td.id").filter(function(){return $(this).text() == gymID;}).closest("tr").find(".badge");
-    badge.attr("class", "badge badge-" + levelClass);
-    marker.setIcon(markerIcons[newLevel]);
-    localStorage.setItem("gym" + gymID, newLevel);
-    gymList.update();
+    setBadgeLevel(newLevel, gymID);
 }
 
 $(window).on("load", function () {
@@ -256,6 +270,7 @@ $(window).on("load", function () {
                 onEachFeature: function (feature, layer) {
                     layer.setIcon(markerIcons[badgeLevel]);
                     layer.bindPopup("<h2>" + feature.properties.name + "</h2>" +
+                        "<select data-gymid='" + k + "' onchange='setBadgeLevel(this.value, \"" + k + "\")'><option value=0>Basic</option><option value=1>Bronze</option><option value=2>Silver</option><option value=3>Gold</option></select><br><br>" +
                         "<a target='_blank' href='https://maps.google.com/maps/dir//" + feature.geometry.coordinates[1] + "," + feature.geometry.coordinates[0] + "'>Get directions</a>");
                     markers.push(layer);
                 }
