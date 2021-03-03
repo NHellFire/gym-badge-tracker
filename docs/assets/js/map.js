@@ -81,6 +81,16 @@ function setBadgeLevel(newLevel, gymID) {
     $("select[data-gymid='" + gymID + "']").val(newLevel);
     localStorage.setItem("gym" + gymID, newLevel);
     gymList.update();
+
+    // Update dropdown box to the new level
+    var popup = marker.getPopup();
+    var content = $($.parseHTML("<div>" + popup.getContent() + "</div>"));
+
+    content.find("option").removeAttr("selected");
+    content.find("option[value=" + newLevel + "]").attr("selected", "");
+
+    popup.setContent(content.html());
+    popup.update()
 }
 
 function badgeOnClick() {
