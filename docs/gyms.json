@@ -395,7 +395,8 @@
                 ]
             },
             "properties": {
-                "name": "United Reformed Church",
+                "id": "2c38193935bade3b459c40757d575ee0b79f3fa2",
+                "name": "Orthodox Church of St Athanasios",
                 "locality": "Coleridge",
                 "district": "Cambridge"
             }
@@ -901,8 +902,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.157283,
-                    52.200317
+                    0.157105,
+                    52.20031
                 ]
             },
             "properties": {
@@ -1686,8 +1687,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.113788,
-                    52.21151
+                    0.113675,
+                    52.211582
                 ]
             },
             "properties": {
@@ -1750,8 +1751,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.108684,
-                    52.212867
+                    0.108678,
+                    52.212944
                 ]
             },
             "properties": {
@@ -2395,7 +2396,8 @@
                 ]
             },
             "properties": {
-                "name": "Fountain - Cambridge",
+                "id": "6f551aa0ceb227f8c0548c20ed175ecb5836fc4d",
+                "name": "Fountain - Innovation Park",
                 "locality": "Milton",
                 "district": "South Cambridgeshire"
             }
@@ -2474,7 +2476,8 @@
                 ]
             },
             "properties": {
-                "name": "Tessa Cohen Clock Tower",
+                "id": "32997236018b838a878b70da57b7c5a104b63674",
+                "name": "Tesco Clock Tower",
                 "locality": "Milton",
                 "district": "South Cambridgeshire"
             }
@@ -2681,7 +2684,8 @@
                 ]
             },
             "properties": {
-                "name": "Bluntisham Baptised Church",
+                "id": "ebd227bd1627d5c8a5aacf8532e27a320d618530",
+                "name": "Bluntisham Baptist Church",
                 "locality": "Bluntisham",
                 "district": "Huntingdonshire"
             }
@@ -2903,7 +2907,8 @@
                 ]
             },
             "properties": {
-                "name": "A Paddy Bird from Ceylon",
+                "id": "51b7e0b7dba48a15d2bc734f68d0c36924468635",
+                "name": "First World War British Biplane",
                 "locality": "Duxford",
                 "district": "South Cambridgeshire"
             }
@@ -3300,6 +3305,7 @@
                 ]
             },
             "properties": {
+                "id": "bee4ba0256ba7cd7ebafe6dcf3f57610e53ceea0",
                 "name": "Fenstanton Clock House",
                 "locality": "Fenstanton",
                 "district": "Huntingdonshire"
@@ -3315,7 +3321,8 @@
                 ]
             },
             "properties": {
-                "name": "A Particular Chapel",
+                "id": "16bcd7c0eb8ef32f40410484193b3cb5bde91b55",
+                "name": "Fenstanton Parish Church",
                 "locality": "Fenstanton",
                 "district": "Huntingdonshire",
                 "removed": true
@@ -3331,6 +3338,7 @@
                 ]
             },
             "properties": {
+                "id": "16bcd7c0eb8ef32f40410484193b3cb5bde91b55",
                 "name": "Fenstanton Parish Church",
                 "locality": "Fenstanton",
                 "district": "Huntingdonshire"
@@ -3362,7 +3370,8 @@
                 ]
             },
             "properties": {
-                "name": "Our Glorious Dead",
+                "id": "429ba9c49ad83529147f9c6a194490d2e3f1289b",
+                "name": "Fordham War Memorial - Our Glorious Dead",
                 "locality": "Fordham",
                 "district": "East Cambridgeshire"
             }
@@ -3441,7 +3450,8 @@
                 ]
             },
             "properties": {
-                "name": "Haddenham Church",
+                "id": "4f5363d00a72fba64a5050dbcba758952c097e34",
+                "name": "Haddenham Church Of The Holy Trinity",
                 "locality": "Haddenham",
                 "district": "East Cambridgeshire"
             }
@@ -3456,7 +3466,8 @@
                 ]
             },
             "properties": {
-                "name": "Fairchilds Meadows",
+                "id": "16b934117f131262b263ed861579f35cafd68416",
+                "name": "Fairchild\u2019s Meadows",
                 "locality": "Haddenham",
                 "district": "East Cambridgeshire"
             }
@@ -3595,7 +3606,8 @@
                 ]
             },
             "properties": {
-                "name": "Ouse Valley Way",
+                "id": "756ffab030243bafa1506374ecbe69b2de8592b3",
+                "name": "Welcome to the Ouse Valley Way",
                 "locality": "Houghton and Wyton",
                 "district": "Huntingdonshire"
             }
@@ -3763,8 +3775,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.301127,
-                    52.462632
+                    0.298384,
+                    52.46342
                 ]
             },
             "properties": {
@@ -4034,7 +4046,8 @@
                 ]
             },
             "properties": {
-                "name": "Sawston Parish Cemetary",
+                "id": "8a761c8b98d04a298955798c34b028d27c239b84",
+                "name": "Sawston Parish Cemetery",
                 "locality": "Sawston",
                 "district": "South Cambridgeshire"
             }
@@ -4129,7 +4142,8 @@
                 ]
             },
             "properties": {
-                "name": "St. Andrews Church",
+                "id": "d557ac7b0be0d3a9695c75338cea197b9120d0d8",
+                "name": "St. Andrew\u2019s Church",
                 "locality": "Soham",
                 "district": "East Cambridgeshire"
             }
@@ -4191,6 +4205,7 @@
                 ]
             },
             "properties": {
+                "id": "d7af5bd2c8e0b0aff8d43ca8ed225a46d449640e",
                 "name": "St. Andrew's Church",
                 "locality": "Sutton",
                 "district": "East Cambridgeshire"
@@ -4247,8 +4262,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.165784,
-                    52.103547
+                    0.165547,
+                    52.103578
                 ]
             },
             "properties": {
@@ -4316,7 +4331,8 @@
                 ]
             },
             "properties": {
-                "name": "Wyton Airplay Basketball Court",
+                "id": "86ff92ca5b4181295e6c1f4679d86d62e1a4e281",
+                "name": "Wyton Airplay Multi Use Games Area",
                 "locality": "Wyton-on-the-Hill",
                 "district": "Huntingdonshire"
             }
@@ -4406,8 +4422,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.123393,
-                    52.16617
+                    0.123205,
+                    52.166071
                 ]
             },
             "properties": {
@@ -4936,7 +4952,8 @@
                 ]
             },
             "properties": {
-                "name": "St. Andrew's Church",
+                "id": "9bd306d62f62c67e2f514d888c2878146235510f",
+                "name": "St. Andrew's Church (Impington)",
                 "locality": "Impington",
                 "district": "South Cambridgeshire"
             }
@@ -5160,7 +5177,8 @@
                 ]
             },
             "properties": {
-                "name": "In Memory of Iain Stewartt",
+                "id": "2258b7a12fe0ec04c57ec4ca74fc24d04ec5f5eb",
+                "name": "In Memory of Iain Stewart",
                 "locality": "Toft",
                 "district": "South Cambridgeshire"
             }
@@ -5201,8 +5219,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.301923,
-                    52.253282
+                    0.301354,
+                    52.253438
                 ]
             },
             "properties": {
@@ -5942,6 +5960,7 @@
                 ]
             },
             "properties": {
+                "id": "ae9b0ed9fbe54db8c5f83fb8053a42ffbb7cb8f9",
                 "name": "Cambourne Wind Turbine",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
@@ -5973,6 +5992,7 @@
                 ]
             },
             "properties": {
+                "id": "a03f47741dcad32cfa9d59784dd5b8c2a7e47680",
                 "name": "Cambourne Crocodile",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
@@ -6004,6 +6024,7 @@
                 ]
             },
             "properties": {
+                "id": "03ca05e144c3a23ba2151f9ce32b4a8f7e332fd2",
                 "name": "Crow Hill Cambourne Country Park",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
@@ -6050,6 +6071,7 @@
                 ]
             },
             "properties": {
+                "id": "e33d53c399c3246fa328aae7efb134c378dd39b7",
                 "name": "Cambourne Park Fountains",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
@@ -6112,6 +6134,7 @@
                 ]
             },
             "properties": {
+                "id": "8831147fe5991bae39003ee8475c4d8c3b230dc4",
                 "name": "Cambourne Church",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
@@ -6127,6 +6150,7 @@
                 ]
             },
             "properties": {
+                "id": "44d3de60b4ebf42f698a105417feb7800aa8cc03",
                 "name": "The Hub",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
@@ -6142,6 +6166,7 @@
                 ]
             },
             "properties": {
+                "id": "8c6c62485a6d0c8e41d9988e3a6f3b936c978f6d",
                 "name": "Cambourne Business Park Sculpture",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
@@ -6220,6 +6245,7 @@
                 ]
             },
             "properties": {
+                "id": "732d1cb44856ae7aa5c72d023f42d21b6d77468c",
                 "name": "Feather Sculpture",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
@@ -6323,8 +6349,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.113846,
-                    52.24883
+                    -0.114089,
+                    52.248878
                 ]
             },
             "properties": {
@@ -6502,7 +6528,8 @@
                 ]
             },
             "properties": {
-                "name": "War Memorial St Bartholomew Church",
+                "id": "73c862a2fd4595b63e85b360854e6c8d7d987231",
+                "name": "Great Stukeley War Memorial, St. Bartholomew",
                 "locality": "The Stukeleys",
                 "district": "Huntingdonshire"
             }
@@ -6517,6 +6544,7 @@
                 ]
             },
             "properties": {
+                "id": "228b96dcbcf478969be3be8ffb76f9df63a905d9",
                 "name": "A Particular Chapel",
                 "locality": "Fenstanton",
                 "district": "Huntingdonshire"
@@ -6673,6 +6701,7 @@
                 ]
             },
             "properties": {
+                "id": "eb9d7dd56a34438973f687c92a2575b00ba2885d",
                 "name": "Hill Rise Park Metalwork",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
@@ -6683,14 +6712,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.2106,
-                    52.327521
+                    -0.209213,
+                    52.326297
                 ]
             },
             "properties": {
                 "id": "4880aa4b6312a2ed758b6e009ed07e7dd07e7db0",
                 "name": "Okolice Jeziora",
-                "locality": "Brampton",
+                "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
         },
@@ -6735,7 +6764,8 @@
                 ]
             },
             "properties": {
-                "name": "St. Ives Parish Church All Saints ",
+                "id": "b9c40c6de7a4e33daaf5f7ffe7c25bb3cd28ce76",
+                "name": "All Saints Parish Church of St. Ives",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
             }
@@ -6750,6 +6780,7 @@
                 ]
             },
             "properties": {
+                "id": "92a03c146bdb6bf771ba9840a367c91ab042f65e",
                 "name": "Fen Drayton Village Lock Up",
                 "locality": "Fen Drayton",
                 "district": "South Cambridgeshire"
@@ -6796,7 +6827,8 @@
                 ]
             },
             "properties": {
-                "name": "Hinchingbrooke Park",
+                "id": "18ff84d42a5453209c2391fd7b9657c2d124a7ed",
+                "name": "Hinchingbrooke Country Park, South Entrance",
                 "locality": "Brampton",
                 "district": "Huntingdonshire"
             }
@@ -6843,7 +6875,8 @@
                 ]
             },
             "properties": {
-                "name": "Oneleisure Swimming Pool And School Swimming",
+                "id": "54a37ceed183a1f1fd9187abd5ce49c6a23f97d8",
+                "name": "Oneleisure Swimming Pool",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -6885,8 +6918,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.078415,
-                    52.342664
+                    -0.078703,
+                    52.342259
                 ]
             },
             "properties": {
@@ -6937,7 +6970,8 @@
                 ]
             },
             "properties": {
-                "name": "Stukeley Meadows LNR",
+                "id": "05037e739d5afffdd09ac2261e3a1072fce4ec83",
+                "name": "Stukeley Meadows LNR Northern Point",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -6952,7 +6986,8 @@
                 ]
             },
             "properties": {
-                "name": "St.Mary's Church ",
+                "id": "68d470a919afae5d2723994aaf7bcc7045236fd5",
+                "name": "St. Mary's Church, Huntingdon",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7078,7 +7113,8 @@
                 ]
             },
             "properties": {
-                "name": "Guided Bus - Swavesy",
+                "id": "70d8ef33a5820923e9245fb167ec6f6763a13240",
+                "name": "Swavesey Guided Bus",
                 "locality": "Swavesey",
                 "district": "South Cambridgeshire"
             }
@@ -7125,7 +7161,8 @@
                 ]
             },
             "properties": {
-                "name": "Welcome to Hinchingbrooke Country Park",
+                "id": "9da1c574da416118e9c67276d62db59bb565012d",
+                "name": "Hinchingbrooke Country Park, West Entrance",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7135,8 +7172,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.175447,
-                    52.318127
+                    -0.175351,
+                    52.318166
                 ]
             },
             "properties": {
@@ -7156,7 +7193,8 @@
                 ]
             },
             "properties": {
-                "name": "All Saints Hartford",
+                "id": "5c525ecb02b30b70e75bfe6e6a3703582b47f05f",
+                "name": "All Saints Parish Church, Hartford",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7187,7 +7225,8 @@
                 ]
             },
             "properties": {
-                "name": "Pinhole Art Mural on Metal, Huntingdon Town",
+                "id": "fd52f8e22979a52d7f6ffe64ba490e16af50e17f",
+                "name": "Pinhole Art Mural on Metal",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7212,8 +7251,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.184495,
-                    52.330521
+                    -0.184596,
+                    52.330502
                 ]
             },
             "properties": {
@@ -7265,7 +7304,8 @@
                 ]
             },
             "properties": {
-                "name": "Hinchingbrooke Country Park",
+                "id": "6408d2d33e409424e421ba9eeee848b7d40cd458",
+                "name": "Welcome to Hinchingbrooke Country Park",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7275,8 +7315,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.176833,
-                    52.320825
+                    -0.176704,
+                    52.320281
                 ]
             },
             "properties": {
@@ -7296,7 +7336,8 @@
                 ]
             },
             "properties": {
-                "name": "Norma Major Plaque At Huntingdon Tesco",
+                "id": "00accf99c8ae05fa871a20adb3ab9a9fdc5d120e",
+                "name": "Norma Major Plaque, Huntingdon Tesco",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7343,7 +7384,8 @@
                 ]
             },
             "properties": {
-                "name": "Stuckley Meadows LNR2",
+                "id": "8f5cf074676f2306976efe0f5b569a6f9b28ec07",
+                "name": "Stukeley Meadows LNR Southern Point",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7358,7 +7400,8 @@
                 ]
             },
             "properties": {
-                "name": "Trinity Church",
+                "id": "d5af0d6ed9cc87e865c8f4a394014c64cd25ada8",
+                "name": "Trinity Free Church",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7373,7 +7416,8 @@
                 ]
             },
             "properties": {
-                "name": "Catholic Church Of St Michael The Archangel",
+                "id": "c3d3185dbbe3cc41a7cc01c8e402032d31c2ca4c",
+                "name": "Catholic Church of St. Michael the Archangel",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7383,8 +7427,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.175558,
-                    52.345164
+                    -0.175322,
+                    52.345181
                 ]
             },
             "properties": {
@@ -7436,7 +7480,8 @@
                 ]
             },
             "properties": {
-                "name": "Hinchinbrooke House Gate",
+                "id": "28eaac8eece9d6624429eb40bc6e9284c9527142",
+                "name": "Hinchingbrooke House Gate",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7451,7 +7496,8 @@
                 ]
             },
             "properties": {
-                "name": "Godmanchester Parish Church ",
+                "id": "12b64c4101f70a8fec48586283f919a806c07c95",
+                "name": "Church of St. Mary the Virgin, Godmanchester",
                 "locality": "Godmanchester",
                 "district": "Huntingdonshire"
             }
@@ -7514,7 +7560,8 @@
                 ]
             },
             "properties": {
-                "name": "Mabel Stuart ' s Bench",
+                "id": "b2cfa970221f053b8e42475a3a28cdb7506fbc15",
+                "name": "Mabel Stuart's Bench",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
             }
@@ -7529,7 +7576,8 @@
                 ]
             },
             "properties": {
-                "name": "In Memory Buckden",
+                "id": "b64b2adb405d5e1504fb7b08e90d8ea7aa263812",
+                "name": "Buckden War Memorial",
                 "locality": "Buckden",
                 "district": "Huntingdonshire"
             }
@@ -7808,7 +7856,8 @@
                 ]
             },
             "properties": {
-                "name": "Hail Weston Town Hall ",
+                "id": "bc4043ee844b533ab8c6eb626b88daa045cb4dd6",
+                "name": "Hail Weston Village Hall",
                 "locality": "Hail Weston",
                 "district": "Huntingdonshire"
             }
@@ -7881,8 +7930,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.273159,
-                    52.231256
+                    -0.273071,
+                    52.231142
                 ]
             },
             "properties": {
@@ -8381,7 +8430,8 @@
                 ]
             },
             "properties": {
-                "name": "Coveney Play And Multi Use Games Area",
+                "id": "9a2e883f0c024c8793bcbb507ae500adea710a7e",
+                "name": "Coveney Play Area",
                 "locality": "Coveney",
                 "district": "East Cambridgeshire"
             }
@@ -9127,8 +9177,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.123393,
-                    52.16617
+                    0.123205,
+                    52.166071
                 ]
             },
             "properties": {
@@ -10125,8 +10175,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.156796,
-                    52.147918
+                    0.156753,
+                    52.147828
                 ]
             },
             "properties": {
@@ -10301,8 +10351,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.11069,
-                    52.169817
+                    0.110459,
+                    52.169797
                 ]
             },
             "properties": {
@@ -10642,7 +10692,8 @@
                 ]
             },
             "properties": {
-                "name": "Click And Climb Activity Center",
+                "id": "c12ab878da42f517dc09cbe2eb5382f19ea098be",
+                "name": "Clip And Climb Activity Center",
                 "locality": "Coleridge",
                 "district": "Cambridge",
                 "removed": true
@@ -10685,8 +10736,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.148002,
-                    52.204999
+                    0.147846,
+                    52.205025
                 ]
             },
             "properties": {
@@ -11011,7 +11062,7 @@
             },
             "properties": {
                 "id": "221b20a6b273efb3e626831c419439081327c3a6",
-                "name": "Arbury Court Post Office",
+                "name": "Arbury Court Post Office ",
                 "locality": "King's Hedges",
                 "district": "Cambridge"
             }
@@ -11090,7 +11141,8 @@
                 ]
             },
             "properties": {
-                "name": "King George V Postbox",
+                "id": "cb31467aa72e1c3340dcdaa8d5916ba28fa74c76",
+                "name": "George V Postbox, Great North Road",
                 "locality": "St. Neots",
                 "district": "Huntingdonshire"
             }
@@ -11660,8 +11712,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.259939,
-                    52.250202
+                    -0.259684,
+                    52.250147
                 ]
             },
             "properties": {
@@ -11756,8 +11808,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.02413,
-                    52.251707
+                    0.024358,
+                    52.251672
                 ]
             },
             "properties": {
@@ -12076,8 +12128,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.296753,
-                    52.270697
+                    0.297092,
+                    52.270427
                 ]
             },
             "properties": {
@@ -12097,7 +12149,8 @@
                 ]
             },
             "properties": {
-                "name": "Cook's Field Playpark",
+                "id": "0996bc6eb5d309f53d455eae6c8b4ca79c324f96",
+                "name": "Cooke\u2019s Field Playpark",
                 "locality": "Waterbeach",
                 "district": "South Cambridgeshire"
             }
@@ -12368,7 +12421,8 @@
                 ]
             },
             "properties": {
-                "name": "Offord Darcy Village Sign",
+                "id": "8adf76a457cf233f295d6dd4ee3c2d214c7d412e",
+                "name": "Offord D\u2019Arcy Village Sign",
                 "locality": "Offord Cluny and Offord D'Arcy",
                 "district": "Huntingdonshire"
             }
@@ -12703,7 +12757,8 @@
                 ]
             },
             "properties": {
-                "name": "St Judith\u2019s Field Playground",
+                "id": "63270fb819e9889ffd621f65a0502851829eda4b",
+                "name": "Judith\u2019s Field Playground",
                 "locality": "Godmanchester",
                 "district": "Huntingdonshire"
             }
@@ -12745,8 +12800,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.16321,
-                    52.312515
+                    -0.163389,
+                    52.312537
                 ]
             },
             "properties": {
@@ -12937,8 +12992,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.17508,
-                    52.318655
+                    -0.175124,
+                    52.31866
                 ]
             },
             "properties": {
@@ -12990,7 +13045,8 @@
                 ]
             },
             "properties": {
-                "name": "Play Area",
+                "id": "b5cbbc11a775ed6aaf1bab027243d427c3fec6f4",
+                "name": "Godmanchester Recreation Ground Play Area",
                 "locality": "Godmanchester",
                 "district": "Huntingdonshire"
             }
@@ -13000,8 +13056,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.358222,
-                    52.319941
+                    0.358142,
+                    52.320015
                 ]
             },
             "properties": {
@@ -13037,7 +13093,8 @@
                 ]
             },
             "properties": {
-                "name": "Brampton church hall",
+                "id": "52cc3f7d74a7a1ee791a6dcb3d771b8734bf1e9d",
+                "name": "St. Mary Magdalene Brampton Church Hall",
                 "locality": "Brampton",
                 "district": "Huntingdonshire"
             }
@@ -13079,8 +13136,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.073229,
-                    52.323402
+                    -0.073273,
+                    52.323409
                 ]
             },
             "properties": {
@@ -13095,8 +13152,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.070532,
-                    52.324079
+                    -0.070597,
+                    52.324003
                 ]
             },
             "properties": {
@@ -13244,7 +13301,8 @@
                 ]
             },
             "properties": {
-                "name": "Hinchingbrooke Country Park",
+                "id": "82062a350b6968b2e19ba51111f8eb6e74fe43fa",
+                "name": "Hinchingbrooke Country Park, North Entrance",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -13254,8 +13312,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.174414,
-                    52.331276
+                    -0.174371,
+                    52.331304
                 ]
             },
             "properties": {
@@ -13419,7 +13477,8 @@
                 ]
             },
             "properties": {
-                "name": "Bertie\u2019s Post Box",
+                "id": "aba3f3e1ebcc98300260c4ba3e92c142dc67571f",
+                "name": "Soham George V Post Box",
                 "locality": "Soham",
                 "district": "East Cambridgeshire"
             }
@@ -13450,7 +13509,8 @@
                 ]
             },
             "properties": {
-                "name": "King George VI Pillerbox",
+                "id": "480d21f4c0dd85437360294150db68caf0422a2b",
+                "name": "King George VI Pillar Box",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -13465,7 +13525,8 @@
                 ]
             },
             "properties": {
-                "name": "Houghton And Wyton Village Sign",
+                "id": "387c77be28f68995ea7f7d6cfa68fb040b5c6c28",
+                "name": "Houghton & Wyton Village Sign",
                 "locality": "Houghton and Wyton",
                 "district": "Huntingdonshire"
             }
@@ -13480,7 +13541,8 @@
                 ]
             },
             "properties": {
-                "name": "Play Area Stukeley Meadows",
+                "id": "652ee0b3405613b6012b17d9d0b18b346868a937",
+                "name": "Beacon Close Play Area, Stukeley Meadows",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -13506,8 +13568,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.184227,
-                    52.340748
+                    -0.184221,
+                    52.34099
                 ]
             },
             "properties": {
@@ -13527,7 +13589,8 @@
                 ]
             },
             "properties": {
-                "name": "Radar Dish",
+                "id": "caf873d4eef15ae3f2589b058df2c2c8a76702fc",
+                "name": "Hill Rise Park Radar Dish",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
             }
@@ -13585,8 +13648,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.169405,
-                    52.34348
+                    -0.169484,
+                    52.343414
                 ]
             },
             "properties": {
@@ -13606,7 +13669,8 @@
                 ]
             },
             "properties": {
-                "name": "Coneygear Park",
+                "id": "99c23ba1060c3d157771d6e03fc8904a8090306b",
+                "name": "Coneygear Park Sign",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -13680,8 +13744,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.16821,
-                    52.348325
+                    -0.16799,
+                    52.348274
                 ]
             },
             "properties": {
@@ -13712,8 +13776,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.013596,
-                    52.35114
+                    0.01361,
+                    52.35111
                 ]
             },
             "properties": {
@@ -13776,8 +13840,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.036681,
-                    52.35557
+                    0.037125,
+                    52.355402
                 ]
             },
             "properties": {
@@ -13829,7 +13893,8 @@
                 ]
             },
             "properties": {
-                "name": "The Church Of Jesus Christ Latter Day Saints",
+                "id": "ada060576354316dd82261a38c76e00e5c8ea8b5",
+                "name": "The Church of Jesus Christ & Latter Day Saints",
                 "locality": "The Stukeleys",
                 "district": "Huntingdonshire"
             }
@@ -13924,7 +13989,8 @@
                 ]
             },
             "properties": {
-                "name": "Leighton Hundred Stone",
+                "id": "db100663ad4037784e19c7e0b7a594479982e5bf",
+                "name": "Leighton Bromswold Hundred Stone",
                 "locality": "Leighton",
                 "district": "Huntingdonshire"
             }
@@ -13939,7 +14005,8 @@
                 ]
             },
             "properties": {
-                "name": "Water Pump",
+                "id": "9e99b645ad1b6bf48e813184dca890470402e7a6",
+                "name": "Alconbury Water Pump",
                 "locality": "Alconbury",
                 "district": "Huntingdonshire"
             }
@@ -13954,7 +14021,8 @@
                 ]
             },
             "properties": {
-                "name": "Brington Church",
+                "id": "ae2a098c8903c07dc886216d1718c824b82aaaed",
+                "name": "All Saints\u2019 Church, Brington",
                 "locality": "Brington and Molesworth",
                 "district": "Huntingdonshire"
             }
@@ -14113,7 +14181,8 @@
                 ]
             },
             "properties": {
-                "name": "Roswell Pits",
+                "id": "9158f7b2210a15b99ad839ac1e05f615cba70bab",
+                "name": "Roswell Pits (Information Sign)",
                 "locality": "Ely",
                 "district": "East Cambridgeshire"
             }
@@ -15344,7 +15413,8 @@
                 ]
             },
             "properties": {
-                "name": "Yaxley Rec - Fun For All",
+                "id": "bc2645b67a3737d03d8c569cff890c261669230f",
+                "name": "Yaxley Rec - Roundabout",
                 "locality": "Yaxley",
                 "district": "Huntingdonshire"
             }
@@ -15562,8 +15632,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.229521,
-                    52.536657
+                    -0.229655,
+                    52.53662
                 ]
             },
             "properties": {
@@ -16122,8 +16192,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.113224,
-                    52.562438
+                    -0.113255,
+                    52.562524
                 ]
             },
             "properties": {
@@ -16426,8 +16496,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.175954,
-                    52.644507
+                    0.175925,
+                    52.644485
                 ]
             },
             "properties": {
@@ -16458,8 +16528,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.09726,
-                    52.652394
+                    0.097058,
+                    52.652423
                 ]
             },
             "properties": {
@@ -16559,7 +16629,8 @@
                 ]
             },
             "properties": {
-                "name": "Parson Drove Old School",
+                "id": "190cc31b3568b312f3c74341ca805b4b184fdf53",
+                "name": "'The Cage' Parson Drove",
                 "locality": "Parson Drove",
                 "district": "Fenland"
             }
@@ -16761,8 +16832,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.161213,
-                    52.664028
+                    0.161372,
+                    52.664027
                 ]
             },
             "properties": {
@@ -16857,8 +16928,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.166744,
-                    52.665219
+                    0.166797,
+                    52.665291
                 ]
             },
             "properties": {
@@ -17001,8 +17072,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.164941,
-                    52.668476
+                    0.164925,
+                    52.668549
                 ]
             },
             "properties": {
@@ -17022,7 +17093,8 @@
                 ]
             },
             "properties": {
-                "name": "Wisbech Town Cricket Club",
+                "id": "628a1acdf9bf9c038dc4ab17d074f90587616438",
+                "name": "Wisbech Cricket Pavillion",
                 "locality": "Wisbech",
                 "district": "Fenland"
             }
@@ -17080,8 +17152,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.150404,
-                    52.670666
+                    0.150406,
+                    52.670601
                 ]
             },
             "properties": {
@@ -17096,8 +17168,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.16453,
-                    52.672163
+                    0.164457,
+                    52.672167
                 ]
             },
             "properties": {
@@ -17208,8 +17280,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.171562,
-                    52.676756
+                    0.171587,
+                    52.676744
                 ]
             },
             "properties": {
@@ -17224,8 +17296,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.162344,
-                    52.677786
+                    0.162292,
+                    52.677758
                 ]
             },
             "properties": {
@@ -17240,8 +17312,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.136459,
-                    52.678235
+                    0.136101,
+                    52.678197
                 ]
             },
             "properties": {
@@ -17320,8 +17392,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.098036,
-                    52.686519
+                    0.097934,
+                    52.68652
                 ]
             },
             "properties": {
@@ -17336,8 +17408,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.097602,
-                    52.686622
+                    0.097641,
+                    52.686717
                 ]
             },
             "properties": {
@@ -17432,8 +17504,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.102342,
-                    52.723064
+                    0.101923,
+                    52.722942
                 ]
             },
             "properties": {
@@ -17560,8 +17632,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.122901,
-                    52.173268
+                    0.122992,
+                    52.173142
                 ]
             },
             "properties": {
@@ -18672,6 +18744,4438 @@
                 "name": "Swan Weathercock",
                 "locality": "Girton",
                 "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.073243,
+                    52.090212
+                ]
+            },
+            "properties": {
+                "id": "ff6d6c96bb9dcd0bf60cd8563a226775082f2e50",
+                "name": "United Reformed Church",
+                "locality": "Fowlmere",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.154837,
+                    52.092206
+                ]
+            },
+            "properties": {
+                "id": "e9585b1d5f4ab84331a339c5081710f5f35dd258",
+                "name": "Duxford Bowls Club",
+                "locality": "Duxford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.069755,
+                    52.092452
+                ]
+            },
+            "properties": {
+                "id": "f6faae91b040127f86977dda592e0b0413e2e292",
+                "name": "Butts Recreation Ground Play Park",
+                "locality": "Fowlmere",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.235745,
+                    52.114045
+                ]
+            },
+            "properties": {
+                "id": "ef38a847b65b33c1f27bd6c3931fbf80bebb3531",
+                "name": "Great Abington Noticeboard",
+                "locality": "Great Abington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.058199,
+                    52.1149
+                ]
+            },
+            "properties": {
+                "id": "0493a4153be72eba05765592bb91592295ac451f",
+                "name": "World War I Memorial",
+                "locality": "Foxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.061533,
+                    52.11499
+                ]
+            },
+            "properties": {
+                "id": "caf62fa1550b0d76488f749bb1dd6a62bc4ac1f4",
+                "name": "Foxton Bowls Club",
+                "locality": "Foxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.229392,
+                    52.116693
+                ]
+            },
+            "properties": {
+                "id": "b4dfc934716f282f5e17e48858e1ed41d592e168",
+                "name": "Abington Hall",
+                "locality": "Great Abington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.234966,
+                    52.118669
+                ]
+            },
+            "properties": {
+                "id": "093cc6220112f0cf73fd7952f79610f25d2d7a14",
+                "name": "Little Abington Bridge",
+                "locality": "Little Abington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.225521,
+                    52.119566
+                ]
+            },
+            "properties": {
+                "id": "b5d3d2b81177fa2be6f55a8c33e3cbc3f0a7a385",
+                "name": "River Granta",
+                "locality": "Great Abington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.031063,
+                    52.128233
+                ]
+            },
+            "properties": {
+                "id": "d6c2d67d7ff8ee4b882295aab5ad8ebb990988ae",
+                "name": "The George Miller Pavilion",
+                "locality": "Barrington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.040332,
+                    52.129299
+                ]
+            },
+            "properties": {
+                "id": "d232dea947b9511b6d18936f0b11ec75300e41e3",
+                "name": "Barrington XM fountain",
+                "locality": "Barrington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.202398,
+                    52.132818
+                ]
+            },
+            "properties": {
+                "id": "f8c03df1cd34f8da1e4e1dc74680b22cdef9404f",
+                "name": "Black Bird Protector",
+                "locality": "Babraham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.126932,
+                    52.142287
+                ]
+            },
+            "properties": {
+                "id": "8cb9c8c9a9f07199608299f878747d9dddeb90f4",
+                "name": "Little Shelford Bowls Club",
+                "locality": "Little Shelford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.119965,
+                    52.142904
+                ]
+            },
+            "properties": {
+                "id": "74e1538e877540d9f4a10febcd373cac87a40af0",
+                "name": "The Old Post Office",
+                "locality": "Little Shelford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.120365,
+                    52.143193
+                ]
+            },
+            "properties": {
+                "id": "8e9426fe20934ab48f3d90ef79f253b6dc5edb0a",
+                "name": "Little Shelford Memorial Hall",
+                "locality": "Little Shelford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.156615,
+                    52.148021
+                ]
+            },
+            "properties": {
+                "id": "07213f69d316da3a52490773946770349adf3380",
+                "name": "Stapleford Recreation Ground Noticeboard",
+                "locality": "Stapleford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.140493,
+                    52.148973
+                ]
+            },
+            "properties": {
+                "id": "87496daab55d932f338e111845e7a544bcced443",
+                "name": "Great Shelford Community Noticeboard",
+                "locality": "Great Shelford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.030706,
+                    52.152071
+                ]
+            },
+            "properties": {
+                "id": "5db74e16dd6017b5599c3b7e92b4336b739de237",
+                "name": "Harlton Telephone Box Library",
+                "locality": "Harlton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138091,
+                    52.152682
+                ]
+            },
+            "properties": {
+                "id": "a356d2ab457c993c7645db57de0e8e0abe52f37d",
+                "name": "Genome Cycle Path",
+                "locality": "Great Shelford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.023701,
+                    52.153082
+                ]
+            },
+            "properties": {
+                "id": "ac4bd288328135856182c682699600ac99bcad6e",
+                "name": "Harlton Village Sign",
+                "locality": "Harlton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.025177,
+                    52.153114
+                ]
+            },
+            "properties": {
+                "id": "f28d5f5370c401f54fd5f1259101adf59c351623",
+                "name": "Harlton Village Hall",
+                "locality": "Harlton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.179228,
+                    52.156767
+                ]
+            },
+            "properties": {
+                "id": "9c42f689b811b8c6c653c5ae887ab60acbc22326",
+                "name": "Magog Down Noticeboard",
+                "locality": "Stapleford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.172986,
+                    52.156978
+                ]
+            },
+            "properties": {
+                "id": "668bce1cb74385b379306b249f0f6b0836ebc8ba",
+                "name": "Magog Down Entrance",
+                "locality": "Stapleford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.181549,
+                    52.157624
+                ]
+            },
+            "properties": {
+                "id": "a4ca4f610c852a0f8700f06f398fb177e95c1899",
+                "name": "Wandlebury Welcome",
+                "locality": "Stapleford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.095192,
+                    52.166091
+                ]
+            },
+            "properties": {
+                "id": "026828fa7a1442844c2d237d5ef09ed31e045bfe",
+                "name": "Trumpington Meadows Carved Bird",
+                "locality": "Haslingfield",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.099792,
+                    52.16841
+                ]
+            },
+            "properties": {
+                "id": "f1fc897cadb983441e60377faac0866c65fb13c5",
+                "name": "Trumpington Meadows Trail Marker 3",
+                "locality": "Haslingfield",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.101143,
+                    52.171157
+                ]
+            },
+            "properties": {
+                "id": "471f4dd6db05974e0445be2d68a3786668895853",
+                "name": "Trumpington Meadows Trail Marker 4",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.113228,
+                    52.173241
+                ]
+            },
+            "properties": {
+                "id": "5a700f760fd12a218167d646993e2edc5314a26b",
+                "name": "Trumpington Post Office",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.119458,
+                    52.174907
+                ]
+            },
+            "properties": {
+                "id": "39f6fb44994f72615a7b4b178c6af4077d799c7c",
+                "name": "CPDC",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.078802,
+                    52.178915
+                ]
+            },
+            "properties": {
+                "id": "5a1675d4589b910bac67f5262418085b0dc93d3f",
+                "name": "Bourn Parish Council Noticeboard - Longstowe",
+                "locality": "Bourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.084538,
+                    52.18157
+                ]
+            },
+            "properties": {
+                "id": "01899faa6513829973f303ddc9dfa752e09efb01",
+                "name": "St Mary The Virgin Longstowe",
+                "locality": "Longstowe",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.060235,
+                    52.181956
+                ]
+            },
+            "properties": {
+                "id": "c8cc29a6de2f9685b555f16512319ae9638119ef",
+                "name": "Burwash Manor Farm Entrance",
+                "locality": "Barton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.013158,
+                    52.182109
+                ]
+            },
+            "properties": {
+                "id": "b3367666745661892df060a5349628ac9f664ec1",
+                "name": "Village Walks and Guide to Toft",
+                "locality": "Toft",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.055218,
+                    52.182516
+                ]
+            },
+            "properties": {
+                "id": "8fc80aa470c40cb3feb8ab5a6cb0fc90e16fdd09",
+                "name": "Barton Village",
+                "locality": "Barton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11991,
+                    52.184923
+                ]
+            },
+            "properties": {
+                "id": "471bff20bfda4b37bf462cc2cd30b599141de00e",
+                "name": "King George V Pillar Box (Trumpington Road)",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.003516,
+                    52.185881
+                ]
+            },
+            "properties": {
+                "id": "66e0558dd9384faa94e3da35b838a72ed1d5307b",
+                "name": "Cambridge Meridian Golf Club",
+                "locality": "Toft",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.008468,
+                    52.186599
+                ]
+            },
+            "properties": {
+                "id": "7b74439a30287db37317bac661b3b9f1c371889f",
+                "name": "Village Sign, Toft",
+                "locality": "Toft",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.018891,
+                    52.187081
+                ]
+            },
+            "properties": {
+                "id": "d9730f7c3d3fa7414753af9441e771cb4d69d2a8",
+                "name": "Comberton Village Sign",
+                "locality": "Comberton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.012322,
+                    52.187458
+                ]
+            },
+            "properties": {
+                "id": "e220b25be9fde907548ffc8001c2f27590fcdd1a",
+                "name": "Parish Council Guide To Toft",
+                "locality": "Toft",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.019917,
+                    52.187961
+                ]
+            },
+            "properties": {
+                "id": "c9ab6555d69705a6a65228d8e783c965b7e5a63e",
+                "name": "Comberton Village Hall",
+                "locality": "Comberton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.155203,
+                    52.194894
+                ]
+            },
+            "properties": {
+                "id": "a57626a949a4ec0d8a0cc335303346143f03e3de",
+                "name": "The Cambridge Districts Scouts",
+                "locality": "Romsey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.111489,
+                    52.199929
+                ]
+            },
+            "properties": {
+                "id": "bd65f7a9440cdf821030830cdb426462c9c7a6df",
+                "name": "Ridley Hall",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.067581,
+                    52.199973
+                ]
+            },
+            "properties": {
+                "id": "f20e7a3cd1a3b1bac3fec0d0f7fac6905da6e84d",
+                "name": "Coton Countryside Reserve Information Board",
+                "locality": "Coton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.102217,
+                    52.205123
+                ]
+            },
+            "properties": {
+                "id": "2905bd4cd05d417451387ff92ffd84bfdf66e67f",
+                "name": "Joseph Needham Statue",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.144874,
+                    52.205865
+                ]
+            },
+            "properties": {
+                "id": "56658243a0f9dc0e3bfcfbf0e701142bb6c09ca4",
+                "name": "Cambridge City Centre Guidance Map",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11846088112176023,
+                    52.20626444493639
+                ]
+            },
+            "properties": {
+                "id": "48f81d0d049788b0b8718de311542d76834a3598",
+                "name": "The department of magical gifts",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.076572,
+                    52.207803
+                ]
+            },
+            "properties": {
+                "id": "52e67e90d7c0b60335f43e0bba1c63bd3c2ef6bc",
+                "name": "Harcamlow Way and Greenwich Meridian Trail marker",
+                "locality": "Coton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.175306,
+                    52.210234
+                ]
+            },
+            "properties": {
+                "id": "21583d5b646602736e5810b0d099cbc7c583f858",
+                "name": "RAS Plaque",
+                "locality": "Teversham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.113129,
+                    52.212576
+                ]
+            },
+            "properties": {
+                "id": "cb4c662ab293fbace7d2d03508e4970627230df8",
+                "name": "Henry Morris",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.084438,
+                    52.21268
+                ]
+            },
+            "properties": {
+                "id": "ee859ff340141b319eb5289c96da40e7747dbe73",
+                "name": "West Cambridge Site Plan Map",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.152473,
+                    52.213449
+                ]
+            },
+            "properties": {
+                "id": "85b3063b4e8c1f604216854fc96af994b1ba4ff9",
+                "name": "Chisholm Trail Mural at Barnwell Lakes",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.124618,
+                    52.214442
+                ]
+            },
+            "properties": {
+                "id": "7857220020c419d80b2628168a8211971662df33",
+                "name": "The Portland Arms",
+                "locality": "West Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.058552,
+                    52.214555
+                ]
+            },
+            "properties": {
+                "id": "d0a65aa31d791729645366f0f8894b3244591413",
+                "name": "Sirius Lake Name Sign",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.085623,
+                    52.215722
+                ]
+            },
+            "properties": {
+                "id": "8f144d43db199a698262fb76bcf157881725e83a",
+                "name": "West Cambourne Wildlife Trust Trail Marker",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.082805,
+                    52.217121
+                ]
+            },
+            "properties": {
+                "id": "a8e2db682fa0800abc4263965f125a0f1395380c",
+                "name": "Lower Cambourne Assault Course",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.087537,
+                    52.217923
+                ]
+            },
+            "properties": {
+                "id": "37dca925edf2ce4627f20b6f2987199ffdc97b60",
+                "name": "Cambourne nature reserve trail marker post",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081333,
+                    52.21828
+                ]
+            },
+            "properties": {
+                "id": "365359b1d311ae697e59b78c8dbb55ab70fc31a1",
+                "name": "Lower Cambourne Cricket Field",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.107875,
+                    52.218391
+                ]
+            },
+            "properties": {
+                "id": "8bb3015498cac195dc8babf5f4b8ea73a87d80b2",
+                "name": "Histon Road Recreation Ground Gate",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.08927,
+                    52.218421
+                ]
+            },
+            "properties": {
+                "id": "701ad7fe45db7ea392c12e236771c612a76fb0bc",
+                "name": "Spire and Slide",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065818,
+                    52.218703
+                ]
+            },
+            "properties": {
+                "id": "a4597582b727f08dff46bc2bc07239f3dd05b5c4",
+                "name": "Cambourne Library and Health Centre",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.143679,
+                    52.219449
+                ]
+            },
+            "properties": {
+                "id": "cd2aeab43ea65228998c7badabfd2fd502dd8aa6",
+                "name": "Scotland Road Play Area",
+                "locality": "East Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.058906,
+                    52.219612
+                ]
+            },
+            "properties": {
+                "id": "b347350d7a6e2b4b2c95e0ebda1581c8b9793fdd",
+                "name": "Cambourne Sports Grounds Entrance Gate",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.283646,
+                    52.223245
+                ]
+            },
+            "properties": {
+                "id": "c8b4a41db067018ac95bbdee91b252549829d8f9",
+                "name": "Eaton Ford Methodist Church",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.169266,
+                    52.223595
+                ]
+            },
+            "properties": {
+                "id": "a85d1aad0ab29ef89752d1ecec376859fb9d55b6",
+                "name": "Basketball court, Fen Ditton rec",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.279591,
+                    52.224154
+                ]
+            },
+            "properties": {
+                "id": "1191f485e812bf40e7fcd17841faa283f31806ef",
+                "name": "St Neots Indoor Bowling Club",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.075305,
+                    52.224573
+                ]
+            },
+            "properties": {
+                "id": "53efbd82821b0d92d960f359051e9892fb53c3cc",
+                "name": "Run England Cambourne 5km - One Kilometre Waypoint",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.094229,
+                    52.224624
+                ]
+            },
+            "properties": {
+                "id": "6dbbc8e6afce55d825407a0d88887ac17c225f2e",
+                "name": "War Hound of Stone",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.262907,
+                    52.225663
+                ]
+            },
+            "properties": {
+                "id": "5345f61311db60068eb5d2be0320ea60d8bb7de3",
+                "name": "A Place to Shelter",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.270704,
+                    52.22752
+                ]
+            },
+            "properties": {
+                "id": "be7c5dfaed3974f333e52b4cf0f31717e9be99b4",
+                "name": "Market Square Monument.",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.247251,
+                    52.227678
+                ]
+            },
+            "properties": {
+                "id": "8c152bc1c3b2f06a50db2c12fab11019eb956294",
+                "name": "Loves Farm Milestone",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.262464,
+                    52.227809
+                ]
+            },
+            "properties": {
+                "id": "24c5d344d7c2d7a375fa3c6a0a2beb5b3b72a654",
+                "name": "George V Historic Postbox",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.257778,
+                    52.227993
+                ]
+            },
+            "properties": {
+                "id": "53a6d22d5af1acd42d6f08a7b07172acdeb07457",
+                "name": "St Neots Evangelical Church",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.262326,
+                    52.228763
+                ]
+            },
+            "properties": {
+                "id": "db1a9d9cc665ca749b0b0e23ee00d43fd233d918",
+                "name": "Medallion Court Play Area",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.083205,
+                    52.228818
+                ]
+            },
+            "properties": {
+                "id": "156d1ea5b748ed33b84799f9de15fe45a56cc542",
+                "name": "Emily Davies Memorial Clock",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.088767,
+                    52.230727
+                ]
+            },
+            "properties": {
+                "id": "2ed32cd18a900d56c73417f2cf3b82fe5179e917",
+                "name": "Wellbrook Way Noticeboard",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.171366,
+                    52.231994
+                ]
+            },
+            "properties": {
+                "id": "054842ec00877bbe50a848b18118fefe17170059",
+                "name": "Harcamlow & Fen Rivers Way Trail Markers",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.245372,
+                    52.232063
+                ]
+            },
+            "properties": {
+                "id": "8f108dd13f64c920d94f2af0cf95a3c2e5cd3b93",
+                "name": "Love's Farm Multi-Gym",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.259789,
+                    52.235926
+                ]
+            },
+            "properties": {
+                "id": "f557c0653bd3aba06aab5e963dfb4294b841bd22",
+                "name": "Priory Park Trim Trail - Parallel",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.276482,
+                    52.236515
+                ]
+            },
+            "properties": {
+                "id": "182ed80345379c3dba6717756d63f0ec69cab465",
+                "name": "St Mary's, Swaffham Bulbeck",
+                "locality": "Swaffham Bulbeck",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.184651,
+                    52.23807
+                ]
+            },
+            "properties": {
+                "id": "8655596f303923a35c8fe694f01bf4121c42f11c",
+                "name": "Plough And Fleece",
+                "locality": "Horningsea",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.421146,
+                    52.240641
+                ]
+            },
+            "properties": {
+                "id": "1afba7fc95424f9b8994898785c963bf7ea31be9",
+                "name": "Stanley Road Victorian Stink Pipe by J. Gibb & Co.",
+                "locality": null,
+                "district": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.278831,
+                    52.241009
+                ]
+            },
+            "properties": {
+                "id": "488b1ad4c6aea67b4c58d1b691b34951df30b30a",
+                "name": "Swaffham Bulbeck Community Play Area",
+                "locality": "Swaffham Bulbeck",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.263388,
+                    52.241486
+                ]
+            },
+            "properties": {
+                "id": "7e7bdb7f08b7e39e83f80c45e47308cba43762e0",
+                "name": "St Neots Sluice",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.018264,
+                    52.241692
+                ]
+            },
+            "properties": {
+                "id": "1e64290604053549fdf46c971696c9201fdf198b",
+                "name": "Dry Drayton Village Hall",
+                "locality": "Dry Drayton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.266661,
+                    52.243938
+                ]
+            },
+            "properties": {
+                "id": "c26005113db05d89648cfd72e7b24996bf8282b8",
+                "name": "Apple Wood Carving",
+                "locality": "Little Paxton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.294672,
+                    52.244547
+                ]
+            },
+            "properties": {
+                "id": "d4bf09fd2ed9d1210187d947bc26718a1470713a",
+                "name": "Saint Nicolas Church",
+                "locality": "Hail Weston",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.256544,
+                    52.247594
+                ]
+            },
+            "properties": {
+                "id": "cadca399a18ebfbc849b662787c0e04794695fbf",
+                "name": "Meadow Trail Marker #14",
+                "locality": "Little Paxton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.258799,
+                    52.248673
+                ]
+            },
+            "properties": {
+                "id": "55d8717ecadc6c66c61fd2f68be8776c31b7f5f2",
+                "name": "Little Paxton Remembers",
+                "locality": "Little Paxton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.099251,
+                    52.24946
+                ]
+            },
+            "properties": {
+                "id": "3b407b57415e0edb9f03e74ed453ac3e50bda805",
+                "name": "Truffle the Pig",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11907,
+                    52.251131
+                ]
+            },
+            "properties": {
+                "id": "a4dc3cc440601488a31931de5a6e95a4b2a65c22",
+                "name": "Papworth Everard Library",
+                "locality": "Papworth Everard",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.247916,
+                    52.251801
+                ]
+            },
+            "properties": {
+                "id": "6bbf64c84d5be156bb6f7e96f44c9afc79a2eef7",
+                "name": "Paxton Pits Nature Reserve",
+                "locality": "Little Paxton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.297704,
+                    52.253417
+                ]
+            },
+            "properties": {
+                "id": "6bd1c340065ac93b3acbf76e4919016bb3d3dc3b",
+                "name": "Ron & Lucy Butler Memorial notice board",
+                "locality": "Swaffham Prior",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.242881,
+                    52.253865
+                ]
+            },
+            "properties": {
+                "id": "7010c78f4672cf32e10b0066ea967a5df0a8e691",
+                "name": "Heron Trail Marker #5",
+                "locality": "Little Paxton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.069929,
+                    52.254557
+                ]
+            },
+            "properties": {
+                "id": "c4168d3394c709e195aff80747b3521720d99ce7",
+                "name": "Ellsworth Holy Trinity",
+                "locality": "Elsworth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076279,
+                    52.255999
+                ]
+            },
+            "properties": {
+                "id": "08b69b839eb1e1989f9c64e478c14082e65a8ccd",
+                "name": "Elsworth Playground",
+                "locality": "Elsworth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.068825,
+                    52.256189
+                ]
+            },
+            "properties": {
+                "id": "bb3e4fdca7fbb14a2b764e47b8ea586099d2e49a",
+                "name": "George And Dragon",
+                "locality": "Elsworth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.239487,
+                    52.25756
+                ]
+            },
+            "properties": {
+                "id": "c31fb09cff079ac04dc3152a1937bccc863d8c21",
+                "name": "Heron Trail Marker #10",
+                "locality": "Southoe and Midloe",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.001132,
+                    52.257829
+                ]
+            },
+            "properties": {
+                "id": "29fa879d8aa00ae5bdde52d1c17cfee9de021d46",
+                "name": "Lolworth Village Sign",
+                "locality": "Lolworth",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.302145,
+                    52.258147
+                ]
+            },
+            "properties": {
+                "id": "1d42c6c06878e00e8fbf8521b022b1be31e505e8",
+                "name": "Victorian water pump Rogers road",
+                "locality": "Swaffham Prior",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.230503,
+                    52.259904
+                ]
+            },
+            "properties": {
+                "id": "d967ccef882414c4c6c8cda95d40d99c998dbe4e",
+                "name": "Great Paxton Recreation Ground",
+                "locality": "Great Paxton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.064083,
+                    52.259913
+                ]
+            },
+            "properties": {
+                "id": "a80e2563aef167ebb3ae7dcd7764dd939a83fad9",
+                "name": "Oakington Post Office",
+                "locality": "Oakington and Westwick",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.19093,
+                    52.265799
+                ]
+            },
+            "properties": {
+                "id": "7d702cf5290c7d5e72ab22eb4a4dac0509aff7cb",
+                "name": "Waterbeach Sign",
+                "locality": "Waterbeach",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.292875,
+                    52.269633
+                ]
+            },
+            "properties": {
+                "id": "bff83feaa170322a00b5e6171dfc495da5aa635c",
+                "name": "Welcome to Reach Wood North Entrance",
+                "locality": "Reach",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.297152,
+                    52.27082
+                ]
+            },
+            "properties": {
+                "id": "c0b36dfc8ae411fae7164e8df3ff5288de3acc23",
+                "name": "Reach Tennis Court",
+                "locality": "Reach",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.317956,
+                    52.273401
+                ]
+            },
+            "properties": {
+                "id": "e62aa9e786ed881b3b32a72a446bac3f74cac918",
+                "name": "Les King Memorial",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.327068,
+                    52.275914
+                ]
+            },
+            "properties": {
+                "id": "601ab355cc868aba7d40f94e60d70280d15fca8e",
+                "name": "Burwell Social Club",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.108221,
+                    52.279858
+                ]
+            },
+            "properties": {
+                "id": "38e7949fe61ee1def4098743ad1e28f769c24faa",
+                "name": "Jubilee Playground",
+                "locality": "Hilton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.320292,
+                    52.282034
+                ]
+            },
+            "properties": {
+                "id": "db95ce5b474c10bcb1c6b2fe68c067c445668728",
+                "name": "Burwell Rec fitness zone",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.110258,
+                    52.282104
+                ]
+            },
+            "properties": {
+                "id": "1fcbc197599dfdc87cd7a449ab61881403b285c4",
+                "name": "Highway Boundary Marker",
+                "locality": "Hilton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.330217,
+                    52.283975
+                ]
+            },
+            "properties": {
+                "id": "5eb0337c9e21f3ecf5ce77b79988529cdbb31128",
+                "name": "Concrete Encased Stink Pipe",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.214082,
+                    52.284309
+                ]
+            },
+            "properties": {
+                "id": "c13cc34df966cf43d9c71d5d0221dbd94ed0d830",
+                "name": "The Horseshoe Inn",
+                "locality": "Offord Cluny and Offord D'Arcy",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.221256,
+                    52.28609
+                ]
+            },
+            "properties": {
+                "id": "0c4c9618ba1e53c2be6283ca0ac46fcb880c7546",
+                "name": "Offord Footpath Trail (Ouse Valley Way & Round-about-Buckden)",
+                "locality": "Buckden",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.217749,
+                    52.288552
+                ]
+            },
+            "properties": {
+                "id": "6f2ad978a10f7a06c9e756e0f3cf84f924e0c523",
+                "name": "Suspension Bridge Offord Cluny",
+                "locality": "Offord Cluny and Offord D'Arcy",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.315673,
+                    52.289683
+                ]
+            },
+            "properties": {
+                "id": "a5ee37ef832c3088b2f4493697717600a70baf67",
+                "name": "Grafham Water Sailing Club",
+                "locality": "Perry",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.219732,
+                    52.290938
+                ]
+            },
+            "properties": {
+                "id": "8bbd2c1be48ce957b23af453dc43e8d35e86de70",
+                "name": "Waterside Leisure Club, Buckden Marina",
+                "locality": "Buckden",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252519,
+                    52.291254
+                ]
+            },
+            "properties": {
+                "id": "8db850b0fb93e00b0402c6bc44c05ce85a7408aa",
+                "name": "Buckden Old Church Graveyard",
+                "locality": "Buckden",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.246306,
+                    52.291658
+                ]
+            },
+            "properties": {
+                "id": "75b4d1dc582ef6f0acce5b8cf4cd36dd39fd46b1",
+                "name": "Buckden Play Area",
+                "locality": "Buckden",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.054722,
+                    52.291666
+                ]
+            },
+            "properties": {
+                "id": "8179485dccb70f5123254be3b31d35d6e34b11cb",
+                "name": "Guided Bus - Longstanton",
+                "locality": "Longstanton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.253839,
+                    52.294285
+                ]
+            },
+            "properties": {
+                "id": "00ac9248f26d519e8ef154633fc7f594752df388",
+                "name": "Queen Katherine\u2019s Garden, Buckden Towers",
+                "locality": "Buckden",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.25426,
+                    52.294571
+                ]
+            },
+            "properties": {
+                "id": "626105b416a66d1b522bd6896be36a98ea9128a4",
+                "name": "In Memory of Those Who Served",
+                "locality": "Buckden",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04265,
+                    52.298629
+                ]
+            },
+            "properties": {
+                "id": "b0db43440425609d4cc01d4d4617981db3c5a184",
+                "name": "Fen Drayton Playground",
+                "locality": "Fen Drayton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037861,
+                    52.299167
+                ]
+            },
+            "properties": {
+                "id": "f4193e732b65401d565c672268eaa3c8673fe7f9",
+                "name": "Fen Drayton Pavilion",
+                "locality": "Fen Drayton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.007796,
+                    52.299907
+                ]
+            },
+            "properties": {
+                "id": "718119327e9ca70f5055d6d018a675cfb5351b8f",
+                "name": "Moat Way Children\u2019s Play Area",
+                "locality": "Swavesey",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072257,
+                    52.300221
+                ]
+            },
+            "properties": {
+                "id": "162df02cf3a6a707a2a15851d79ec283515c7afe",
+                "name": "Wooden Park",
+                "locality": "Fenstanton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065058,
+                    52.300999
+                ]
+            },
+            "properties": {
+                "id": "ba55abbb5a1c21885d657bd43403c2f72f4102b2",
+                "name": "Capability Brown's Headstone",
+                "locality": "Fenstanton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.299334,
+                    52.305325
+                ]
+            },
+            "properties": {
+                "id": "92f1269046224d3fdf2ceb239d870db5534c805a",
+                "name": "Wicken Fen Sign",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.032373,
+                    52.307621
+                ]
+            },
+            "properties": {
+                "id": "616cf60b113120331623b663ca3ad7780e45e6e0",
+                "name": "Fen Drayton Lakes Trail Map",
+                "locality": "Fen Drayton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.418533,
+                    52.309109
+                ]
+            },
+            "properties": {
+                "id": "8b79f79f9d3038af03fa4d8e24a045320dc947c8",
+                "name": "Tilbrook Playground",
+                "locality": "Tilbrook",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.291903,
+                    52.310526
+                ]
+            },
+            "properties": {
+                "id": "e5050e031b69518c2b752bf73dd293814a1b002b",
+                "name": "Wicken Fen",
+                "locality": "Wicken",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.175844,
+                    52.311641
+                ]
+            },
+            "properties": {
+                "id": "6c66844cac96e3a4c217c553dd04d09e0b3a5daf",
+                "name": "Wigmore Farm Play Area",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.390324,
+                    52.31197
+                ]
+            },
+            "properties": {
+                "id": "e3b73de84e79cc5f1fa0fdf4310b2294dbb0086c",
+                "name": "Fordham Play and Skate Park",
+                "locality": "Fordham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.162179,
+                    52.313128
+                ]
+            },
+            "properties": {
+                "id": "4b69d5770e461e4862e5f173b6af71c715940a86",
+                "name": "Pirate Ship Play Area",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.063895,
+                    52.313955
+                ]
+            },
+            "properties": {
+                "id": "a9e17734a0b7629fc58e4ca44ee41ca8f3414448",
+                "name": "Willingham Village Water Pump",
+                "locality": "Willingham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.225502,
+                    52.314396
+                ]
+            },
+            "properties": {
+                "id": "ab30b9234d4d919e87affd497ea2dfe863225d9d",
+                "name": "King George VI Postbox",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.299246,
+                    52.314776
+                ]
+            },
+            "properties": {
+                "id": "48382300286ef882007e3f94091aadfeb0919d59",
+                "name": "Wicken Recreation Play Area",
+                "locality": "Wicken",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.180643,
+                    52.317659
+                ]
+            },
+            "properties": {
+                "id": "81d18dc9936b548cf3b8726424f9ed7a4860cfaf",
+                "name": "Godmanchester Lock",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.081624,
+                    52.318219
+                ]
+            },
+            "properties": {
+                "id": "d108dce9a9645358ad9116c6b15d22ba5c0786ba",
+                "name": "Filbert\u2019s Walk",
+                "locality": "Hemingford Grey",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.040653,
+                    52.31846
+                ]
+            },
+            "properties": {
+                "id": "8a33bdd348fbc77654246bf1c66507a8fdbcb751",
+                "name": "Ouse Valley Way - Holywell Fen",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.169288,
+                    52.318875
+                ]
+            },
+            "properties": {
+                "id": "7326565801af9efc5e670364de9f20c5d418cc7b",
+                "name": "The White Hart Pub",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.175237,
+                    52.319091
+                ]
+            },
+            "properties": {
+                "id": "a7de4cb9a0a1857671adf35dd7b44865281d0dde",
+                "name": "World War One Centenary Plaque",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.204614,
+                    52.322597
+                ]
+            },
+            "properties": {
+                "id": "5ccca0c557bc2e2b070f7d273bd1fce5d21e233c",
+                "name": "Ouse Valley Way Trail, Bromholme Lane",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072666,
+                    52.323162
+                ]
+            },
+            "properties": {
+                "id": "ec677e0e256f2182ef7d86e7bdba7413da7a79ae",
+                "name": "St. Ives War Memorial",
+                "locality": "St. Ives",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.035061,
+                    52.323675
+                ]
+            },
+            "properties": {
+                "id": "9e6f825354dc121c553a0daf3e459d485c296747",
+                "name": "Old Mill Stones at Millfields",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.350742,
+                    52.323803
+                ]
+            },
+            "properties": {
+                "id": "27631bbdf42fc74e97e22426590392c0602ef877",
+                "name": "Cherry Tree Pub",
+                "locality": "Soham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.069773,
+                    52.324462
+                ]
+            },
+            "properties": {
+                "id": "e0f724db7c8033d1665ce77ff1ef0e3d3dbf4d50",
+                "name": "Welcome To The Old River port",
+                "locality": "St. Ives",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.20427,
+                    52.324777
+                ]
+            },
+            "properties": {
+                "id": "9bfe418c7d94d174ad3c2a109df91a7e9e75c83b",
+                "name": "Park Map",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.077081,
+                    52.325303
+                ]
+            },
+            "properties": {
+                "id": "9c90d3bcad01a523abc36f323b541b584b8af9ed",
+                "name": "The Norris Museum",
+                "locality": "St. Ives",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.213107,
+                    52.326583
+                ]
+            },
+            "properties": {
+                "id": "0e052c1bff21efd4014cb34d50e12f69ca34ccdb",
+                "name": "Country Park",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.060408,
+                    52.326815
+                ]
+            },
+            "properties": {
+                "id": "c8b1437fafaaeca8902d806d139c6ab4c1314173",
+                "name": "St. Ives Lakes Site Map",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.152049,
+                    52.327
+                ]
+            },
+            "properties": {
+                "id": "ce02b1e6d64b3451e8bb015be037c0e35516765a",
+                "name": "History of Godmanchester Nature Reserve",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.060483,
+                    52.327001
+                ]
+            },
+            "properties": {
+                "id": "eebba177dcba9f624208183d41522d82d0f03f5c",
+                "name": "Hunts Sailing Club",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146649,
+                    52.327249
+                ]
+            },
+            "properties": {
+                "id": "83ce99eebad96e427e458f6215ff79a3fd56c8e1",
+                "name": "Charter Way Walk Marker",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.199015,
+                    52.32788
+                ]
+            },
+            "properties": {
+                "id": "5f3ffe45bb6e6823864db7285ab4b0c721e35732",
+                "name": "Brampton Road Noticeboard",
+                "locality": "Huntingdon",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.344414,
+                    52.328209
+                ]
+            },
+            "properties": {
+                "id": "ec0ac4cbacad482713dbf16ec4e0560953ea322b",
+                "name": "Community Information Board",
+                "locality": "Soham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.149945,
+                    52.328262
+                ]
+            },
+            "properties": {
+                "id": "33931182ef9372514345afc73c15e2e78d0e1272",
+                "name": "Mouldings Meadow, North Gate",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1796452,
+                    52.32835009999999
+                ]
+            },
+            "properties": {
+                "id": "725ab1e2f5046d6d5fcc853515e93699013bd4a8",
+                "name": "unknown",
+                "locality": "Huntingdon",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.029901,
+                    52.328958
+                ]
+            },
+            "properties": {
+                "id": "75bb5c22c8fe4cf179e7e798d32ff9823c00abbb",
+                "name": "Needingworth Play Area",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.030605,
+                    52.329111
+                ]
+            },
+            "properties": {
+                "id": "2a803c9ec18ae8270957ce2f217ddd603db2ef9c",
+                "name": "Needingworth Fire Torch",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.030985,
+                    52.329189
+                ]
+            },
+            "properties": {
+                "id": "a1b8a76ee7eee9cb339dc7b86731953ec70cf58e",
+                "name": "Needingworth Village Hall",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.156413,
+                    52.33004
+                ]
+            },
+            "properties": {
+                "id": "67edf8d40843c0e081c1f15a6d400ddb74daf325",
+                "name": "Godmanchester Nature Reserve",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.155155,
+                    52.330377
+                ]
+            },
+            "properties": {
+                "id": "33f69ded70829e35d7afcffa48dd1b6c940b1ef5",
+                "name": "Highsides Sign",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.150308,
+                    52.33063
+                ]
+            },
+            "properties": {
+                "id": "91f79eda0525df98c90b3dc2675160e5deecf5ea",
+                "name": "Bird Hide at Roman Lake",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.303093,
+                    52.330649
+                ]
+            },
+            "properties": {
+                "id": "48b68fe58ba9da0133c07905f842a09141814cfc",
+                "name": "Ellington Play Area",
+                "locality": "Ellington",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.329088,
+                    52.330848
+                ]
+            },
+            "properties": {
+                "id": "fccdba8d6011d04b7afa353b45794217b2411ed3",
+                "name": "Goosey Close Playing Field",
+                "locality": "Easton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.037609,
+                    52.331223
+                ]
+            },
+            "properties": {
+                "id": "3ba49e69fc361e83958e294655091a0dafbef7cd",
+                "name": "Hollywell Cum Needingworth Village Sign",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.151037,
+                    52.333331
+                ]
+            },
+            "properties": {
+                "id": "41dd005608331c434ad5e4da6d0909adc0aedde7",
+                "name": "Peter Prince Memorial, Godmanchester Nature Reserve",
+                "locality": "Godmanchester",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.119402,
+                    52.335453
+                ]
+            },
+            "properties": {
+                "id": "1cafe15bb0f3352f9cb05d372a6e520ea28e94a8",
+                "name": "Houghton Sports Club",
+                "locality": "Houghton and Wyton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.340161,
+                    52.336124
+                ]
+            },
+            "properties": {
+                "id": "d1ed5e89acd9395f53ce0dd3d235eb0fc9ebddb3",
+                "name": "Brithmer Budde Memorial Sculpture",
+                "locality": "Soham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.33661,
+                    52.336599
+                ]
+            },
+            "properties": {
+                "id": "778c7011b159c16ba8b8f967700e2cd7964d5700",
+                "name": "Sundial, 1781 - Tempus Fugit",
+                "locality": "Soham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.160817,
+                    52.337644
+                ]
+            },
+            "properties": {
+                "id": "522f85a6f1e4768226998f1ae72715fd1dc545c6",
+                "name": "Hartford Village Hall",
+                "locality": "Huntingdon",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.409703,
+                    52.337818
+                ]
+            },
+            "properties": {
+                "id": "e713bc835222d10a554c86cd627f21c57597c53c",
+                "name": "Isleham Village Sign",
+                "locality": "Isleham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.185889,
+                    52.338095
+                ]
+            },
+            "properties": {
+                "id": "4c8d7042cb14ee6cf4c1fed32e30da82318fffad",
+                "name": "Oneleisure Indoor Centre",
+                "locality": "Huntingdon",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.194845,
+                    52.339152
+                ]
+            },
+            "properties": {
+                "id": "d28c44f129e82669a531ceab256ae22db90845f2",
+                "name": "Pirate Ship Wooden Playground, Stukeley Meadows",
+                "locality": "Huntingdon",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.076643,
+                    52.339462
+                ]
+            },
+            "properties": {
+                "id": "922e87abd038d0a1f2d56aacb72fd64723e02b1b",
+                "name": "Stirling Road Play Area.",
+                "locality": "St. Ives",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.089806,
+                    52.339834
+                ]
+            },
+            "properties": {
+                "id": "fd8147c81d1ca866203a36bbf99b823665b4a9a4",
+                "name": "Hill Rise Meeting Hut",
+                "locality": "St. Ives",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.176413,
+                    52.340134
+                ]
+            },
+            "properties": {
+                "id": "55de1c6e8b029eeae1cc4f4a6d1327af8ea0bbe8",
+                "name": "Barleyfield Way Play Area",
+                "locality": "Huntingdon",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.168024,
+                    52.343692
+                ]
+            },
+            "properties": {
+                "id": "c86b8a1e7b715d3d30037ad9d7330dffa7639459",
+                "name": "Sapley Basketball Court",
+                "locality": "Huntingdon",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.110608,
+                    52.349519
+                ]
+            },
+            "properties": {
+                "id": "ac36beedfc64d6cba2fd2d6c228b3d809f1adf36",
+                "name": "Wyton Norfolk Road Playground",
+                "locality": "Wyton-on-the-Hill",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.005655,
+                    52.350415
+                ]
+            },
+            "properties": {
+                "id": "1788318a650ef9445e756a769f5cbdae80bf78f0",
+                "name": "Ouse Valley Way Map",
+                "locality": "Bluntisham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.038421,
+                    52.353963
+                ]
+            },
+            "properties": {
+                "id": "a730eabcd73eabcc141a050fff29f48af54a0d34",
+                "name": "Earith Bridge Memorial",
+                "locality": "Earith",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.153557,
+                    52.354386
+                ]
+            },
+            "properties": {
+                "id": "0a393fe38d1827b39a551b9b7469d41102226150",
+                "name": "Haddenham Water Tower",
+                "locality": "Haddenham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2144,
+                    52.355677
+                ]
+            },
+            "properties": {
+                "id": "3f72706454de4b33b777608cee7b9ca2c41c79b2",
+                "name": "St. Bartholomew",
+                "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.010734,
+                    52.357679
+                ]
+            },
+            "properties": {
+                "id": "0183dc05238e48aba2aca3eca5f7028aece48c72",
+                "name": "Bluntisham Dog Walking Map",
+                "locality": "Bluntisham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.247635,
+                    52.363491
+                ]
+            },
+            "properties": {
+                "id": "d71e55a4e1912e50d72e0c2b8e5d4a38414da692",
+                "name": "St. George's Church, Little Thetford",
+                "locality": "Thetford",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.364208,
+                    52.364407
+                ]
+            },
+            "properties": {
+                "id": "03873f45b24a380f22d5790446818999916b23f5",
+                "name": "War Memorial, Leighton Bromswold",
+                "locality": "Leighton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.225216,
+                    52.365843
+                ]
+            },
+            "properties": {
+                "id": "fc47ca1e4a289bf1e85b1ce7d3c1c6fa85940026",
+                "name": "St. Martin's Church, Little Stukeley",
+                "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.246811,
+                    52.366615
+                ]
+            },
+            "properties": {
+                "id": "8b12303bffc3127f0cb7f22ba6de4c970b61981d",
+                "name": "Cawdle Fen Way Trail Marker (Little Thetford North)",
+                "locality": "Thetford",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.256584,
+                    52.370105
+                ]
+            },
+            "properties": {
+                "id": "3754946f7ac2c998310398b7086f842aa5fb7202",
+                "name": "Bramble End Play Area",
+                "locality": "Alconbury",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.264451,
+                    52.370235
+                ]
+            },
+            "properties": {
+                "id": "40ce9fac21f4b9dd30c431164a0981378f9209fe",
+                "name": "Alconbury Social Club Playground",
+                "locality": "Alconbury",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.261341,
+                    52.370377
+                ]
+            },
+            "properties": {
+                "id": "2b5c084b14db3c583765f2a55f6d4ef98157e769",
+                "name": "Alconbury CHURCH",
+                "locality": "Alconbury",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.186271,
+                    52.382998
+                ]
+            },
+            "properties": {
+                "id": "5d3186dcffb3eb2c43a2b3d82344e34ced10d8bf",
+                "name": "Abbot's Ripton village hall",
+                "locality": "Abbots Ripton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.113889,
+                    52.38623
+                ]
+            },
+            "properties": {
+                "id": "ca00889f2af9b59359940ab00dd2b74f46015612",
+                "name": "Sutton\u2019s George VI Wall Postbox",
+                "locality": "Sutton",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11914,
+                    52.388053
+                ]
+            },
+            "properties": {
+                "id": "cf215be77f03da668b1bdfa688fba10661b21924",
+                "name": "High St. Victorian Stink Pipe",
+                "locality": "Sutton",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.12421,
+                    52.388965
+                ]
+            },
+            "properties": {
+                "id": "717d100c25a2d2903b56588b916e90bd2c0232ed",
+                "name": "Sutton Post Office",
+                "locality": "Sutton",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.25051,
+                    52.391958
+                ]
+            },
+            "properties": {
+                "id": "f9f2b40e85f235751b4d0b49423c85a990ea563c",
+                "name": "Ely Golf Clubhouse (Sport And Social Club)",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.250102,
+                    52.392032
+                ]
+            },
+            "properties": {
+                "id": "deaca7ea8d88e60ff537b6dc786eae8c9e225492",
+                "name": "Welcome To Ely (South)",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.268544,
+                    52.394816
+                ]
+            },
+            "properties": {
+                "id": "ed35b65b461589a83ed1e44a2aeeb14d20da304f",
+                "name": "Band Stand",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.246795,
+                    52.396713
+                ]
+            },
+            "properties": {
+                "id": "064ed3fb209eb035e19d8d6e783f46bcd7012570",
+                "name": "Ely\u2019s Outdoor Exercise Equipment (St John\u2019s Road)",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.123558,
+                    52.40425
+                ]
+            },
+            "properties": {
+                "id": "635e18e2aa57e5a549b3b11d24a62ce79ca90673",
+                "name": "Mepal Pavilion Diamond Jubilee Plaque",
+                "locality": "Mepal",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.118077,
+                    52.40634
+                ]
+            },
+            "properties": {
+                "id": "57ab90fca3414ebc8a5b0d3e34e1258b87890cb0",
+                "name": "Mepal Village War Memorial",
+                "locality": "Mepal",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.141045,
+                    52.430356
+                ]
+            },
+            "properties": {
+                "id": "8992bc3b5e9c191677dae5c9a055785bc723ce04",
+                "name": "Old American Fire Hydrant",
+                "locality": "Upwood and the Raveleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.238864,
+                    52.431824
+                ]
+            },
+            "properties": {
+                "id": "ae193e42c970ecb24843c0c03d03f69c480df8d6",
+                "name": "Baptist Sunday School",
+                "locality": "Downham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.281249,
+                    52.436788
+                ]
+            },
+            "properties": {
+                "id": "d836ee242460f6e3f8457f726d0773a2ba4503fe",
+                "name": "One Leisure Sawtry",
+                "locality": "Sawtry",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.27693,
+                    52.441589
+                ]
+            },
+            "properties": {
+                "id": "6cfe52355d5b0ee9ee1bf494e5bdeff2502833b6",
+                "name": "Welcome to Sawtry sign",
+                "locality": "Sawtry",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.29944,
+                    52.450197
+                ]
+            },
+            "properties": {
+                "id": "19f2e184d6b2403e212d3f8ef9a0e68afc4bae9d",
+                "name": "The Plough And Harrow",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.298808,
+                    52.452015
+                ]
+            },
+            "properties": {
+                "id": "f8d389d4fb012b38368ce3c66409b1dd360a3f03",
+                "name": "Highfields Notice Board",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.304322,
+                    52.455982
+                ]
+            },
+            "properties": {
+                "id": "164a21f912005815a966c2428594d6a2755015f6",
+                "name": "Wooden owl",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3077811,
+                    52.457331
+                ]
+            },
+            "properties": {
+                "id": "1ab509d902373c510739b5b1847ac880cf3cea3d",
+                "name": "unknown",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.296019,
+                    52.458426
+                ]
+            },
+            "properties": {
+                "id": "91c96c915bfaa7a64b9c5bdcc8e94ef4cc33f16f",
+                "name": "Littleport Parish Council Cemetery",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.303479,
+                    52.460764
+                ]
+            },
+            "properties": {
+                "id": "113d3192670b7363e264cd24d06314ddb94b7c27",
+                "name": "St Nicholas Church",
+                "locality": "Glatton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.043109,
+                    52.464951
+                ]
+            },
+            "properties": {
+                "id": "d8c83153848f19c558369331c3e55d0056df6aa2",
+                "name": "The Green Welly Cafe Motel And Free House",
+                "locality": "Chatteris",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.200793,
+                    52.475866
+                ]
+            },
+            "properties": {
+                "id": "bd1c574c1536832d4891aed70f9232447c085e2b",
+                "name": "Jon\u2019s Hide",
+                "locality": "Holme",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.233943,
+                    52.486857
+                ]
+            },
+            "properties": {
+                "id": "604b5543ca3e3fa423be8c68ba2a7e93301d79a7",
+                "name": "Holme Fen Map & Information Board",
+                "locality": "Holme",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.293712,
+                    52.488917
+                ]
+            },
+            "properties": {
+                "id": "aeabfe360fbe4fcce18601b63aad9e6495c1ccb1",
+                "name": "St Marys Magdalene Church",
+                "locality": "Stilton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.224855,
+                    52.489532
+                ]
+            },
+            "properties": {
+                "id": "3998ae77fbae58e8db23ae2ee1190d94904d30cd",
+                "name": "Discovery trail marker",
+                "locality": "Holme",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.306791,
+                    52.494159
+                ]
+            },
+            "properties": {
+                "id": "f49e50236793b25f783d84ba8602bcfe2904e894",
+                "name": "Folksworth Fun Park",
+                "locality": "Folksworth and Washingley",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.025991,
+                    52.495174
+                ]
+            },
+            "properties": {
+                "id": "53d47f4016600106e22e0f4260a2abac45366cc6",
+                "name": "Benwick Play Park.",
+                "locality": "Benwick",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.061202,
+                    52.495296
+                ]
+            },
+            "properties": {
+                "id": "4b26f69c6e1d9e3dcc3b383db938314d9c9de5bc",
+                "name": "Doddington War Memorial",
+                "locality": "Doddington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.178082,
+                    52.497536
+                ]
+            },
+            "properties": {
+                "id": "9ab1e259de937eac321e369c79b59204a0e0383a",
+                "name": "Manea Community Notice Board",
+                "locality": "Manea",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.051996,
+                    52.497832
+                ]
+            },
+            "properties": {
+                "id": "441f03317dd6e2b49c275e2f2e08e01a4bb30930",
+                "name": "Doddington recreational ground pavillion",
+                "locality": "Doddington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.113895,
+                    52.500816
+                ]
+            },
+            "properties": {
+                "id": "7c3e52590cb71beb514b9c7cf1b954e519d1f588",
+                "name": "Bouncing Pillow at Skylarks Garden Centre",
+                "locality": "Wimblington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.133142,
+                    52.514305
+                ]
+            },
+            "properties": {
+                "id": "939d74f46d497413ffb2822965665abce82cc293",
+                "name": "Welcome to Stonea Camp",
+                "locality": "Wimblington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.249592,
+                    52.515045
+                ]
+            },
+            "properties": {
+                "id": "fd94fe11ad1268f1665b80fe3e0dc416ee955cfb",
+                "name": "Duck & Drake Pub",
+                "locality": "Yaxley",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.269828,
+                    52.515767
+                ]
+            },
+            "properties": {
+                "id": "14bd91babf64568c1efd4350ae6b8058876ea501",
+                "name": "Yaxley Village Sign",
+                "locality": "Yaxley",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.134355,
+                    52.516088
+                ]
+            },
+            "properties": {
+                "id": "3ddf4ca33160b81e6d385700d7437de29c2e9bf3",
+                "name": "Prehistoric Stonea",
+                "locality": "Wimblington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.238961,
+                    52.526948
+                ]
+            },
+            "properties": {
+                "id": "67a0e0bcc6c1b64ac0bf79a6f7bd275fcd8e36a1",
+                "name": "Yaxley Sign",
+                "locality": "Yaxley",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.395543,
+                    52.5288
+                ]
+            },
+            "properties": {
+                "id": "dd150765e145cf35cd2ecd2383000cce98bb7873",
+                "name": "Elton War Memorial",
+                "locality": "Elton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.234043,
+                    52.536939
+                ]
+            },
+            "properties": {
+                "id": "c3d049ab858bab19f6dfe0d6edc340ce5699c427",
+                "name": "Farcet Basketball Hoop",
+                "locality": "Farcet",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.23305,
+                    52.537479
+                ]
+            },
+            "properties": {
+                "id": "bacf8de7ea21fce5a047e24640cab8ef1f4bc2ec",
+                "name": "Farcet football pitch",
+                "locality": "Farcet",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.031729,
+                    52.551292
+                ]
+            },
+            "properties": {
+                "id": "a7b4eed998c93cb1fc0bcd0b7aa97190b589563b",
+                "name": "Red Barn Kids Play Area",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.111781,
+                    52.552001
+                ]
+            },
+            "properties": {
+                "id": "4ed2119ec1849d01a7840709ac2765b5516f07a6",
+                "name": "Lattersey Nature Reserve",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.105092,
+                    52.552338
+                ]
+            },
+            "properties": {
+                "id": "5c18f0462ff9cff22e3b40f61a171ffe9b752314",
+                "name": "Nature Reserve",
+                "locality": "March",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.104083,
+                    52.553079
+                ]
+            },
+            "properties": {
+                "id": "6faea45d6d31109d968134737e9c3564c2b27610",
+                "name": "National cycle route 63",
+                "locality": "March",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126573,
+                    52.553086
+                ]
+            },
+            "properties": {
+                "id": "b7d6b7c8c452da6cb6c43dc84190cabd49ac3b5e",
+                "name": "New Vision Fitness",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.119631,
+                    52.553711
+                ]
+            },
+            "properties": {
+                "id": "2b2b0760cc4d125f366998af0686fc79510c6812",
+                "name": "Postbox from the reign of King George.",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.086868,
+                    52.553932
+                ]
+            },
+            "properties": {
+                "id": "ab5a78b13a5467782b3458035c2cdd1f9d6c2a3b",
+                "name": "March Town Community Clubhouse",
+                "locality": "March",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113752,
+                    52.557101
+                ]
+            },
+            "properties": {
+                "id": "da047f7ed06baf92d01451be770354d07c5e6a3b",
+                "name": "Victorian stink pipe",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.127014,
+                    52.558644
+                ]
+            },
+            "properties": {
+                "id": "7a29aec9f19577f771048ba27f4d900b06cecc3c",
+                "name": "The New Crown Public House",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.160235,
+                    52.560598
+                ]
+            },
+            "properties": {
+                "id": "5897612d6ad1902b3da6f004a345cdd34df745aa",
+                "name": "Viewing point 5",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.143787,
+                    52.561438
+                ]
+            },
+            "properties": {
+                "id": "344ee0f2ce8dc7e918ca199a33b36aca14ddb37b",
+                "name": "Whittlesey Water Tower",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.408476,
+                    52.561644
+                ]
+            },
+            "properties": {
+                "id": "7f5146c4c3ff93254967a2e2501bc360d1872cd6",
+                "name": "Wooden snake statue",
+                "locality": "Sibson-cum-Stibbington",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.178169,
+                    52.568858
+                ]
+            },
+            "properties": {
+                "id": "ade59ee2ba10fd875849f724fbbefe53c824916d",
+                "name": "Medieval Stone Barges Information",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.413136,
+                    52.577422
+                ]
+            },
+            "properties": {
+                "id": "a43fd520378cf6cafeffb504c0fcbc2e1397047d",
+                "name": "Cross Keys",
+                "locality": "Sibson-cum-Stibbington",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.077592,
+                    52.583133
+                ]
+            },
+            "properties": {
+                "id": "adfda2366521ffb0a2b5eb95fb1a4f9512aae821",
+                "name": "The Braza Pits Information Board",
+                "locality": "March",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.07456,
+                    52.586743
+                ]
+            },
+            "properties": {
+                "id": "301e6e87674c8ba4d9fb4c8eeba25e415aaa58e0",
+                "name": "Rings End Local Nature Reserve",
+                "locality": "Elm",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.19435,
+                    52.589222
+                ]
+            },
+            "properties": {
+                "id": "1f19089398a2423d3d01acea5962f792aaef87ba",
+                "name": "Marmont Priory Lock Extension Plaque",
+                "locality": "Christchurch",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.070203,
+                    52.594294
+                ]
+            },
+            "properties": {
+                "id": "4a7dbdc126d7345c37650e8cc054010e932b55b1",
+                "name": "Rings End Nature Reserve Frog Life",
+                "locality": "Elm",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.062661,
+                    52.609237
+                ]
+            },
+            "properties": {
+                "id": "a6f1c0aa943bea88830b64f3a128991dd5d827eb",
+                "name": "Guyhirn War Memorial",
+                "locality": "Wisbech St. Mary",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.07106,
+                    52.615879
+                ]
+            },
+            "properties": {
+                "id": "9e58500bf2a00a5855864b2804366f03790b3675",
+                "name": "Guyhirn Chapel of Ease",
+                "locality": "Wisbech St. Mary",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.017356,
+                    52.616784
+                ]
+            },
+            "properties": {
+                "id": "b092dc33a6c6af90a878fb33f67e79b3d6a01d6e",
+                "name": "Thorney Toll Village Hall",
+                "locality": "Wisbech St. Mary",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.067052,
+                    52.635103
+                ]
+            },
+            "properties": {
+                "id": "4e13f3b3628fc9de01978f3fea79c7e97e6f732a",
+                "name": "The Chequers",
+                "locality": "Wisbech St. Mary",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.17426,
+                    52.645491
+                ]
+            },
+            "properties": {
+                "id": "bda2b81205c4540e3ea280181915aa0a950e609f",
+                "name": "The Elmtree Inn",
+                "locality": "Elm",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.143511,
+                    52.651594
+                ]
+            },
+            "properties": {
+                "id": "5d568bb40200662f92f440762bc42ba84004c276",
+                "name": "The Light Cinema",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.16792,
+                    52.656134
+                ]
+            },
+            "properties": {
+                "id": "117f9078b66a8b41842f34481d80ec6c5ad7a14f",
+                "name": "National Cycle Network",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.029046,
+                    52.657619
+                ]
+            },
+            "properties": {
+                "id": "2342c136df15b4f1b8c246e67475690553e424a8",
+                "name": "St Mark's Methodist Church",
+                "locality": "Parson Drove",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.158393,
+                    52.658322
+                ]
+            },
+            "properties": {
+                "id": "80946f19fe9251f31cb1cbfae8c26d39a97d61b2",
+                "name": "Bowls Club Notice Board",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.166173,
+                    52.659106
+                ]
+            },
+            "properties": {
+                "id": "095da025c04e93daabcb73a89a4e77b89d719daa",
+                "name": "Elm Road V R Postbox",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.159154,
+                    52.663347
+                ]
+            },
+            "properties": {
+                "id": "c16163290b5f1a67fe7154dc36926e4d98431755",
+                "name": "Luxe Cinema, Wisbech",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.165899,
+                    52.664564
+                ]
+            },
+            "properties": {
+                "id": "415d950f4e3dd897f3aa27471483a5621d5ef542",
+                "name": "Wisbech Park Mural Stones",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.180672,
+                    52.665216
+                ]
+            },
+            "properties": {
+                "id": "772dff4e6746d99fa75c646d6a9e1fb37fe5015c",
+                "name": "Walsoken Walks Trail Marker, Stow Road",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.158085,
+                    52.665319
+                ]
+            },
+            "properties": {
+                "id": "786240a707af107c4f76edd86e4d0c8f173df281",
+                "name": "The Port of Wisbech Plaque",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.150901,
+                    52.670851
+                ]
+            },
+            "properties": {
+                "id": "dc9412ca7e4beaa8d0e5a64be50e4a69fbd14669",
+                "name": "Wisbech Hockey Club Astroturf Pitch",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.163602,
+                    52.672522
+                ]
+            },
+            "properties": {
+                "id": "150c5f56d2f2dbf0e14a6e9557d681303dd21ebc",
+                "name": "General post office (GPO marker)",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.157501,
+                    52.673451
+                ]
+            },
+            "properties": {
+                "id": "435856cb887767c73235e0371fe9fe73dbaf378b",
+                "name": "Wisbech Boxing Club",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.143919,
+                    52.673759
+                ]
+            },
+            "properties": {
+                "id": "70e734e557e6537e010bc667f24f992188c9e552",
+                "name": "Wisbech Town Council Allotments",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.136456,
+                    52.67548
+                ]
+            },
+            "properties": {
+                "id": "66d1f97ed9376736deafd6e293bcfa575f1d6488",
+                "name": "Rising Sun, Leverington",
+                "locality": "Leverington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.132019,
+                    52.675744
+                ]
+            },
+            "properties": {
+                "id": "71cd97ad548113feaae0c2de23578be95c8d5bb3",
+                "name": "Ringers Lane Stinkpipe",
+                "locality": "Leverington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.171545,
+                    52.676533
+                ]
+            },
+            "properties": {
+                "id": "08b577a1f4463e08ad3b10d0760d28aba7bfcb77",
+                "name": "Peter Rabbit and Friends",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.171833,
+                    52.676656
+                ]
+            },
+            "properties": {
+                "id": "cd6f38ae277ab727822550d03d4c362f03c7ccfa",
+                "name": "The barge boats",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.157931,
+                    52.676975
+                ]
+            },
+            "properties": {
+                "id": "978895da67e29ea313a74a1a47c573bf553d41b8",
+                "name": "George VI Pillarbox",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.167547,
+                    52.677322
+                ]
+            },
+            "properties": {
+                "id": "cc7b8ec004f2cd4795e03ca1393af215b9060ab1",
+                "name": "Admirals Drive Stinkpipe",
+                "locality": "Wisbech",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.134691,
+                    52.68101
+                ]
+            },
+            "properties": {
+                "id": "72a655a3d0981b58002c6543b1a5d4ea6a52af86",
+                "name": "Leverington Village Hall",
+                "locality": "Leverington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.134234,
+                    52.681362
+                ]
+            },
+            "properties": {
+                "id": "1d6a172620045622e6d5f3155f3c4285974f3edb",
+                "name": "VE Day Memorial Gates",
+                "locality": "Leverington",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.10099,
+                    52.685251
+                ]
+            },
+            "properties": {
+                "id": "7ef773c6abc6d4b9e807d9a1f9f64f79ba3e04da",
+                "name": "Gorefield Wooden Climbing Frame And Slide",
+                "locality": "Gorefield",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.096892,
+                    52.686561
+                ]
+            },
+            "properties": {
+                "id": "491c47790f62117927a1a3be3bdc705c6843064a",
+                "name": "Great War Memorial",
+                "locality": "Gorefield",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.100619,
+                    52.722509
+                ]
+            },
+            "properties": {
+                "id": "bde6ad6c5dd1200fd3ab6de4978fd6c944dddcc1",
+                "name": "Tydd St Giles Football Goal Pitch 1",
+                "locality": "Tydd St. Giles",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.127932,
+                    52.72866
+                ]
+            },
+            "properties": {
+                "id": "1ab747cdc116edc4a33a5aa1b2bc6fbdad65ee40",
+                "name": "Can You Spot These Animals & Birds?",
+                "locality": "Tydd St. Giles",
+                "district": "Fenland"
             }
         }
     ]
