@@ -4158,6 +4158,7 @@
                 ]
             },
             "properties": {
+                "id": "e7e1e827e94d9e0457730f553b7246e2e2759458",
                 "name": "Old Somersham School",
                 "locality": "Somersham",
                 "district": "Huntingdonshire"
@@ -23176,6 +23177,198 @@
                 "name": "Can You Spot These Animals & Birds?",
                 "locality": "Tydd St. Giles",
                 "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.121254,
+                    52.169716
+                ]
+            },
+            "properties": {
+                "id": "acf47fa6153523402dfb6070f96e51ed26bec274",
+                "name": "Hobson Road Play Area",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.138301,
+                    52.174268
+                ]
+            },
+            "properties": {
+                "id": "ff0f03f5d6706344f6647d4012dc68773f2ab08c",
+                "name": "Spinning DNA Sculpture",
+                "locality": "Queen Edith's",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.098205,
+                    52.176114
+                ]
+            },
+            "properties": {
+                "id": "b2f44bbae06fd4e9a7c834c944a3acc65edbe054",
+                "name": "Horse Statue",
+                "locality": "Grantchester",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.000376,
+                    52.381477
+                ]
+            },
+            "properties": {
+                "id": "d14aa015e51eaade6f52cfa45c2b6be33ede1386",
+                "name": "The Centurian Club",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.008048,
+                    52.381766
+                ]
+            },
+            "properties": {
+                "id": "03d77f01a7d0c2c373019f0f493f2da19576bcc3",
+                "name": "Somersham Village Sign",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.001954,
+                    52.382467
+                ]
+            },
+            "properties": {
+                "id": "a8cada0352b5422624e8a863a3f8fd8d2e821766",
+                "name": "Somersham Village Centre",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.002162,
+                    52.382776
+                ]
+            },
+            "properties": {
+                "id": "64c0b3f3f8f6663b4c9e576b9be5cc8abc3627b5",
+                "name": "Rose & Crown",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.007052,
+                    52.382839
+                ]
+            },
+            "properties": {
+                "id": "3d4340a5f3057d31ddb00f3d8f220454c074fc0d",
+                "name": "Station Wood, Somersham",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.005072,
+                    52.384364
+                ]
+            },
+            "properties": {
+                "id": "9272c23e78a720ac1f2d24c8b91fb075c79d59b3",
+                "name": "Welcome To Somersham Local Nature Reserve",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.001758,
+                    52.387544
+                ]
+            },
+            "properties": {
+                "id": "d136734059d8283d0f3581582fc1de43c8d3f1c4",
+                "name": "Happy Penguin Play Area",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.001157,
+                    52.388008
+                ]
+            },
+            "properties": {
+                "id": "424b549f5357ab201b741fe3848bbc2927a1d27c",
+                "name": "Meadowlands Basketball Court",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00462,
+                    52.388096
+                ]
+            },
+            "properties": {
+                "id": "361d9538a717adc6fcfc8d277eb16bc53ce0a6d0",
+                "name": "Millennium Sports Field",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
             }
         }
     ]
