@@ -2125,7 +2125,7 @@
             },
             "properties": {
                 "name": "Cambridge North Station",
-                "locality": "Chesterton",
+                "locality": "East Chesterton",
                 "district": "Cambridge"
             }
         },
@@ -18152,8 +18152,8 @@
             "properties": {
                 "id": "aaf22e0e1e9d7a16063efe09423fe844280fe7cf",
                 "name": "Andrew Silk Bench",
-                "locality": null,
-                "district": null
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
             }
         },
         {
