@@ -23370,6 +23370,166 @@
                 "locality": "Somersham",
                 "district": "Huntingdonshire"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.093421,
+                    52.162702
+                ]
+            },
+            "properties": {
+                "id": "e61d35073df66566ae8cea977ad8fc1f2a33fc51",
+                "name": "Wooden otter statue on Trumpington meadows",
+                "locality": "Haslingfield",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.147098,
+                    52.187524
+                ]
+            },
+            "properties": {
+                "id": "cd1a4fa7828dcbf31c352610d8c54463ad161b1d",
+                "name": "Cherry Hinton Road Post Office",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.140021,
+                    52.199288
+                ]
+            },
+            "properties": {
+                "id": "fa4aff0e21e5fcf3731e4f43d5683ed6c4737ff8",
+                "name": "Bharat Bhavan",
+                "locality": "Petersfield",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11166,
+                    52.220537
+                ]
+            },
+            "properties": {
+                "id": "f374238fa6da621db3b63ebe4ca6722c25d7b9ea",
+                "name": "Histon Road Post Office",
+                "locality": "Arbury",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.130865,
+                    52.552521
+                ]
+            },
+            "properties": {
+                "id": "a8dddd2df194017990d55231a4b6c1de58f5d34a",
+                "name": "WW2 Bunker",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.120313,
+                    52.560477
+                ]
+            },
+            "properties": {
+                "id": "80ca7933f1807f81d6f505ee570d61112a913523",
+                "name": "Victorian Stink Pipe",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.365843,
+                    52.562395
+                ]
+            },
+            "properties": {
+                "id": "72577662b909443a887bdf52687c26ef1e8894ff",
+                "name": "St Remigius Church",
+                "locality": "Water Newton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.136302,
+                    52.189177
+                ]
+            },
+            "properties": {
+                "id": "903592036500a54b31fc2b5b150d81ac0179eae0",
+                "name": "The Podium - Splash of Silver & Gold",
+                "locality": "Coleridge",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.209152,
+                    52.268595
+                ]
+            },
+            "properties": {
+                "id": "84c4425d00b9b2ae4741bd327077cf091f5def5f",
+                "name": "Bottisham Lock",
+                "locality": "Horningsea",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.09583,
+                    52.561521
+                ]
+            },
+            "properties": {
+                "id": "7fef215e05a98cd6919992ea6b37aa2b9d139e17",
+                "name": "Estover Community Hub And Sports Field",
+                "locality": "March",
+                "district": "Fenland"
+            }
         }
     ]
 }
