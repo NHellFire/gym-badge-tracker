@@ -828,7 +828,7 @@
             },
             "properties": {
                 "id": "37ca1d5b8246b8d95c5cb591f63191789693b732",
-                "name": "Hot Numbers",
+                "name": "Hot Numbers Mural",
                 "locality": "Petersfield",
                 "district": "Cambridge"
             }
@@ -3546,7 +3546,7 @@
             },
             "properties": {
                 "id": "85ce417b6aff1110bbbc81c798aa2ef19ff8f737",
-                "name": "Welcome To Ouse Valley Way",
+                "name": "Welcome to the Ouse Valley Way (Holywell Front)",
                 "locality": "Holywell-cum-Needingworth",
                 "district": "Huntingdonshire"
             }
@@ -3905,7 +3905,7 @@
             },
             "properties": {
                 "id": "2f664ffe254a8fa24f406a3984cfb24617ae4117",
-                "name": "Village Lockup",
+                "name": "Needingworth Village Lockup",
                 "locality": "Holywell-cum-Needingworth",
                 "district": "Huntingdonshire"
             }
@@ -6719,7 +6719,7 @@
             },
             "properties": {
                 "id": "4880aa4b6312a2ed758b6e009ed07e7dd07e7db0",
-                "name": "Okolice Jeziora",
+                "name": "Okolice Jeziora - Northside Main Lake (Point No. 2)",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -7131,7 +7131,7 @@
             },
             "properties": {
                 "id": "158372161ad9e74702c9c78c4dfb5a73cc5840fe",
-                "name": "St Andrews Church",
+                "name": "St. Andrew\u2019s Church, Abbots Ripton",
                 "locality": "Abbots Ripton",
                 "district": "Huntingdonshire"
             }
@@ -7211,7 +7211,7 @@
             },
             "properties": {
                 "id": "f3c5eb4b126709bd29e31c0a9418e82346c03897",
-                "name": "WW1 Bench",
+                "name": "WW1 Centenary Bench (Paragon Road)",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
             }
@@ -8604,7 +8604,7 @@
             },
             "properties": {
                 "id": "f8de1e75c24e5be4351df3c5e4ee1041fc0a789c",
-                "name": "Another City Of Ely Play Area",
+                "name": "Another City Of Ely Play Area (Columbine Rd)",
                 "locality": "Ely",
                 "district": "East Cambridgeshire"
             }
@@ -9974,7 +9974,7 @@
             },
             "properties": {
                 "id": "2b4d995e11d39c6a8ea762e0c677372a1218adf5",
-                "name": "Sawston Library",
+                "name": "Former site of Sawston Library",
                 "locality": "Sawston",
                 "district": "South Cambridgeshire"
             }
@@ -10006,7 +10006,7 @@
             },
             "properties": {
                 "id": "5a5ce335c36ec99d316590c19b512cbc7cc19797",
-                "name": "The Crow",
+                "name": "The Owl",
                 "locality": "Babraham",
                 "district": "South Cambridgeshire"
             }
@@ -11063,7 +11063,7 @@
             },
             "properties": {
                 "id": "221b20a6b273efb3e626831c419439081327c3a6",
-                "name": "Arbury Court Post Office ",
+                "name": "Arbury Court Post Office",
                 "locality": "King's Hedges",
                 "district": "Cambridge"
             }
@@ -11079,7 +11079,7 @@
             },
             "properties": {
                 "id": "975413a00dc4bc57f8206ef36ccb3cc13558e04b",
-                "name": "The Good Shepherd Church",
+                "name": "Church of The Good Shepherd",
                 "locality": "King's Hedges",
                 "district": "Cambridge"
             }
@@ -12311,7 +12311,7 @@
             },
             "properties": {
                 "id": "c5354d508f0f0c36969a96f2105f21e3cd505179",
-                "name": "Pillbox",
+                "name": "Rampton Road Pillbox",
                 "locality": "Longstanton",
                 "district": "South Cambridgeshire"
             }
@@ -13319,7 +13319,7 @@
             },
             "properties": {
                 "id": "a79872b67f0b860dea34a0ccf1395906ceac2e5c",
-                "name": "River Park Ironwork",
+                "name": "Riverside Park Ironwork",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -13559,7 +13559,7 @@
             },
             "properties": {
                 "id": "6ce772a6b9399a8ca23cf29f9a8fdf9c97be73e8",
-                "name": "WW1 Memorial Bench",
+                "name": "WW1 Memorial Bench (Ramsey Road)",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
             }
@@ -17319,7 +17319,7 @@
             },
             "properties": {
                 "id": "b52d488399fc2a936b8b54ef9114ac997effdee1",
-                "name": "Leverington Sports  And Social Club",
+                "name": "Leverington Sports And Social Club",
                 "locality": "Leverington",
                 "district": "Fenland"
             }
@@ -17511,7 +17511,7 @@
             },
             "properties": {
                 "id": "df66c1f5c1a40531a5272f7444aff15ef8a0b6f2",
-                "name": "Tydd St Giles Playing Field",
+                "name": "Tydd St Giles Play Area",
                 "locality": "Tydd St. Giles",
                 "district": "Fenland"
             }
@@ -17911,7 +17911,7 @@
             },
             "properties": {
                 "id": "d48db09d84561069d2b198c19897d8d981194500",
-                "name": "Victorian Pillar Box",
+                "name": "Victorian Postbox - Hills Road",
                 "locality": "Queen Edith's",
                 "district": "Cambridge"
             }
@@ -19846,7 +19846,7 @@
             },
             "properties": {
                 "id": "be7c5dfaed3974f333e52b4cf0f31717e9be99b4",
-                "name": "Market Square Monument.",
+                "name": "Market Square Monument",
                 "locality": "St. Neots",
                 "district": "Huntingdonshire"
             }
@@ -19878,7 +19878,7 @@
             },
             "properties": {
                 "id": "24c5d344d7c2d7a375fa3c6a0a2beb5b3b72a654",
-                "name": "George V Historic Postbox",
+                "name": "George V Postbox, Cambridge Street",
                 "locality": "St. Neots",
                 "district": "Huntingdonshire"
             }
@@ -19990,7 +19990,7 @@
             },
             "properties": {
                 "id": "f557c0653bd3aba06aab5e963dfb4294b841bd22",
-                "name": "Priory Park Trim Trail - Parallel",
+                "name": "Priory Park Trim Trail - Parallel Bars",
                 "locality": "St. Neots",
                 "district": "Huntingdonshire"
             }
@@ -20246,7 +20246,7 @@
             },
             "properties": {
                 "id": "c4168d3394c709e195aff80747b3521720d99ce7",
-                "name": "Ellsworth Holy Trinity",
+                "name": "Elsworth Holy Trinity",
                 "locality": "Elsworth",
                 "district": "South Cambridgeshire"
             }
@@ -20966,7 +20966,7 @@
             },
             "properties": {
                 "id": "7326565801af9efc5e670364de9f20c5d418cc7b",
-                "name": "The White Hart Pub",
+                "name": "The White Hart",
                 "locality": "Godmanchester",
                 "district": "Huntingdonshire"
             }
@@ -21062,7 +21062,7 @@
             },
             "properties": {
                 "id": "e0f724db7c8033d1665ce77ff1ef0e3d3dbf4d50",
-                "name": "Welcome To The Old River port",
+                "name": "Welcome to The Old Riverport (East)",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
             }
@@ -21078,7 +21078,7 @@
             },
             "properties": {
                 "id": "9bfe418c7d94d174ad3c2a109df91a7e9e75c83b",
-                "name": "Park Map",
+                "name": "Nun\u2019s Bridge Little Beach (Point No. 4)",
                 "locality": "Brampton",
                 "district": "Huntingdonshire"
             }
@@ -21110,7 +21110,7 @@
             },
             "properties": {
                 "id": "0e052c1bff21efd4014cb34d50e12f69ca34ccdb",
-                "name": "Country Park",
+                "name": "The Bund (Point No. 7)",
                 "locality": "Brampton",
                 "district": "Huntingdonshire"
             }
@@ -21302,7 +21302,7 @@
             },
             "properties": {
                 "id": "67edf8d40843c0e081c1f15a6d400ddb74daf325",
-                "name": "Godmanchester Nature Reserve",
+                "name": "Godmanchester Nature Reserve, Midwest Gate",
                 "locality": "Godmanchester",
                 "district": "Huntingdonshire"
             }
@@ -21558,7 +21558,7 @@
             },
             "properties": {
                 "id": "55de1c6e8b029eeae1cc4f4a6d1327af8ea0bbe8",
-                "name": "Barleyfield Way Play Area",
+                "name": "Meadow Gardens Play Area",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -21574,7 +21574,7 @@
             },
             "properties": {
                 "id": "c86b8a1e7b715d3d30037ad9d7330dffa7639459",
-                "name": "Sapley Basketball Court",
+                "name": "Coneygear Park Multi Use Games Area",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -21654,7 +21654,7 @@
             },
             "properties": {
                 "id": "3f72706454de4b33b777608cee7b9ca2c41c79b2",
-                "name": "St. Bartholomew",
+                "name": "St. Bartholomew Church, Great Stukeley",
                 "locality": "The Stukeleys",
                 "district": "Huntingdonshire"
             }
@@ -21782,7 +21782,7 @@
             },
             "properties": {
                 "id": "2b5c084b14db3c583765f2a55f6d4ef98157e769",
-                "name": "Alconbury CHURCH",
+                "name": "Church of St. Peter & St. Paul, Alconbury",
                 "locality": "Alconbury",
                 "district": "Huntingdonshire"
             }
@@ -21798,7 +21798,7 @@
             },
             "properties": {
                 "id": "5d3186dcffb3eb2c43a2b3d82344e34ced10d8bf",
-                "name": "Abbot's Ripton village hall",
+                "name": "Abbots Ripton Village Hall",
                 "locality": "Abbots Ripton",
                 "district": "Huntingdonshire"
             }
@@ -22534,7 +22534,7 @@
             },
             "properties": {
                 "id": "da047f7ed06baf92d01451be770354d07c5e6a3b",
-                "name": "Victorian stink pipe",
+                "name": "Eastrea Road Stink Pipe",
                 "locality": "Whittlesey",
                 "district": "Fenland"
             }
@@ -23382,7 +23382,7 @@
             },
             "properties": {
                 "id": "e61d35073df66566ae8cea977ad8fc1f2a33fc51",
-                "name": "Wooden otter statue on Trumpington meadows",
+                "name": "Carved Otter",
                 "locality": "Haslingfield",
                 "district": "South Cambridgeshire"
             }
@@ -23462,7 +23462,7 @@
             },
             "properties": {
                 "id": "80ca7933f1807f81d6f505ee570d61112a913523",
-                "name": "Victorian Stink Pipe",
+                "name": "Bassenhally Road Stink Pipe",
                 "locality": "Whittlesey",
                 "district": "Fenland"
             }
@@ -23529,6 +23529,38 @@
                 "name": "Estover Community Hub And Sports Field",
                 "locality": "March",
                 "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.079036,
+                    52.550574
+                ]
+            },
+            "properties": {
+                "id": "c5c569de9b7da5a01d59772789e1ba5f13505028",
+                "name": "Run England 1,2,3 1km Marker (Riverbank Close Entrance)",
+                "locality": "March",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.135995,
+                    52.198647
+                ]
+            },
+            "properties": {
+                "id": "6981acd2833c69169895223d996853606014cbc7",
+                "name": "King\u2019s Church Cambridge",
+                "locality": "Petersfield",
+                "district": "Cambridge"
             }
         }
     ]
