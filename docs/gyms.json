@@ -16705,8 +16705,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.171542,
-                    52.658618
+                    0.171807,
+                    52.658636
                 ]
             },
             "properties": {
@@ -23561,6 +23561,86 @@
                 "name": "King\u2019s Church Cambridge",
                 "locality": "Petersfield",
                 "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.125182,
+                    52.191008
+                ]
+            },
+            "properties": {
+                "id": "79c7454d90b9a4155ccd7f078d747a5d6436daf3",
+                "name": "Common Allotment Queensway",
+                "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.09515,
+                    52.198651
+                ]
+            },
+            "properties": {
+                "id": "6e8796afd0c848b56eae7d9261d73f95aafddd95",
+                "name": "City of Cambridge Sign",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.158832,
+                    52.20572
+                ]
+            },
+            "properties": {
+                "id": "66c425d41929d296d8808e99d21fae3405b533a5",
+                "name": "Coldhams Common Football Pitch",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.127131,
+                    52.209315
+                ]
+            },
+            "properties": {
+                "id": "09f9bbfa8633347d2633e461db21984ef73de754",
+                "name": "Jesus College Crest",
+                "locality": "Market",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.110306,
+                    52.240149
+                ]
+            },
+            "properties": {
+                "id": "d7b78a9bf1828468d4f15078889e6dff2bc12eff",
+                "name": "Histon Windmill",
+                "locality": "Impington",
+                "district": "South Cambridgeshire"
             }
         }
     ]
