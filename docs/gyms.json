@@ -19200,8 +19200,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.119458,
-                    52.174907
+                    0.119467,
+                    52.174938
                 ]
             },
             "properties": {
@@ -19478,7 +19478,7 @@
             },
             "properties": {
                 "id": "48f81d0d049788b0b8718de311542d76834a3598",
-                "name": "The department of magical gifts",
+                "name": "The department of magical gifts ",
                 "locality": "Market",
                 "district": "Cambridge"
             }
@@ -23641,6 +23641,38 @@
                 "name": "Histon Windmill",
                 "locality": "Impington",
                 "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.089921,
+                    52.153908
+                ]
+            },
+            "properties": {
+                "id": "ac97535902bfb167e2121b1baecd7a8f1011c4ae",
+                "name": "Hauxton Cricket Nets",
+                "locality": "Hauxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.130373,
+                    52.173887
+                ]
+            },
+            "properties": {
+                "id": "d360a45f08fcc6a79db9b124e9160276d2d8a933",
+                "name": "Woodland Commemorative Trail Marker",
+                "locality": "Trumpington",
+                "district": "Cambridge"
             }
         }
     ]
