@@ -10754,8 +10754,7 @@
                 "id": "c12ab878da42f517dc09cbe2eb5382f19ea098be",
                 "name": "Clip And Climb Activity Center",
                 "locality": "Coleridge",
-                "district": "Cambridge",
-                "removed": true
+                "district": "Cambridge"
             }
         },
         {
@@ -29283,6 +29282,38 @@
                 "name": "Queen Victoria Post Box",
                 "locality": "Melbourn",
                 "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.194557,
+                    52.400215
+                ]
+            },
+            "properties": {
+                "id": "f7af85a50400c135ba511ba5133413fb2608f5dd",
+                "name": "Trail Marker - Witchford Walk #6",
+                "locality": "Wentworth",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.217234,
+                    52.401119
+                ]
+            },
+            "properties": {
+                "id": "2238676dd928345c9a1913b30c18f1bf63a6ff50",
+                "name": "Long Drove Trail Marker - Witchford Walk #4",
+                "locality": "Witchford",
+                "district": "East Cambridgeshire"
             }
         }
     ]
