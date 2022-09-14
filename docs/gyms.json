@@ -460,7 +460,7 @@
             },
             "properties": {
                 "id": "785cae0e4aff537818aaf16a019579d91b85aac8",
-                "name": "Junction Mural",
+                "name": "Junction Mosaic",
                 "locality": "Coleridge",
                 "district": "Cambridge"
             }
@@ -6522,7 +6522,7 @@
             },
             "properties": {
                 "id": "71c9dfd161296323e249707cbadc59117d55ac61",
-                "name": "St Mary Magdalene Church",
+                "name": "St. Mary Magdalene Church, Hilton",
                 "locality": "Hilton",
                 "district": "Huntingdonshire"
             }
@@ -10752,7 +10752,7 @@
             },
             "properties": {
                 "id": "c12ab878da42f517dc09cbe2eb5382f19ea098be",
-                "name": "Clip And Climb Activity Center",
+                "name": "Clip And Climb Activity Centre",
                 "locality": "Coleridge",
                 "district": "Cambridge"
             }
@@ -14560,7 +14560,7 @@
             },
             "properties": {
                 "id": "9a88346c7db3dd2e9d86b9ab0107fe3de3ae8601",
-                "name": "Upwood basketball court",
+                "name": "Upwood Basketball Court",
                 "locality": "Upwood and the Raveleys",
                 "district": "Huntingdonshire"
             }
@@ -17344,7 +17344,7 @@
             },
             "properties": {
                 "id": "72558a90c84150338f80275553fe2d13de9be41b",
-                "name": "The Spinny Sign",
+                "name": "The Spinney Entrance",
                 "locality": "Wisbech",
                 "district": "Fenland"
             }
@@ -19263,7 +19263,7 @@
             },
             "properties": {
                 "id": "39f6fb44994f72615a7b4b178c6af4077d799c7c",
-                "name": "CPDC",
+                "name": "Fawcett House (formerly CPDC)",
                 "locality": "Trumpington",
                 "district": "Cambridge"
             }
@@ -22623,7 +22623,7 @@
             },
             "properties": {
                 "id": "5897612d6ad1902b3da6f004a345cdd34df745aa",
-                "name": "Viewing point 5",
+                "name": "Brickworks Viewing Area",
                 "locality": "Whittlesey",
                 "district": "Fenland"
             }
@@ -23375,7 +23375,7 @@
             },
             "properties": {
                 "id": "9272c23e78a720ac1f2d24c8b91fb075c79d59b3",
-                "name": "Welcome To Somersham Local Nature Reserve",
+                "name": "Somersham Local Nature Reserve - Lake Entrance",
                 "locality": "Somersham",
                 "district": "Huntingdonshire"
             }
@@ -23503,7 +23503,7 @@
             },
             "properties": {
                 "id": "a8dddd2df194017990d55231a4b6c1de58f5d34a",
-                "name": "WW2 Bunker",
+                "name": "Braemar Gardens Pillbox",
                 "locality": "Whittlesey",
                 "district": "Fenland"
             }
@@ -23919,7 +23919,7 @@
             },
             "properties": {
                 "id": "9560080a2b687996de4e6b85f3eabf7b80273a00",
-                "name": "Ornate Woodern Bridge",
+                "name": "Ornate Wooden Bridge",
                 "locality": "Wimpole",
                 "district": "South Cambridgeshire"
             }
@@ -23935,7 +23935,7 @@
             },
             "properties": {
                 "id": "70a0f320eabdc9b466e6170ef3888337f5b05b4b",
-                "name": "Harcamlow Way trailmarker",
+                "name": "Harcamlow Way Trailmarker",
                 "locality": "Teversham",
                 "district": "South Cambridgeshire"
             }
@@ -24047,7 +24047,7 @@
             },
             "properties": {
                 "id": "57d21b5207bfd03f2159e505b3cabde47ce36461",
-                "name": "little acre fen pocket park",
+                "name": "Little Acre Fen Pocket Park",
                 "locality": "Chatteris",
                 "district": "Fenland"
             }
@@ -24127,7 +24127,7 @@
             },
             "properties": {
                 "id": "b4aa754fe2b956a3f0e68552ac4f46f7ca7ba581",
-                "name": "Welcome to Somersham Nature reserve",
+                "name": "Somersham Local Nature Reserve - Station Land Entrance",
                 "locality": "Somersham",
                 "district": "Huntingdonshire"
             }
@@ -24879,7 +24879,7 @@
             },
             "properties": {
                 "id": "1e5af85ea3157b0d66e1b91bd400026f4a37425f",
-                "name": "Little Downham Commuity Orchard Sign",
+                "name": "Little Downham Community Orchard Sign",
                 "locality": "Downham",
                 "district": "East Cambridgeshire"
             }
@@ -25519,7 +25519,7 @@
             },
             "properties": {
                 "id": "c8307e7f915fa8043533764f4d931d40bffb046e",
-                "name": "Caldecote playground",
+                "name": "Caldecote Playground",
                 "locality": "Caldecote",
                 "district": "South Cambridgeshire"
             }
@@ -27263,7 +27263,7 @@
             },
             "properties": {
                 "id": "19ced6fe30e62f71659271ec528a9a08298f9392",
-                "name": "Sirius Lake southern bank information board",
+                "name": "Sirius Lake - Southern Bank Information Board",
                 "locality": "Cambourne",
                 "district": "South Cambridgeshire"
             }
@@ -29887,7 +29887,7 @@
             },
             "properties": {
                 "id": "291b9333e88114b91ac8f7b9577c8ab6cb81a565",
-                "name": "unknown",
+                "name": "Welcome to Priory Wood",
                 "locality": "Burwell",
                 "district": "East Cambridgeshire"
             }
@@ -30127,7 +30127,7 @@
             },
             "properties": {
                 "id": "fd719ee9c1193feb46cb795b11305d2376b780f3",
-                "name": "Adam Lyons Park Playground Equipments",
+                "name": "Adam Lyons Park Playground Equipment",
                 "locality": "Warboys",
                 "district": "Huntingdonshire"
             }
@@ -30399,7 +30399,7 @@
             },
             "properties": {
                 "id": "c0e062b6a14c4a8539105a31a041d9a0b6c4954f",
-                "name": "Welcome to the Ouse Valley Way",
+                "name": "Welcome to the Ouse Valley Way (Houghton Mill)",
                 "locality": "Houghton and Wyton",
                 "district": "Huntingdonshire"
             }
@@ -30735,7 +30735,7 @@
             },
             "properties": {
                 "id": "e9ea73903a4eec28491cfae873f134ae44a43c99",
-                "name": "Willburton Childrens Play Park",
+                "name": "Wilburton Childrens Play Park",
                 "locality": "Wilburton",
                 "district": "East Cambridgeshire"
             }
@@ -31007,7 +31007,7 @@
             },
             "properties": {
                 "id": "6207f6270d6e19ce780b822ba05e716db14707df",
-                "name": "Grantchester Meadows Footbridge",
+                "name": "Grantchester Meadows Footbridge #3",
                 "locality": "Grantchester",
                 "district": "South Cambridgeshire"
             }
@@ -31023,7 +31023,7 @@
             },
             "properties": {
                 "id": "60e175bc7884a3689b3c9a0fb2d530fac5451346",
-                "name": "Grantchester Meadows Trail Footbridge",
+                "name": "Grantchester Meadows Trail Footbridge #4",
                 "locality": "Grantchester",
                 "district": "South Cambridgeshire"
             }
@@ -31087,7 +31087,7 @@
             },
             "properties": {
                 "id": "7eccf54fe35f6c92c19753f825a7398d17b78474",
-                "name": "War Memorial in Cambridge",
+                "name": "Homecoming: Cambridge War Memorial",
                 "locality": "Trumpington",
                 "district": "Cambridge"
             }
@@ -31183,7 +31183,7 @@
             },
             "properties": {
                 "id": "4feafc8c171bc87eed18c360d76ddb24ac9a9202",
-                "name": "City Of Cambridge Sign",
+                "name": "City Of Cambridge Sign (Madingley Road)",
                 "locality": "Castle",
                 "district": "Cambridge"
             }
@@ -31215,7 +31215,7 @@
             },
             "properties": {
                 "id": "24d81c428dc6c9c502a2d8f562bc40cec29a640e",
-                "name": "Eaton Ford Signs",
+                "name": "Eaton Ford Village Sign",
                 "locality": "St. Neots",
                 "district": "Huntingdonshire"
             }
@@ -31231,7 +31231,7 @@
             },
             "properties": {
                 "id": "0be481a1840ae26c7a552ff1380be08f5520ffbe",
-                "name": "Milton Flower Shop",
+                "name": "The Milton Flower Shop",
                 "locality": "Milton",
                 "district": "South Cambridgeshire"
             }
@@ -31407,7 +31407,7 @@
             },
             "properties": {
                 "id": "68c4965bec87d4f264a9f63d9f1ddb21fcb32be9",
-                "name": "The Patherfinder, 46 mile circuler walk",
+                "name": "The Pathfinder - Trail Marker",
                 "locality": "Somersham",
                 "district": "Huntingdonshire"
             }
@@ -31615,7 +31615,7 @@
             },
             "properties": {
                 "id": "9ca729a91389eed2903a32f967c38dc1c481c3cb",
-                "name": "Elton Hall",
+                "name": "Elton Hall Entrance Sign",
                 "locality": "Elton",
                 "district": "Huntingdonshire"
             }
@@ -31807,7 +31807,7 @@
             },
             "properties": {
                 "id": "310b40e5f3b4e5467bedde073f35386a294c5631",
-                "name": "Grantchester Meadows Trail Footbridge",
+                "name": "Grantchester Meadows Trail Footbridge #1",
                 "locality": "Grantchester",
                 "district": "South Cambridgeshire"
             }
@@ -31903,7 +31903,7 @@
             },
             "properties": {
                 "id": "b7eca82eebfd0113c3bb8eeb1523642eab3a787e",
-                "name": "Chapel",
+                "name": "Fowlmere Cemetary Chapel",
                 "locality": "Fowlmere",
                 "district": "South Cambridgeshire"
             }
@@ -32047,7 +32047,7 @@
             },
             "properties": {
                 "id": "dc1df6cd27fc444454048a7895d869661ba5abd1",
-                "name": "Sand Pit",
+                "name": "Northstowe Sand Pit Play Area",
                 "locality": "Longstanton",
                 "district": "South Cambridgeshire"
             }
@@ -32127,7 +32127,7 @@
             },
             "properties": {
                 "id": "11e487c77e06d012d792a020c3b4564857fded2f",
-                "name": "Portholme",
+                "name": "Portholme Meadow, Godmanchester Entrance",
                 "locality": "Brampton",
                 "district": "Huntingdonshire"
             }
@@ -32545,6 +32545,54 @@
                 "id": "be312709d2fd979d0c21d59e75aed7325e796c27",
                 "name": "Wildlife Trust Nature Trail Marker",
                 "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.179801,
+                    52.127652
+                ]
+            },
+            "properties": {
+                "id": "1cbbc5ab72674c2b0a16dc764770f050878edb07",
+                "name": "Lynton Way Sports Pavillion",
+                "locality": "Sawston",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.137122,
+                    52.339262
+                ]
+            },
+            "properties": {
+                "id": "9c2d7bf7e011d5f0ffd807dcec8d11724aed400e",
+                "name": "Dobbies Play Area",
+                "locality": "Houghton and Wyton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.260322,
+                    52.203874
+                ]
+            },
+            "properties": {
+                "id": "d4320ac252f4e211c6aca4faa54f353426d40577",
+                "name": "St.John the Evangelist Church",
+                "locality": "Little Wilbraham",
                 "district": "South Cambridgeshire"
             }
         }
