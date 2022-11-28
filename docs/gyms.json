@@ -326,8 +326,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.17324,
-                    52.186231
+                    0.17326,
+                    52.186184
                 ]
             },
             "properties": {
@@ -32594,6 +32594,422 @@
                 "name": "St.John the Evangelist Church",
                 "locality": "Little Wilbraham",
                 "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.072245,
+                    52.407313
+                ]
+            },
+            "properties": {
+                "id": "fee7494e6e9c86d89ed0463dcba5820fda73a243",
+                "name": "Warboys village noticeboard",
+                "locality": "Warboys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252781,
+                    52.246404
+                ]
+            },
+            "properties": {
+                "id": "44cb87fab64d8e8d48aab068f36e9e86ac1570ac",
+                "name": "Meadow Trail Marker #10",
+                "locality": "Little Paxton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.007985,
+                    52.323726
+                ]
+            },
+            "properties": {
+                "id": "06731614a84149158b8beeb34c55eb8127055724",
+                "name": "Welcome to the Ouse Valley Way (Needingworth)",
+                "locality": "Holywell-cum-Needingworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.17609,
+                    52.190485
+                ]
+            },
+            "properties": {
+                "id": "698a1326b886f18b0f67f437d6a6324adade896d",
+                "name": "Cherry Hinton Brethren's Meeting Room",
+                "locality": "Cherry Hinton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.113783,
+                    52.545487
+                ]
+            },
+            "properties": {
+                "id": "7e79fb2ecd27cc4e73491f0e8010deef6c746423",
+                "name": "unknown",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.125692,
+                    52.16008
+                ]
+            },
+            "properties": {
+                "id": "7fa70d98f307baecf52483c1660e851a6bf78d92",
+                "name": "The Davey Field",
+                "locality": "Great Shelford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.256797,
+                    52.203786
+                ]
+            },
+            "properties": {
+                "id": "64d233278feb82fa3fe216206bad8425aff2dbf1",
+                "name": "The Hole in the Wall",
+                "locality": "Little Wilbraham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.22043,
+                    52.226335
+                ]
+            },
+            "properties": {
+                "id": "65210b6ef12f097e18609abe04caa29eb2844699",
+                "name": "Harcamlow Way Marker",
+                "locality": "Stow cum Quy",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.060833,
+                    52.135103
+                ]
+            },
+            "properties": {
+                "id": "527be4bf86c4cbec28f3a3b030603e0a318fd7c0",
+                "name": "Wimpole Gate",
+                "locality": "Arrington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.415889,
+                    52.26593
+                ]
+            },
+            "properties": {
+                "id": "3f9d80c5d2f76904a699f6ac29b7c2369dacd60b",
+                "name": "Multi-Use Games Area",
+                "locality": "Snailwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0008,
+                    52.375444
+                ]
+            },
+            "properties": {
+                "id": "fec460706b021b6ddec6e385f2c6ea750c1c6481",
+                "name": "Long Distance Trail Markers",
+                "locality": "Colne",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.146984,
+                    52.370471
+                ]
+            },
+            "properties": {
+                "id": "c5774c208c638025c4ab0fa7f9bae7a2b7597c49",
+                "name": "Pathfinder Way Trail Marker",
+                "locality": "Kings Ripton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.366745,
+                    52.500791
+                ]
+            },
+            "properties": {
+                "id": "f47e5efac0169ca8963c3a7f45a766148e0e2dd9",
+                "name": "The Ship At Brandon Creek",
+                "locality": "Littleport",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.183377,
+                    52.084668
+                ]
+            },
+            "properties": {
+                "id": "4ddc77e2c63e1a1ffa97759e28e40301118a645f",
+                "name": "St Mary & St John Parish Church",
+                "locality": "Hinxton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.239456,
+                    52.113902
+                ]
+            },
+            "properties": {
+                "id": "4d76df3156bcbe67d6573910a341483c7d8b8073",
+                "name": "Abington Allotments",
+                "locality": "Great Abington",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.393811,
+                    52.313332
+                ]
+            },
+            "properties": {
+                "id": "4783518c3f1fe42cc17602ddaa154fbb2d222d1b",
+                "name": "Fordham F. C.",
+                "locality": "Fordham",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.152961,
+                    52.211788
+                ]
+            },
+            "properties": {
+                "id": "7d3f9e6f6c1c6c63bd56813e12e4216d7d6f876b",
+                "name": "Habbin South",
+                "locality": "Abbey",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.178397,
+                    52.215419
+                ]
+            },
+            "properties": {
+                "id": "7932912bf08ee6a3cde28e9a8d1e3f952dbed2a6",
+                "name": "Mini children\u2019s spinning platform to play on",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.127151,
+                    52.221303
+                ]
+            },
+            "properties": {
+                "id": "81351d2c04f27b9671bee97b404425f9f9f07544",
+                "name": "George V Postbox Orchard Avenue",
+                "locality": "West Chesterton",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.174726,
+                    52.349925
+                ]
+            },
+            "properties": {
+                "id": "b7bec71b296cfeaa62619d6bcc7dc501d8458f6a",
+                "name": "Twentypence Bench",
+                "locality": "Wilburton",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.142047,
+                    52.178692
+                ]
+            },
+            "properties": {
+                "id": "913553b104745a10a06ed4366bf709985a0a72da",
+                "name": "The Leys - Little Gransden Village Trail",
+                "locality": "Little Gransden",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.108316,
+                    52.247511
+                ]
+            },
+            "properties": {
+                "id": "7fe64bc3793aa9ea31157fcfe334357033cb8d85",
+                "name": "Histon Baptist Church",
+                "locality": "Histon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.470443,
+                    52.292187
+                ]
+            },
+            "properties": {
+                "id": "6388d109e4b88456c51d4288f059044a8b192877",
+                "name": "WildTracks Karting Circuit Clubhouse",
+                "locality": "Kennett",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.114821,
+                    52.386302
+                ]
+            },
+            "properties": {
+                "id": "2a660e69507b0f6aff609d06897534e13d46b57b",
+                "name": "Pathfinder Way Marker entering Broughton",
+                "locality": "Broughton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.027437,
+                    52.207058
+                ]
+            },
+            "properties": {
+                "id": "d285b99b89291afbe78d95cd5db21049e4292b72",
+                "name": "Caldecote Tennis Courts",
+                "locality": "Caldecote",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.241017,
+                    52.429119
+                ]
+            },
+            "properties": {
+                "id": "98164d202a0084b02c139aeff136709bf66ab138",
+                "name": "The Cartshed",
+                "locality": "Downham",
+                "district": "East Cambridgeshire"
             }
         }
     ]
