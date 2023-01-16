@@ -29471,7 +29471,7 @@
             },
             "properties": {
                 "id": "61a46b631fe7606b13761c6f455e1b57179ab7a6",
-                "name": "unknown",
+                "name": "EE",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -29759,7 +29759,7 @@
             },
             "properties": {
                 "id": "d92e28b8f544565a24c908b4e423398e95a291d8",
-                "name": "unknown",
+                "name": "EE",
                 "locality": "St. Neots",
                 "district": "Huntingdonshire"
             }
@@ -33377,6 +33377,182 @@
                 "id": "e778137024bcc2ad6c2ab58457d9842389dec520",
                 "name": "Via Beata Marker at Great Stukeley",
                 "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.379906,
+                    52.289395
+                ]
+            },
+            "properties": {
+                "id": "597284c00d1b7f40558d9b235fe5cd4a53d45ccc",
+                "name": "Huntingdonshire Country Walks Marker",
+                "locality": "Kimbolton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.01655,
+                    52.312909
+                ]
+            },
+            "properties": {
+                "id": "b53ef0000266e6eb80b6ff69e2c91fdb0a2f92d3",
+                "name": "Over War Memorial",
+                "locality": "Over",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.291039,
+                    52.298311
+                ]
+            },
+            "properties": {
+                "id": "74690b8bf9fac20a10e1c8f1d325c92eb7e8a074",
+                "name": "Dont forget your bucket & spade!",
+                "locality": "Grafham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.140156,
+                    52.180622
+                ]
+            },
+            "properties": {
+                "id": "4cd5096240faed9a54cf41424ebfde8b7c0e4f44",
+                "name": "The Chequers",
+                "locality": "Little Gransden",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.025604,
+                    52.255701
+                ]
+            },
+            "properties": {
+                "id": "036d54d921e1a745f9a1c8ae4c271db9f671c594",
+                "name": "Bar Hill Suspension Footbridge",
+                "locality": "Bar Hill",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.325293,
+                    52.278542
+                ]
+            },
+            "properties": {
+                "id": "1ea3d2e13b4f3a96c59277b4df179f5c464e404a",
+                "name": "Jubilee Reading Room",
+                "locality": "Burwell",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.201616,
+                    52.547036
+                ]
+            },
+            "properties": {
+                "id": "be9be529e9560f4cd215eb5be246951b277177f8",
+                "name": "Christchurch Parish Council Noticeboard",
+                "locality": "Christchurch",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.059852,
+                    52.132377
+                ]
+            },
+            "properties": {
+                "id": "fdd6c062af6502b58be0717bca31c26de718b395",
+                "name": "Harcamlow Way Trail Marker in Arrington",
+                "locality": "Wimpole",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.200471,
+                    52.545567
+                ]
+            },
+            "properties": {
+                "id": "5f6a2d7d7f8d956696209059016de0fc31e565f5",
+                "name": "The Church at Christchurch.",
+                "locality": "Christchurch",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.018652,
+                    52.314598
+                ]
+            },
+            "properties": {
+                "id": "c719dcf2edddf07332f6e2fb1f00271ebaa8d3b0",
+                "name": "Over Cricket Club",
+                "locality": "Over",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.210189,
+                    52.277266
+                ]
+            },
+            "properties": {
+                "id": "7546d3e8b3d8acb4e713c0a7bce38bcd661f2bea",
+                "name": "Offord Cluny & Offord D\u2019Arcy Parish Noticeboard",
+                "locality": "Offord Cluny and Offord D'Arcy",
                 "district": "Huntingdonshire"
             }
         }
