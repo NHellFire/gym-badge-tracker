@@ -9546,8 +9546,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.177933,
-                    52.191839
+                    0.17801,
+                    52.192005
                 ]
             },
             "properties": {
@@ -14506,8 +14506,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.161925,
-                    52.417069
+                    0.161931,
+                    52.417156
                 ]
             },
             "properties": {
@@ -23881,8 +23881,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.04713,
-                    52.14068
+                    -0.046973,
+                    52.140661
                 ]
             },
             "properties": {
@@ -25401,8 +25401,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.422717,
-                    52.196611
+                    0.422825,
+                    52.196788
                 ]
             },
             "properties": {
@@ -32825,8 +32825,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.239456,
-                    52.113902
+                    0.239413,
+                    52.113805
                 ]
             },
             "properties": {
@@ -33554,6 +33554,454 @@
                 "name": "Offord Cluny & Offord D\u2019Arcy Parish Noticeboard",
                 "locality": "Offord Cluny and Offord D'Arcy",
                 "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.194387,
+                    52.263495
+                ]
+            },
+            "properties": {
+                "id": "7a30c58a7fec5f22289a6949358d2e3a10c2b131",
+                "name": "St. John's Old Burial Ground",
+                "locality": "Waterbeach",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.230782,
+                    52.366836
+                ]
+            },
+            "properties": {
+                "id": "354f53b2c2d5fe1dc650a54ad5715bd33f894fa4",
+                "name": "Lest We Forget",
+                "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.168122,
+                    52.446879
+                ]
+            },
+            "properties": {
+                "id": "675931b673edd8042ee48a39496a020292e49c43",
+                "name": "Verity's Willow Arthouse",
+                "locality": "Ramsey",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.273804,
+                    52.425971
+                ]
+            },
+            "properties": {
+                "id": "d0edc7ac4e44addf55d8ba61b8c705e73eaa4410",
+                "name": "St Michaels and All Saints Church",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.187015,
+                    52.240242
+                ]
+            },
+            "properties": {
+                "id": "0bbfe85987ed881a5afbd0e11e24ec8d72d83497",
+                "name": "Horningsea\u2019s Beacon",
+                "locality": "Horningsea",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.18495,
+                    52.241683
+                ]
+            },
+            "properties": {
+                "id": "2208566adf258719fc86f9317156b28b79240d54",
+                "name": "St. Peter's Church",
+                "locality": "Horningsea",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.003414,
+                    52.382762
+                ]
+            },
+            "properties": {
+                "id": "f3e83e85919f5a7ffbfe7cdb2ae492b23a68553a",
+                "name": "Somersham Church Noticeboard",
+                "locality": "Somersham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.230154,
+                    52.370796
+                ]
+            },
+            "properties": {
+                "id": "108c0afbe1ec2b985b356325668e5ab2d9665b95",
+                "name": "The Wood Park Playground",
+                "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.063078,
+                    52.314397
+                ]
+            },
+            "properties": {
+                "id": "3985d04f1cfe14e7c0713cb3d4fb6f72418679ed",
+                "name": "Duke Of Wellington",
+                "locality": "Willingham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.229616,
+                    52.373058
+                ]
+            },
+            "properties": {
+                "id": "1c5ef93e009ac693c039038367d50a5f21de72d9",
+                "name": "The Rock Park Playground",
+                "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.234701,
+                    52.412515
+                ]
+            },
+            "properties": {
+                "id": "5ab82288caff54206c3a9ff67b15dce485fad60d",
+                "name": "Monks Wood Entrance Sign, Woodwalton Lane Entrance",
+                "locality": "Sawtry",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08289,
+                    52.126939
+                ]
+            },
+            "properties": {
+                "id": "70cd0eb1ebe6ef1d148d65005d805f78100e753a",
+                "name": "Woodgrill Pub",
+                "locality": "Croydon",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.132489,
+                    52.555458
+                ]
+            },
+            "properties": {
+                "id": "35aaa0fadb2e9d05b86bfe3a46e513bb8e2d36db",
+                "name": "The Letter B, Public House",
+                "locality": "Whittlesey",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.239727,
+                    52.375034
+                ]
+            },
+            "properties": {
+                "id": "2aa254d378558b11e7136cbe8224ea71a7b98103",
+                "name": "The Club at Alconbury Weald",
+                "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.150381,
+                    52.172462
+                ]
+            },
+            "properties": {
+                "id": "539ddac889af4c76f6b8cf2c6c8d2600ca699d6e",
+                "name": "The Woods and The Farms - Little Gransden Village Trail",
+                "locality": "Little Gransden",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.315252,
+                    52.376313
+                ]
+            },
+            "properties": {
+                "id": "96c078cb7fdd8aac7090812ac1400ebc0ef06b2b",
+                "name": "Buckworth Village Sign",
+                "locality": "Buckworth",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.18053,
+                    52.15959
+                ]
+            },
+            "properties": {
+                "id": "6736169417d0cee312eb1d76b634940ffb4dbf64",
+                "name": "The Gallops",
+                "locality": "Stapleford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.148308,
+                    52.372523
+                ]
+            },
+            "properties": {
+                "id": "1d4cae4213911bf6e76d3cf7f5865afd7ff7669c",
+                "name": "The Pathfinder Long Distance Walk",
+                "locality": "Kings Ripton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.237023,
+                    52.370385
+                ]
+            },
+            "properties": {
+                "id": "d67bbeeac82fd4abb82b57653caddb038668987e",
+                "name": "unknown",
+                "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.312437,
+                    52.356498
+                ]
+            },
+            "properties": {
+                "id": "f247cc2e5b35fa56b8cb7aba799c59894843af20",
+                "name": "Queen Victoria Postbox, Woolley",
+                "locality": "Barham and Woolley",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.268607,
+                    52.436512
+                ]
+            },
+            "properties": {
+                "id": "b0ca3cad0339b78d8e7f09a630f2240c834873af",
+                "name": "Open fields and sawtry colts home ground",
+                "locality": "Sawtry",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.048028,
+                    52.312127
+                ]
+            },
+            "properties": {
+                "id": "dd02bcdf59d266efb30f18cd75d8db312c5ddf2b",
+                "name": "Looking Glass Caf\u00e9",
+                "locality": "Over",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.044139,
+                    52.155474
+                ]
+            },
+            "properties": {
+                "id": "a006bbee0f30c8961cff97d75c8a4e1245447e75",
+                "name": "Wimpole Way Trail Sign",
+                "locality": "Wimpole",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.28755,
+                    52.483768
+                ]
+            },
+            "properties": {
+                "id": "172c4963d7d70088d2181b4da8a07141926881a3",
+                "name": "Stilton Pavilion",
+                "locality": "Stilton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.272474,
+                    52.459158
+                ]
+            },
+            "properties": {
+                "id": "cf529666eb4199141e0515d3fc6c2b3274d44352",
+                "name": "Conington Street Sign",
+                "locality": "Conington",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.230821,
+                    52.371814
+                ]
+            },
+            "properties": {
+                "id": "d7360f33fa4dadbbb1209b05c843d27da677e856",
+                "name": "Bedell Road Play Area",
+                "locality": "The Stukeleys",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.014801,
+                    52.316371
+                ]
+            },
+            "properties": {
+                "id": "b7850e3bf888a42bb83320d58abfff678edb016f",
+                "name": "Over Methodist Chapel",
+                "locality": "Over",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.011017,
+                    52.314411
+                ]
+            },
+            "properties": {
+                "id": "18bbbc654a6d18ecfa183a07448ef0c064c65e22",
+                "name": "Welcome to Over Sports FC",
+                "locality": "Over",
+                "district": "South Cambridgeshire"
             }
         }
     ]
