@@ -25401,8 +25401,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.422825,
-                    52.196788
+                    0.422871,
+                    52.1969
                 ]
             },
             "properties": {
@@ -34002,6 +34002,182 @@
                 "name": "Welcome to Over Sports FC",
                 "locality": "Over",
                 "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.03538,
+                    52.052265
+                ]
+            },
+            "properties": {
+                "id": "faa21d0cec212da91a7b860589aa19e232362da4",
+                "name": "Icknield Way Trail Markers",
+                "locality": "Melbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.019577,
+                    52.075861
+                ]
+            },
+            "properties": {
+                "id": "cbd42b2793fbbae3aa4fb71ad7e56e70f8133cec",
+                "name": "Anglo Saxon Re-burial",
+                "locality": "Melbourn",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.293752,
+                    52.112635
+                ]
+            },
+            "properties": {
+                "id": "0f6063503bcfbb8e986f0819c3ac54f3cc403765",
+                "name": "Chilford Hall Entrance",
+                "locality": "Linton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.115229,
+                    52.158927
+                ]
+            },
+            "properties": {
+                "id": "c300893aa95d786d71c978f2f6e57157713c4e28",
+                "name": "William Palmer Interpretative Centre",
+                "locality": "Little Gransden",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.071464,
+                    52.220134
+                ]
+            },
+            "properties": {
+                "id": "73c49e27ad9ea5101ac7557de2fb9b923e385160",
+                "name": "The Manor House Gates",
+                "locality": "Cambourne",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.091957,
+                    52.291402
+                ]
+            },
+            "properties": {
+                "id": "be206df1f70c99f11ca9428e27ac3f49a1855b9b",
+                "name": "Rampton Village Hall",
+                "locality": "Rampton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.093171,
+                    52.292534
+                ]
+            },
+            "properties": {
+                "id": "7b931a9bdbd27fffd3cb38d787304f5da8657189",
+                "name": "Rampton All Saints",
+                "locality": "Rampton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00774,
+                    52.305542
+                ]
+            },
+            "properties": {
+                "id": "d07c24c071762b22f85160d37aba8dbfe92bf33d",
+                "name": "Swavesey Drain Footbridge",
+                "locality": "Swavesey",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.232976,
+                    52.307931
+                ]
+            },
+            "properties": {
+                "id": "03f5d2080e4a237d897cd8c98fba8cf3c26e4a44",
+                "name": "Buckden Road Milestone",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.056805,
+                    52.312912
+                ]
+            },
+            "properties": {
+                "id": "c43a33a2fadf0d180ded45e75016fbef0cec77e1",
+                "name": "The Bank Micro Pub",
+                "locality": "Willingham",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.241589,
+                    52.316156
+                ]
+            },
+            "properties": {
+                "id": "689ceefc406f3a172a890cb3e21fb618adcdd174",
+                "name": "Lenton Lakes",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
             }
         }
     ]
