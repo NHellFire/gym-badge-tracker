@@ -652,7 +652,7 @@
             },
             "properties": {
                 "id": "96d30de53cb41842bd1856fb1caaefd98b2d741d",
-                "name": "Longest Covered Footbridge",
+                "name": "Carter Bridge (Longest Covered Footbridge)",
                 "locality": "Petersfield",
                 "district": "Cambridge"
             }
@@ -1494,8 +1494,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.10292,
-                    52.209385
+                    0.103069,
+                    52.209346
                 ]
             },
             "properties": {
@@ -2911,7 +2911,7 @@
             },
             "properties": {
                 "id": "51b7e0b7dba48a15d2bc734f68d0c36924468635",
-                "name": "First World War British Biplane",
+                "name": "Royal Aircraft Factory RE8 biplane",
                 "locality": "Duxford",
                 "district": "South Cambridgeshire"
             }
@@ -13216,7 +13216,7 @@
             },
             "properties": {
                 "id": "1b6caf1dd4ff4c89b6f0cc775d7fb790f8765a08",
-                "name": "Historic Building Restoration",
+                "name": "Slepe House - Historic Building Restoration",
                 "locality": "St. Ives",
                 "district": "Huntingdonshire"
             }
@@ -13456,7 +13456,7 @@
             },
             "properties": {
                 "id": "ab04b333bd3174949679ed8d2b32dc1b07770304",
-                "name": "Oliver Cromwell's Birthplace.",
+                "name": "Oliver Cromwell's Birthplace",
                 "locality": "Huntingdon",
                 "district": "Huntingdonshire"
             }
@@ -18080,7 +18080,7 @@
             },
             "properties": {
                 "id": "e8d19a5b97afe870be38b6f7a62ef0ef218279b6",
-                "name": "Darwin green arch",
+                "name": "Darwin Green Arch",
                 "locality": "Castle",
                 "district": "Cambridge"
             }
@@ -24079,7 +24079,7 @@
             },
             "properties": {
                 "id": "8f305741d36444d4e9e57be5e0930ad3240c988b",
-                "name": "Beech leaf benches",
+                "name": "Beech Leaf Benches",
                 "locality": "Hardwick",
                 "district": "South Cambridgeshire"
             }
@@ -27129,8 +27129,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.271029,
-                    52.212087
+                    -0.270829,
+                    52.212121
                 ]
             },
             "properties": {
@@ -31081,8 +31081,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.131169,
-                    52.194979
+                    0.131021,
+                    52.195088
                 ]
             },
             "properties": {
@@ -31871,7 +31871,7 @@
             },
             "properties": {
                 "id": "ae13151e7e5d3063c20f3891c9101260f4e31182",
-                "name": "Priory Woods",
+                "name": "East Entrance - Priory Woods",
                 "locality": "Burwell",
                 "district": "East Cambridgeshire"
             }
@@ -34831,7 +34831,7 @@
             },
             "properties": {
                 "id": "e682bec61d1b7af85d7701e98cc3e50cc213cb4f",
-                "name": "Swansley Park Lake map and information sign",
+                "name": "Swansley Park Lake map and information sign (southern bank)",
                 "locality": "Caxton",
                 "district": "South Cambridgeshire"
             }
@@ -34847,7 +34847,7 @@
             },
             "properties": {
                 "id": "a1a569e3d6f8749edef8cb0a7bef282f8f804bc0",
-                "name": "Cambourne to Childerley walking trail sign",
+                "name": "Cambourne to Childerley Public Byway",
                 "locality": "Knapwell",
                 "district": "South Cambridgeshire"
             }
@@ -35663,7 +35663,7 @@
             },
             "properties": {
                 "id": "7c0c2a9ed14ab529b98430bcc89026abb80828e5",
-                "name": "Northstowe inholm public play area",
+                "name": "Northstowe Inholm Play Area",
                 "locality": "Longstanton",
                 "district": "South Cambridgeshire"
             }
@@ -35823,7 +35823,7 @@
             },
             "properties": {
                 "id": "bf5bc97168f5a0893e84c6bd6485c1ba298c03e4",
-                "name": "Children's wooden playground",
+                "name": "Bohemia Place Wooden Playground",
                 "locality": "Fordham",
                 "district": "East Cambridgeshire"
             }
@@ -35841,6 +35841,390 @@
                 "id": "47a1126a3f29463461a2912424bfb9b0c7debb67",
                 "name": "Clay Farm Turf Football Pitches",
                 "locality": "Trumpington",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.249317,
+                    52.324836
+                ]
+            },
+            "properties": {
+                "id": "e8ed68c3b8d63efc20cfdab499312476b9ce761c",
+                "name": "Death And Burial - Journey Into The Past, The Archaeology Of The A14",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.130093,
+                    52.096805
+                ]
+            },
+            "properties": {
+                "id": "40215ff63917380a0a32b16817beea7d559761f5",
+                "name": "Whittlesford Parish Council Sign",
+                "locality": "Whittlesford",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.083687,
+                    52.227964
+                ]
+            },
+            "properties": {
+                "id": "afecf2f4ebfe85df43144d4710a7e3ba6b0080ac",
+                "name": "Girton Column",
+                "locality": "Girton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.022003,
+                    52.287483
+                ]
+            },
+            "properties": {
+                "id": "4547ecb4418691e111874682a4f729db1fc2c326",
+                "name": "Pathfinder Walk Trail Marker (Ramper Road)",
+                "locality": "Swavesey",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.27714,
+                    52.316334
+                ]
+            },
+            "properties": {
+                "id": "ed6e1183b5d52ec297c5b61cc05ff3a7d806ba9c",
+                "name": "High Chair !",
+                "locality": "Brampton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.089623,
+                    52.208371
+                ]
+            },
+            "properties": {
+                "id": "fea8a91b25f20d258b9dea6a34f6ecc7a9c10a6a",
+                "name": "Coton Path Trail Markers",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.065246,
+                    52.337443
+                ]
+            },
+            "properties": {
+                "id": "394ab9f56f0f017a6e70d415a4e6f55f1784f593",
+                "name": "Kratos Gym.",
+                "locality": "St. Ives",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.081473,
+                    52.577909
+                ]
+            },
+            "properties": {
+                "id": "65a17ffde89e65266bdc3fc8ebc8fb51ab9750db",
+                "name": "Our Local Wildlife",
+                "locality": "March",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.076299,
+                    52.584806
+                ]
+            },
+            "properties": {
+                "id": "56e5b64db16b15d3e779052fbab4706f72314c41",
+                "name": "Welcome to Whitenoor Nature Reserve",
+                "locality": "March",
+                "district": "Fenland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.083732,
+                    52.209611
+                ]
+            },
+            "properties": {
+                "id": "0168c2310998ad2b373a7e028c82597c8497f768",
+                "name": "Plaque of \"Dear World... Yours, Cambridge\"",
+                "locality": "Newnham",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.175686,
+                    52.219648
+                ]
+            },
+            "properties": {
+                "id": "04e57143eb86199e1df434b27a69ef7a0e7adc7f",
+                "name": "C17th \/ C18th Stone Horse Mounting Block",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.065281,
+                    52.204998
+                ]
+            },
+            "properties": {
+                "id": "33e431210cb45adad7322466421c26877aade398",
+                "name": "Welcome to Coton Countryside Reserve",
+                "locality": "Coton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.096259,
+                    52.224107
+                ]
+            },
+            "properties": {
+                "id": "a4b40a9723cb05d1b84b2f4cd00b071cd366e0bd",
+                "name": "Spiral Metal Tree",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.096843,
+                    52.224518
+                ]
+            },
+            "properties": {
+                "id": "64fa6771cb63d07054bf94f5003ab0a99c37a327",
+                "name": "Crop Science Centre",
+                "locality": "Castle",
+                "district": "Cambridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.282275,
+                    52.215293
+                ]
+            },
+            "properties": {
+                "id": "b9e55ee6ad79ddd8ce7897aaf4f687c1b6abb985",
+                "name": "Ouse Valley Way Trail Marker, Pocket Park West",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.164226,
+                    52.250185
+                ]
+            },
+            "properties": {
+                "id": "561e2afc9b81e014adc6009ee58636e41fb3b2d8",
+                "name": "Milton Cemetery",
+                "locality": "Milton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.018179,
+                    52.307609
+                ]
+            },
+            "properties": {
+                "id": "fbc193f663a91b6296c8b8271dd28bcb95291ac0",
+                "name": "321 Run England - North East of Trout Pond",
+                "locality": "Swavesey",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.291284,
+                    52.22785
+                ]
+            },
+            "properties": {
+                "id": "181323228d189cc10ca888f556d6eecaa3523507",
+                "name": "First world war 1914-1918 commemorating the centenary tree plaque",
+                "locality": "St. Neots",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.25126,
+                    52.409127
+                ]
+            },
+            "properties": {
+                "id": "c35233e170577e6f622b684ddbac8f39f9abf398",
+                "name": "Ely Leisure Village",
+                "locality": "Ely",
+                "district": "East Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12174,
+                    52.38168
+                ]
+            },
+            "properties": {
+                "id": "84892ae2baaca66805d0d7619df7c28f37b89cc4",
+                "name": "Sapphire Anniversary Memorial Bench",
+                "locality": "Broughton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.073165,
+                    52.306392
+                ]
+            },
+            "properties": {
+                "id": "52bede9d0b499aa68e96e78b253a52daef1bda1b",
+                "name": "Crystal lakes scrappy fisherman",
+                "locality": "Fenstanton",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.011626,
+                    52.313376
+                ]
+            },
+            "properties": {
+                "id": "faa119216625de7c280241984adbef2555ec54aa",
+                "name": "Over Cricket Pitch",
+                "locality": "Over",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.296757,
+                    52.306656
+                ]
+            },
+            "properties": {
+                "id": "d2ab9d7277f0c7b12027bc787081a6e1089823d1",
+                "name": "Grafham Water Tower",
+                "locality": "Grafham",
+                "district": "Huntingdonshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.103248,
+                    52.212087
+                ]
+            },
+            "properties": {
+                "id": "02dc542b4591ce5a86bfcf9c68807895b0c2e5e5",
+                "name": "Pointing Figure With a Child (1966)",
+                "locality": "Castle",
                 "district": "Cambridge"
             }
         }
