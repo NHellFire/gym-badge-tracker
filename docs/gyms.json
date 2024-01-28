@@ -36227,6 +36227,38 @@
                 "locality": "Castle",
                 "district": "Cambridge"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.177553,
+                    52.23579
+                ]
+            },
+            "properties": {
+                "id": "48c6caf980a812dcf3b13f17672538f41e7596dd",
+                "name": "Harcamlow Way and Fen Rivers Way Trail Markers - Horningsea",
+                "locality": "Fen Ditton",
+                "district": "South Cambridgeshire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.001985,
+                    52.204971
+                ]
+            },
+            "properties": {
+                "id": "a2e31fc934eb0a2a85669097371717e621b4e49e",
+                "name": "Johnson Drive Play Area",
+                "locality": "Hardwick",
+                "district": "South Cambridgeshire"
+            }
         }
     ]
 }
